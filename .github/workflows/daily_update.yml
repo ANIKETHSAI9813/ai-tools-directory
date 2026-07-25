@@ -2,9 +2,11 @@ name: Daily Auto-Update Directory
 
 on:
   schedule:
-    # Runs automatically every day at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual run button in GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-directory:
@@ -12,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
