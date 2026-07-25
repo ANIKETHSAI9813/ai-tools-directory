@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Scribely AI",
+    "description": "A long-form writing assistant that drafts, edits, and restructures articles while keeping your voice consistent across every piece.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://example.com/scribely?ref=yourid",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Voxframe",
+    "description": "Turns a single script into studio-quality voiceover and synced video in minutes, with support for 40+ languages and accents.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://example.com/voxframe?ref=yourid",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Codemate",
+    "description": "An in-editor pair programmer that reviews pull requests, explains legacy code, and writes tests before you finish typing.",
+    "category": "Coding & Dev",
+    "affiliate_link": "https://example.com/codemate?ref=yourid",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "Flowdesk",
+    "description": "Automates the busywork between your calendar, inbox, and task list so meetings turn into action items automatically.",
+    "category": "Productivity",
+    "affiliate_link": "https://example.com/flowdesk?ref=yourid",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Pixelmind",
+    "description": "Generates on-brand product photography and marketing visuals from a single reference image and a short prompt.",
+    "category": "Image & Design",
+    "affiliate_link": "https://example.com/pixelmind?ref=yourid",
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "Snaplogic Notes",
+    "description": "Converts messy meeting audio into structured notes, decisions, and follow-up tasks synced straight to your workspace.",
+    "category": "Productivity",
+    "affiliate_link": "https://example.com/snaplogic?ref=yourid",
+    "featured": false
+  }
+]
