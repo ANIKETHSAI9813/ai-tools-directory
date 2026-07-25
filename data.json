@@ -1,170 +1,67 @@
 [
   {
     "id": "1",
-    "name": "Scribely AI",
-    "description": "A long-form writing assistant that drafts, edits, and restructures articles while keeping your voice consistent across every piece.",
+    "name": "ChatGPT",
+    "description": "Conversational AI model capable of answering questions, generating text, and writing code.",
     "category": "Text & Writing",
-    "affiliate_link": "https://example.com/scribely?ref=yourid",
+    "affiliate_link": "https://chatgpt.com",
     "featured": true
   },
   {
     "id": "2",
-    "name": "Voxframe",
-    "description": "Turns a single script into studio-quality voiceover and synced video in minutes, with support for 40+ languages and accents.",
-    "category": "Video & Audio",
-    "affiliate_link": "https://example.com/voxframe?ref=yourid",
+    "name": "Claude",
+    "description": "Next-generation AI assistant built by Anthropic for reasoning, writing, and coding tasks.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://claude.ai",
     "featured": true
   },
   {
     "id": "3",
-    "name": "Codemate",
-    "description": "An in-editor pair programmer that reviews pull requests, explains legacy code, and writes tests before you finish typing.",
-    "category": "Coding & Dev",
-    "affiliate_link": "https://example.com/codemate?ref=yourid",
-    "featured": false
+    "name": "Perplexity AI",
+    "description": "AI-powered conversational search engine delivering real-time answers with source citations.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.perplexity.ai",
+    "featured": true
   },
   {
     "id": "4",
-    "name": "Flowdesk",
-    "description": "Automates the busywork between your calendar, inbox, and task list so meetings turn into action items automatically.",
-    "category": "Productivity",
-    "affiliate_link": "https://example.com/flowdesk?ref=yourid",
+    "name": "Midjourney",
+    "description": "Generative AI program creating ultra-realistic and stylized visual images from natural text prompts.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.midjourney.com",
     "featured": false
   },
   {
     "id": "5",
-    "name": "Pixelmind",
-    "description": "Generates on-brand product photography and marketing visuals from a single reference image and a short prompt.",
-    "category": "Image & Design",
-    "affiliate_link": "https://example.com/pixelmind?ref=yourid",
-    "featured": true
+    "name": "ElevenLabs",
+    "description": "Prime AI voice generator that creates natural, human-like voiceovers in multiple languages.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://elevenlabs.io",
+    "featured": false
   },
   {
     "id": "6",
-    "name": "Snaplogic Notes",
-    "description": "Converts messy meeting audio into structured notes, decisions, and follow-up tasks synced straight to your workspace.",
+    "name": "Cursor",
+    "description": "AI-first code editor designed for pair-programming and generating entire software features.",
+    "category": "Coding & Dev",
+    "affiliate_link": "https://www.cursor.com",
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Runway",
+    "description": "Applied AI research company offering suite tools for video generation and video editing.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://runwayml.com",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Notion AI",
+    "description": "Integrated AI assistant to help draft documents, summarize notes, and organize workspace data.",
     "category": "Productivity",
-    "affiliate_link": "https://example.com/snaplogic?ref=yourid",
-    "featured": false
-  },
-  {
-    "id": "61542007ed46",
-    "name": "Android May Soon Restrict On-Device ADB",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "featured": false
-  },
-  {
-    "id": "e75df1016aa1",
-    "name": "Claude Opus 5",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.anthropic.com/news/claude-opus-5",
-    "featured": false
-  },
-  {
-    "id": "84e2664bd5f9",
-    "name": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "featured": false
-  },
-  {
-    "id": "775f18a37205",
-    "name": "ARC-AGI Leaderboard",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://arcprize.org/leaderboard",
-    "featured": false
-  },
-  {
-    "id": "f244f4d4e7a6",
-    "name": "Building a Tiny 3D Renderer for a Tiny Handheld",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-    "featured": false
-  },
-  {
-    "id": "d221684ef741",
-    "name": "NYC Apartment Aquaponics",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://erinmurphy.dev/projects/project-2/",
-    "featured": false
-  },
-  {
-    "id": "d38f640d28a4",
-    "name": "Kyber (YC W23) Is Hiring a Head of Engineering",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-    "featured": false
-  },
-  {
-    "id": "26ec644d2b8f",
-    "name": "GC and Exceptions in Wasmtime",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "featured": false
-  },
-  {
-    "id": "0977774c33d0",
-    "name": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-    "featured": false
-  },
-  {
-    "id": "174358ddfced",
-    "name": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "featured": false
-  },
-  {
-    "id": "46d5dba7230c",
-    "name": "Extinct Media Museum Tokyo",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://extinct-media-museum.blog.jp/otemachi/",
-    "featured": false
-  },
-  {
-    "id": "70b0fd3555ed",
-    "name": "Postgres LISTEN/NOTIFY actually scales",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "featured": false
-  },
-  {
-    "id": "e616440e259b",
-    "name": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://artificialanalysis.ai/models",
-    "featured": false
-  },
-  {
-    "id": "58e741285545",
-    "name": "PyPI Blog: Releases now reject new files after 14 days",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "featured": false
-  },
-  {
-    "id": "209d29820bec",
-    "name": "India's first privately-developed rocket reaches orbit on debut launch",
-    "description": "Comments",
-    "category": "AI & Tech",
-    "affiliate_link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "affiliate_link": "https://www.notion.so",
     "featured": false
   }
 ]
+
