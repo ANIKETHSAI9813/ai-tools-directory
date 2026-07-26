@@ -1,5 +1,85 @@
 [
   {
+    "id": "9",
+    "name": "FluentDB",
+    "description": "Newly launched AI product: FluentDB",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/fluentdb-2",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Second Brain for Mac and Windows",
+    "description": "Newly launched AI product: Second Brain for Mac and Windows",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/second-brain-cloudflare",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Heard",
+    "description": "Newly launched AI product: Heard",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/heard-2",
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "ADE",
+    "description": "Newly launched AI product: ADE",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/ade-agentic-development-environment",
+    "featured": false
+  },
+  {
+    "id": "13",
+    "name": "Health in ChatGPT",
+    "description": "Newly launched AI product: Health in ChatGPT",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/openai",
+    "featured": false
+  },
+  {
+    "id": "14",
+    "name": "Velane",
+    "description": "Newly launched AI product: Velane",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/velane",
+    "featured": false
+  },
+  {
+    "id": "15",
+    "name": "Speech To Markdown",
+    "description": "Newly launched AI product: Speech To Markdown",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/speech-to-markdown",
+    "featured": false
+  },
+  {
+    "id": "16",
+    "name": "Seller by Facebook",
+    "description": "Newly launched AI product: Seller by Facebook",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/seller-by-facebook",
+    "featured": false
+  },
+  {
+    "id": "17",
+    "name": "OpenComputer",
+    "description": "Newly launched AI product: OpenComputer",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/opencomputer",
+    "featured": false
+  },
+  {
+    "id": "18",
+    "name": "Pushary",
+    "description": "Newly launched AI product: Pushary",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/pushary",
+    "featured": false
+  },
+  {
     "id": "1",
     "name": "ChatGPT",
     "description": "Conversational AI model capable of answering questions, generating text, and writing code.",
@@ -64,4 +144,3 @@
     "featured": false
   }
 ]
-
