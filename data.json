@@ -1,5 +1,37 @@
 [
   {
+    "id": "19",
+    "name": "Athena by Shoplazza",
+    "description": "Newly launched AI product: Athena by Shoplazza",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/athena-by-shoplazza",
+    "featured": false
+  },
+  {
+    "id": "20",
+    "name": "Aymo AI",
+    "description": "Newly launched AI product: Aymo AI",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/aymo-ai",
+    "featured": false
+  },
+  {
+    "id": "21",
+    "name": "Openbase",
+    "description": "Newly launched AI product: Openbase",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/openbase-2",
+    "featured": false
+  },
+  {
+    "id": "22",
+    "name": "BrainFeed",
+    "description": "Newly launched AI product: BrainFeed",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/brainfeed-scroll-better",
+    "featured": false
+  },
+  {
     "id": "9",
     "name": "FluentDB",
     "description": "Newly launched AI product: FluentDB",
