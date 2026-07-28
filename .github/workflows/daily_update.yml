@@ -1,36 +1,38 @@
-name: Daily Auto-Update Directory
+name: Auto-update tools directory
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # Runs daily at 08:00 UTC. Adjust the cron expression to change timing.
+    - cron: "0 8 * * *"
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
 
+# Grants the built-in GITHUB_TOKEN permission to push commits back to the repo.
 permissions:
   contents: write
 
 jobs:
-  update-directory:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.12"
 
-      - name: Run Auto-Updater
-        run: python updater.py
+      - name: Run updater
+        run: python3 updater.py --data data.json --limit 15
 
-      - name: Commit and Push changes
+      - name: Commit and push if data.json changed
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if git diff --quiet -- data.json; then
+            echo "No new tools found — nothing to commit."
+            exit 0
+          fi
+          git config user.name "tools-directory-bot"
+          git config user.email "actions@users.noreply.github.com"
           git add data.json
-          git diff-index --quiet HEAD || git commit -m "Auto-updated tool directory data [skip ci]"
+          git commit -m "chore: auto-update tools directory [skip ci]"
           git push
-
-
