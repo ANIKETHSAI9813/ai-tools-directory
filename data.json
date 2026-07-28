@@ -1,258 +1,50 @@
 [
   {
-    "id": "23",
-    "name": "Illume Labs",
-    "description": "Newly launched AI product: Illume Labs",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/illume-labs",
-    "featured": false
-  },
-  {
-    "id": "24",
-    "name": "iMessage Hermes on a Raspberry Pi",
-    "description": "Newly launched AI product: iMessage Hermes on a Raspberry Pi",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
-    "featured": false
-  },
-  {
-    "id": "25",
-    "name": "Repaint Socials",
-    "description": "Newly launched AI product: Repaint Socials",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/repaint-ai-website-builder",
-    "featured": false
-  },
-  {
-    "id": "26",
-    "name": "Comms",
-    "description": "Newly launched AI product: Comms",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
-    "featured": false
-  },
-  {
-    "id": "27",
-    "name": "Estera",
-    "description": "Newly launched AI product: Estera",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/estera",
-    "featured": false
-  },
-  {
-    "id": "28",
-    "name": "Grok 4.5",
-    "description": "Newly launched AI product: Grok 4.5",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/grok",
-    "featured": false
-  },
-  {
-    "id": "29",
-    "name": "Artifacts by Databox",
-    "description": "Newly launched AI product: Artifacts by Databox",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/databox",
-    "featured": false
-  },
-  {
-    "id": "30",
-    "name": "Webhound",
-    "description": "Newly launched AI product: Webhound",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/webhound",
-    "featured": false
-  },
-  {
-    "id": "31",
-    "name": "Adomate",
-    "description": "Newly launched AI product: Adomate",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/adomate",
-    "featured": false
-  },
-  {
-    "id": "32",
-    "name": "Claude Opus 5",
-    "description": "Newly launched AI product: Claude Opus 5",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/claude",
-    "featured": false
-  },
-  {
-    "id": "19",
-    "name": "Athena by Shoplazza",
-    "description": "Newly launched AI product: Athena by Shoplazza",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/athena-by-shoplazza",
-    "featured": false
-  },
-  {
-    "id": "20",
-    "name": "Aymo AI",
-    "description": "Newly launched AI product: Aymo AI",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/aymo-ai",
-    "featured": false
-  },
-  {
-    "id": "21",
-    "name": "Openbase",
-    "description": "Newly launched AI product: Openbase",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/openbase-2",
-    "featured": false
-  },
-  {
-    "id": "22",
-    "name": "BrainFeed",
-    "description": "Newly launched AI product: BrainFeed",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/brainfeed-scroll-better",
-    "featured": false
-  },
-  {
-    "id": "9",
-    "name": "FluentDB",
-    "description": "Newly launched AI product: FluentDB",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/fluentdb-2",
-    "featured": false
-  },
-  {
-    "id": "10",
-    "name": "Second Brain for Mac and Windows",
-    "description": "Newly launched AI product: Second Brain for Mac and Windows",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/second-brain-cloudflare",
-    "featured": false
-  },
-  {
-    "id": "11",
-    "name": "Heard",
-    "description": "Newly launched AI product: Heard",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/heard-2",
-    "featured": false
-  },
-  {
-    "id": "12",
-    "name": "ADE",
-    "description": "Newly launched AI product: ADE",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/ade-agentic-development-environment",
-    "featured": false
-  },
-  {
-    "id": "13",
-    "name": "Health in ChatGPT",
-    "description": "Newly launched AI product: Health in ChatGPT",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/openai",
-    "featured": false
-  },
-  {
-    "id": "14",
-    "name": "Velane",
-    "description": "Newly launched AI product: Velane",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/velane",
-    "featured": false
-  },
-  {
-    "id": "15",
-    "name": "Speech To Markdown",
-    "description": "Newly launched AI product: Speech To Markdown",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/speech-to-markdown",
-    "featured": false
-  },
-  {
-    "id": "16",
-    "name": "Seller by Facebook",
-    "description": "Newly launched AI product: Seller by Facebook",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/seller-by-facebook",
-    "featured": false
-  },
-  {
-    "id": "17",
-    "name": "OpenComputer",
-    "description": "Newly launched AI product: OpenComputer",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/opencomputer",
-    "featured": false
-  },
-  {
-    "id": "18",
-    "name": "Pushary",
-    "description": "Newly launched AI product: Pushary",
-    "category": "AI & Tech",
-    "affiliate_link": "https://www.producthunt.com/products/pushary",
-    "featured": false
-  },
-  {
     "id": "1",
-    "name": "ChatGPT",
-    "description": "Conversational AI model capable of answering questions, generating text, and writing code.",
+    "name": "Scribely AI",
+    "description": "A long-form writing assistant that drafts, edits, and restructures articles while keeping your voice consistent across every piece.",
     "category": "Text & Writing",
-    "affiliate_link": "https://chatgpt.com",
+    "affiliate_link": "https://example.com/scribely?ref=yourid",
     "featured": true
   },
   {
     "id": "2",
-    "name": "Claude",
-    "description": "Next-generation AI assistant built by Anthropic for reasoning, writing, and coding tasks.",
-    "category": "Text & Writing",
-    "affiliate_link": "https://claude.ai",
+    "name": "Voxframe",
+    "description": "Turns a single script into studio-quality voiceover and synced video in minutes, with support for 40+ languages and accents.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://example.com/voxframe?ref=yourid",
     "featured": true
   },
   {
     "id": "3",
-    "name": "Perplexity AI",
-    "description": "AI-powered conversational search engine delivering real-time answers with source citations.",
-    "category": "Productivity",
-    "affiliate_link": "https://www.perplexity.ai",
-    "featured": true
+    "name": "Codemate",
+    "description": "An in-editor pair programmer that reviews pull requests, explains legacy code, and writes tests before you finish typing.",
+    "category": "Coding & Dev",
+    "affiliate_link": "https://example.com/codemate?ref=yourid",
+    "featured": false
   },
   {
     "id": "4",
-    "name": "Midjourney",
-    "description": "Generative AI program creating ultra-realistic and stylized visual images from natural text prompts.",
-    "category": "Image & Design",
-    "affiliate_link": "https://www.midjourney.com",
+    "name": "Flowdesk",
+    "description": "Automates the busywork between your calendar, inbox, and task list so meetings turn into action items automatically.",
+    "category": "Productivity",
+    "affiliate_link": "https://example.com/flowdesk?ref=yourid",
     "featured": false
   },
   {
     "id": "5",
-    "name": "ElevenLabs",
-    "description": "Prime AI voice generator that creates natural, human-like voiceovers in multiple languages.",
-    "category": "Video & Audio",
-    "affiliate_link": "https://elevenlabs.io",
-    "featured": false
-  },
-  {
-    "id": "6",
-    "name": "Cursor",
-    "description": "AI-first code editor designed for pair-programming and generating entire software features.",
-    "category": "Coding & Dev",
-    "affiliate_link": "https://www.cursor.com",
+    "name": "Pixelmind",
+    "description": "Generates on-brand product photography and marketing visuals from a single reference image and a short prompt.",
+    "category": "Image & Design",
+    "affiliate_link": "https://example.com/pixelmind?ref=yourid",
     "featured": true
   },
   {
-    "id": "7",
-    "name": "Runway",
-    "description": "Applied AI research company offering suite tools for video generation and video editing.",
-    "category": "Video & Audio",
-    "affiliate_link": "https://runwayml.com",
-    "featured": false
-  },
-  {
-    "id": "8",
-    "name": "Notion AI",
-    "description": "Integrated AI assistant to help draft documents, summarize notes, and organize workspace data.",
+    "id": "6",
+    "name": "Snaplogic Notes",
+    "description": "Converts messy meeting audio into structured notes, decisions, and follow-up tasks synced straight to your workspace.",
     "category": "Productivity",
-    "affiliate_link": "https://www.notion.so",
+    "affiliate_link": "https://example.com/snaplogic?ref=yourid",
     "featured": false
   }
 ]
