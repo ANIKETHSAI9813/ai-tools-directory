@@ -1,5 +1,85 @@
 [
   {
+    "id": "23",
+    "name": "Illume Labs",
+    "description": "Newly launched AI product: Illume Labs",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/illume-labs",
+    "featured": false
+  },
+  {
+    "id": "24",
+    "name": "iMessage Hermes on a Raspberry Pi",
+    "description": "Newly launched AI product: iMessage Hermes on a Raspberry Pi",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+    "featured": false
+  },
+  {
+    "id": "25",
+    "name": "Repaint Socials",
+    "description": "Newly launched AI product: Repaint Socials",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/repaint-ai-website-builder",
+    "featured": false
+  },
+  {
+    "id": "26",
+    "name": "Comms",
+    "description": "Newly launched AI product: Comms",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
+    "featured": false
+  },
+  {
+    "id": "27",
+    "name": "Estera",
+    "description": "Newly launched AI product: Estera",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/estera",
+    "featured": false
+  },
+  {
+    "id": "28",
+    "name": "Grok 4.5",
+    "description": "Newly launched AI product: Grok 4.5",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/grok",
+    "featured": false
+  },
+  {
+    "id": "29",
+    "name": "Artifacts by Databox",
+    "description": "Newly launched AI product: Artifacts by Databox",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/databox",
+    "featured": false
+  },
+  {
+    "id": "30",
+    "name": "Webhound",
+    "description": "Newly launched AI product: Webhound",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/webhound",
+    "featured": false
+  },
+  {
+    "id": "31",
+    "name": "Adomate",
+    "description": "Newly launched AI product: Adomate",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/adomate",
+    "featured": false
+  },
+  {
+    "id": "32",
+    "name": "Claude Opus 5",
+    "description": "Newly launched AI product: Claude Opus 5",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/claude",
+    "featured": false
+  },
+  {
     "id": "19",
     "name": "Athena by Shoplazza",
     "description": "Newly launched AI product: Athena by Shoplazza",
