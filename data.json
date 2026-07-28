@@ -1,58 +1,74 @@
 [
   {
-    "id": "1",
-    "name": "Scribely AI",
-    "description": "A long-form writing assistant that drafts, edits, and restructures articles while keeping your voice consistent across every piece.",
+    "id": "taskmagic-ai",
+    "name": "TaskMagic",
+    "description": "AI-powered browser automation that captures your manual web tasks once and turns them into no-code workflows you can run again and again.",
+    "category": "Automation",
+    "affiliate_link": "https://appsumo.8odi.net/oNbv9m",
+    "featured": true
+  },
+  {
+    "id": "heysummit",
+    "name": "HeySummit",
+    "description": "An all-in-one virtual event platform for running paid summits and webinars, handling ticketing, speaker management, and email marketing in one place.",
+    "category": "Marketing & Social",
+    "affiliate_link": "https://appsumo.8odi.net/GbqkNL",
+    "featured": true
+  },
+  {
+    "id": "inkfluence-ai",
+    "name": "Inkfluence AI",
+    "description": "Turns a single prompt into a complete, export-ready ebook, chapters, cover art, and formatting included, ready for Amazon KDP or Gumroad.",
     "category": "Text & Writing",
-    "affiliate_link": "https://example.com/scribely?ref=yourid",
+    "affiliate_link": "https://appsumo.8odi.net/xJbvGv",
+    "featured": false
+  },
+  {
+    "id": "robinreach",
+    "name": "RobinReach",
+    "description": "AI-driven social media management that schedules and generates content across nine platforms from one unified dashboard.",
+    "category": "Marketing & Social",
+    "affiliate_link": "https://appsumo.8odi.net/9VQZYy",
     "featured": true
   },
   {
-    "id": "2",
-    "name": "Voxframe",
-    "description": "Turns a single script into studio-quality voiceover and synced video in minutes, with support for 40+ languages and accents.",
+    "id": "retriever-ai",
+    "name": "Retriever AI",
+    "description": "A browser-based AI agent that reads a page's real structure to scrape data, fill forms, and complete multi-step web tasks end-to-end.",
+    "category": "Automation",
+    "affiliate_link": "https://appsumo.8odi.net/2RYemQ",
+    "featured": false
+  },
+  {
+    "id": "digi-parser",
+    "name": "Digi-Parser",
+    "description": "Extracts structured data from invoices, purchase orders, and receipts using AI, with no manual templates required.",
+    "category": "Productivity",
+    "affiliate_link": "https://appsumo.8odi.net/R0aoVb",
+    "featured": false
+  },
+  {
+    "id": "kortex",
+    "name": "Kortex",
+    "description": "A Chrome extension that captures AI chat conversations, exports sources, and automates NotebookLM-style research workflows.",
+    "category": "Productivity",
+    "affiliate_link": "https://appsumo.8odi.net/vDbvdj",
+    "featured": false
+  },
+  {
+    "id": "workflow-llm",
+    "name": "WorkFlow LLM",
+    "description": "A unified AI workspace giving teams access to 200+ models with shared organizational memory and built-in collaboration tools.",
+    "category": "Productivity",
+    "affiliate_link": "https://appsumo.8odi.net/YVoYzj",
+    "featured": false
+  },
+  {
+    "id": "yorby",
+    "name": "Yorby",
+    "description": "Generates AI-driven UGC-style videos with virtual influencers, remixes viral hooks from competitor content, and tracks trending posts.",
     "category": "Video & Audio",
-    "affiliate_link": "https://example.com/voxframe?ref=yourid",
-    "featured": true
-  },
-  {
-    "id": "3",
-    "name": "Codemate",
-    "description": "An in-editor pair programmer that reviews pull requests, explains legacy code, and writes tests before you finish typing.",
-    "category": "Coding & Dev",
-    "affiliate_link": "https://example.com/codemate?ref=yourid",
+    "affiliate_link": "https://appsumo.8odi.net/7XxVgQ",
     "featured": false
-  },
-  {
-    "id": "4",
-    "name": "Flowdesk",
-    "description": "Automates the busywork between your calendar, inbox, and task list so meetings turn into action items automatically.",
-    "category": "Productivity",
-    "affiliate_link": "https://example.com/flowdesk?ref=yourid",
-    "featured": false
-  },
-  {
-    "id": "5",
-    "name": "Pixelmind",
-    "description": "Generates on-brand product photography and marketing visuals from a single reference image and a short prompt.",
-    "category": "Image & Design",
-    "affiliate_link": "https://example.com/pixelmind?ref=yourid",
-    "featured": true
-  },
-  {
-    "id": "6",
-    "name": "Snaplogic Notes",
-    "description": "Converts messy meeting audio into structured notes, decisions, and follow-up tasks synced straight to your workspace.",
-    "category": "Productivity",
-    "affiliate_link": "https://example.com/snaplogic?ref=yourid",
-    "featured": false
-  },
-  {
-    "id": "appsumo-1",
-    "name": "AppSumo AI Deals",
-    "description": "Get huge lifetime discounts on newly launched AI software, content tools, and automation scripts.",
-    "category": "Deals & Lifetime",
-    "affiliate_link": "https://appsumo.8odi.net/4aKAjM",
-    "featured": true
   }
 ]
