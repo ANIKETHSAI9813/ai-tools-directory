@@ -46,5 +46,13 @@
     "category": "Productivity",
     "affiliate_link": "https://example.com/snaplogic?ref=yourid",
     "featured": false
+  },
+  {
+    "id": "appsumo-1",
+    "name": "AppSumo AI Deals",
+    "description": "Get huge lifetime discounts on newly launched AI software, content tools, and automation scripts.",
+    "category": "Deals & Lifetime",
+    "affiliate_link": "https://appsumo.8odi.net/4aKAjM",
+    "featured": true
   }
 ]
