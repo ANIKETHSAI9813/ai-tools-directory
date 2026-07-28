@@ -2,15 +2,14 @@
 """
 updater.py
 ==========
-Fetches the latest posts from tech/AI RSS feeds and merges them into the
-directory's data.json file, skipping anything already present.
+Fetches the latest software/AI product launches from tech feeds and merges
+them into the directory's data.json file, skipping duplicates and news articles.
 
 Standard library only -- no `pip install` required.
 
 Usage:
     python3 updater.py
     python3 updater.py --limit 15 --data ./data.json
-    python3 updater.py --feed "https://news.ycombinator.com/rss"
 """
 
 from __future__ import annotations
@@ -31,9 +30,9 @@ from xml.etree import ElementTree as ET
 # ---------------------------------------------------------------------------
 
 DEFAULT_FEEDS = [
-    "https://news.ycombinator.com/rss",
-    # Product Hunt's public RSS endpoint (may require auth / can go offline;
-    # failures here are handled gracefully and simply skipped).
+    # Show HN feed specifically targets creator product launches rather than general news
+    "https://news.ycombinator.com/showrss",
+    # Product Hunt public RSS/Atom feed
     "https://www.producthunt.com/feed",
 ]
 
@@ -46,9 +45,14 @@ DESCRIPTION_MAX_LEN = 200
 TAG_RE = re.compile(r"<[^>]+>")
 WHITESPACE_RE = re.compile(r"\s+")
 
-# Ordered keyword -> category rules. First match wins, so put more specific
-# categories before broad ones. Keep this in sync with the categories already
-# used in data.json so new pills don't fragment your existing filters.
+# Keywords in titles that indicate non-tool entries (news, blog posts, essays)
+IGNORE_KEYWORDS = [
+    "earthquake", "ask hn", "tell hn", "why i", "my thoughts",
+    "position on", "security content", "boiling water", "translation wins",
+    "benchmarking", "gpu", "macos", "golang", "study finds", "report:"
+]
+
+# Ordered keyword -> category rules. First match wins.
 CATEGORY_RULES: list[tuple[str, list[str]]] = [
     ("Automation", ["automat", "workflow", "agent", "scrape", "rpa", "zapier", "no-code", "no code"]),
     ("Marketing & Social", ["marketing", "social media", "seo", "influencer", "ugc", "webinar", "summit", "email campaign"]),
@@ -85,7 +89,7 @@ def fetch_feed(url: str) -> bytes | None:
 
 
 # ---------------------------------------------------------------------------
-# Parsing
+# Parsing & Filtering
 # ---------------------------------------------------------------------------
 
 def clean_text(raw: str | None) -> str:
@@ -104,12 +108,14 @@ def truncate(text: str, max_len: int = DESCRIPTION_MAX_LEN) -> str:
     return text[: max_len - 1].rstrip() + "…"
 
 
+def is_junk_title(title: str) -> bool:
+    """Returns True if the title matches known non-tool news/article patterns."""
+    t_lower = title.lower()
+    return any(keyword in t_lower for keyword in IGNORE_KEYWORDS)
+
+
 def parse_feed(xml_bytes: bytes, source_label: str) -> list[dict]:
-    """
-    Parse an RSS 2.0 document into a list of raw {title, link, description}
-    dicts. Any single malformed <item> is skipped rather than aborting the
-    whole feed.
-    """
+    """Parse RSS 2.0 or Atom feeds into clean tool entries."""
     items: list[dict] = []
     try:
         root = ET.fromstring(xml_bytes)
@@ -117,22 +123,59 @@ def parse_feed(xml_bytes: bytes, source_label: str) -> list[dict]:
         print(f"  ! could not parse feed from {source_label}: {exc}", file=sys.stderr)
         return items
 
-    # Standard RSS 2.0 structure: <rss><channel><item>...</item></channel></rss>
+    # 1. Standard RSS 2.0 (<item> elements)
     for item in root.findall(".//item"):
         title = item.findtext("title")
         link = item.findtext("link")
         description = item.findtext("description")
 
         if not title or not link:
-            continue  # not enough data to build a usable entry
+            continue
 
-        items.append(
-            {
-                "title": clean_text(title),
-                "link": link.strip(),
-                "description": clean_text(description) or "No description available.",
-            }
-        )
+        cleaned_title = clean_text(title)
+        # Strip "Show HN: " prefix if present
+        cleaned_title = re.sub(r"^Show HN:\s*", "", cleaned_title, flags=re.IGNORECASE)
+
+        if is_junk_title(cleaned_title):
+            continue
+
+        cleaned_desc = clean_text(description)
+        if not cleaned_desc or cleaned_desc.lower() in ["comments", "no description available."]:
+            cleaned_desc = f"{cleaned_title} - AI software and productivity tool."
+
+        items.append({
+            "title": cleaned_title,
+            "link": link.strip(),
+            "description": cleaned_desc,
+        })
+
+    # 2. Atom Feed (<entry> elements, used by Product Hunt)
+    atom_entries = root.findall(".//{http://www.w3.org/2005/Atom}entry") or root.findall(".//entry")
+    for entry in atom_entries:
+        title_elem = entry.find("{http://www.w3.org/2005/Atom}title") if entry.find("{http://www.w3.org/2005/Atom}title") is not None else entry.find("title")
+        title = title_elem.text if title_elem is not None else None
+
+        link = None
+        for l_elem in entry.findall("{http://www.w3.org/2005/Atom}link"):
+            if l_elem.get("rel") in (None, "alternate"):
+                link = l_elem.get("href")
+                break
+
+        if not title or not link:
+            continue
+
+        cleaned_title = clean_text(title)
+        if is_junk_title(cleaned_title):
+            continue
+
+        summary_elem = entry.find("{http://www.w3.org/2005/Atom}summary") or entry.find("summary")
+        cleaned_desc = clean_text(summary_elem.text) if summary_elem is not None else f"{cleaned_title} - AI tool launch."
+
+        items.append({
+            "title": cleaned_title,
+            "link": link.strip(),
+            "description": cleaned_desc,
+        })
 
     return items
 
@@ -188,10 +231,6 @@ def save_data(path: Path, data: list[dict]) -> None:
 # ---------------------------------------------------------------------------
 
 def merge_entries(existing: list[dict], new_candidates: list[dict], limit: int) -> tuple[list[dict], int]:
-    """
-    Append new_candidates to existing, skipping duplicates by id, by
-    affiliate_link, and by exact name match. Returns (merged_list, added_count).
-    """
     existing_ids = {e.get("id") for e in existing if e.get("id")}
     existing_links = {e.get("affiliate_link") for e in existing if e.get("affiliate_link")}
     existing_names = {e.get("name", "").strip().lower() for e in existing}
@@ -219,7 +258,7 @@ def merge_entries(existing: list[dict], new_candidates: list[dict], limit: int) 
 
 
 # ---------------------------------------------------------------------------
-# Main
+# Main Execution
 # ---------------------------------------------------------------------------
 
 def run(feeds: list[str], data_path: Path, limit: int, category: str) -> None:
@@ -232,53 +271,27 @@ def run(feeds: list[str], data_path: Path, limit: int, category: str) -> None:
         if xml_bytes is None:
             continue
         parsed = parse_feed(xml_bytes, source_label=feed_url)
-        print(f"    parsed {len(parsed)} item(s)")
+        print(f"    parsed {len(parsed)} valid product item(s)")
         raw_items.extend(parsed)
 
     if not raw_items:
-        print("No items were fetched from any feed. data.json left unchanged.")
+        print("No tool items were fetched. data.json left unchanged.")
         return
 
-    # Respect the 10-15 (default 15) item cap on freshly parsed candidates
-    # before dedup, so we don't do unnecessary work on huge feeds.
-    raw_items = raw_items[: max(limit * 2, limit)]
     candidates = [to_directory_entry(item, category) for item in raw_items]
-
     existing = load_existing(data_path)
     merged, added = merge_entries(existing, candidates, limit=limit)
 
     save_data(data_path, merged)
-
     print(f"Added {added} new tool(s). Total entries in {data_path.name}: {len(merged)}")
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Fetch tech/AI RSS feeds into data.json")
-    parser.add_argument(
-        "--feed",
-        action="append",
-        dest="feeds",
-        help="Feed URL to fetch (can be passed multiple times). Defaults to built-in list.",
-    )
-    parser.add_argument(
-        "--data",
-        default="data.json",
-        help="Path to the directory's data.json file (default: ./data.json)",
-    )
-    parser.add_argument(
-        "--limit",
-        type=int,
-        default=DEFAULT_LIMIT,
-        help=f"Max number of new entries to add per run (default: {DEFAULT_LIMIT})",
-    )
-    parser.add_argument(
-        "--category",
-        default=None,
-        help=(
-            "Force this category on every new entry instead of auto-guessing "
-            f'from keywords (auto-guess falls back to "{DEFAULT_CATEGORY}" if nothing matches)'
-        ),
-    )
+    parser = argparse.ArgumentParser(description="Fetch software launches into data.json")
+    parser.add_argument("--feed", action="append", dest="feeds", help="Feed URL to fetch.")
+    parser.add_argument("--data", default="data.json", help="Path to data.json")
+    parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT, help="Max items to add")
+    parser.add_argument("--category", default=None, help="Force category")
     return parser.parse_args(argv)
 
 
