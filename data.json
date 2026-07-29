@@ -70,5 +70,125 @@
     "category": "Video & Audio",
     "affiliate_link": "https://appsumo.8odi.net/7XxVgQ",
     "featured": false
+  },
+  {
+    "id": "87177a57b968",
+    "name": "I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "description": "I was tired of opening 2 tabs for every HN link, so I made a userscript - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/twalichiewicz/HNewhere",
+    "featured": false
+  },
+  {
+    "id": "0ad5b94bb775",
+    "name": "Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "description": "Vimgolf.ai – Learn Vim by playing through a map of levels - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vimgolf.ai",
+    "featured": false
+  },
+  {
+    "id": "58bb0c473d69",
+    "name": "How far do I have to go to run into 100k people?",
+    "description": "How far do I have to go to run into 100k people? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://imjasonh.github.io/playground/population-rays/",
+    "featured": false
+  },
+  {
+    "id": "7ddad8bba501",
+    "name": "Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "description": "Lean4 Datalog DSL Based on Google Zanzibar for AI Projects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jagg-ix/zil-lean",
+    "featured": false
+  },
+  {
+    "id": "cac773abedc1",
+    "name": "Firemaps Spain – Live wildfire map with wind flow for ES and PT",
+    "description": "Firemaps Spain – Live wildfire map with wind flow for ES and PT - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://firemapsspain.online/",
+    "featured": false
+  },
+  {
+    "id": "b2f8133dab47",
+    "name": "Learning Rust by writing a Markdown to HTML compiler",
+    "description": "Learning Rust by writing a Markdown to HTML compiler - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "featured": false
+  },
+  {
+    "id": "a47caeb26666",
+    "name": "Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "description": "Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "featured": false
+  },
+  {
+    "id": "11c5c1a42dbd",
+    "name": "I made a convenient file sharing service (NOT A STARTUP)",
+    "description": "I made a convenient file sharing service (NOT A STARTUP) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://coldfiles.dev/",
+    "featured": false
+  },
+  {
+    "id": "63c5d335b460",
+    "name": "Scala Tutorials – interactive Scala 3 lessons in the browser",
+    "description": "Scala Tutorials – interactive Scala 3 lessons in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://scalatutorials.com",
+    "featured": false
+  },
+  {
+    "id": "b8af26b299e3",
+    "name": "Game Boy on the Beam – A DMG Emulator in Pure Elixir",
+    "description": "Game Boy on the Beam – A DMG Emulator in Pure Elixir - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gb-dmg.live/",
+    "featured": false
+  },
+  {
+    "id": "e303152436fe",
+    "name": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+    "description": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/kyle-visner/magpie",
+    "featured": false
+  },
+  {
+    "id": "1f5606ca3c41",
+    "name": "tale.fyi, we deserve a home for fiction",
+    "description": "tale.fyi, we deserve a home for fiction - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+    "featured": false
+  },
+  {
+    "id": "5e0594c10881",
+    "name": "Cynative – Read-only CLI in Go that explains your live infrastructure",
+    "description": "Cynative – Read-only CLI in Go that explains your live infrastructure - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/cynative/cynative",
+    "featured": false
+  },
+  {
+    "id": "db601b7572cf",
+    "name": "PR review time decreased by N3MO:impact analyzer (15 days free trial)",
+    "description": "PR review time decreased by N3MO:impact analyzer (15 days free trial) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://n3mo.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "c4a638f88ed4",
+    "name": "Segue – Save context in one AI, load it in another by a short handle",
+    "description": "Segue – Save context in one AI, load it in another by a short handle - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://segue.ai/",
+    "featured": false
   }
 ]
