@@ -190,5 +190,125 @@
     "category": "Productivity",
     "affiliate_link": "https://segue.ai/",
     "featured": false
+  },
+  {
+    "id": "97854c7d008d",
+    "name": "Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "description": "Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/drumih/turbo-fieldfare",
+    "featured": false
+  },
+  {
+    "id": "a7f4da59fd48",
+    "name": "CheapFoodMap – A map of good meals under $10",
+    "description": "CheapFoodMap – A map of good meals under $10 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cheapfoodmap.com/",
+    "featured": false
+  },
+  {
+    "id": "4743d6bd6438",
+    "name": "A local merge queue for parallel Claude Code agents",
+    "description": "A local merge queue for parallel Claude Code agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/funador/claude-code-merge-queue",
+    "featured": false
+  },
+  {
+    "id": "6068bc8ffba4",
+    "name": "Qwen Scribe – local transcription and dictation for Apple Silicon",
+    "description": "Qwen Scribe – local transcription and dictation for Apple Silicon - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/VladUZH/qwen-scribe",
+    "featured": false
+  },
+  {
+    "id": "323a701b27a8",
+    "name": "An app that logs your meal's calories from a photo",
+    "description": "An app that logs your meal's calories from a photo - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://btrapp.com/",
+    "featured": false
+  },
+  {
+    "id": "6f13c81e840e",
+    "name": "Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+    "description": "Kedge – Full-stack cloud with forkable VM snapshots and global SQLite - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kedge.dev/",
+    "featured": false
+  },
+  {
+    "id": "5602de5a8a12",
+    "name": "Full stack development from one codebase web, Android, and iOS",
+    "description": "Full stack development from one codebase web, Android, and iOS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/usedowe/dowe-lang",
+    "featured": false
+  },
+  {
+    "id": "29e48249839e",
+    "name": "The Federalist Papers, typeset as the 1787 newspapers they ran in",
+    "description": "The Federalist Papers, typeset as the 1787 newspapers they ran in - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://federalistreader.org/",
+    "featured": false
+  },
+  {
+    "id": "577ef72844ae",
+    "name": "Dreeve, a self-hosted dashboard for your sports and fitness data",
+    "description": "Dreeve, a self-hosted dashboard for your sports and fitness data - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dreeveapp/dreeve",
+    "featured": false
+  },
+  {
+    "id": "f67c2caf252d",
+    "name": "RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
+    "description": "RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/coderredlab/runNburn",
+    "featured": false
+  },
+  {
+    "id": "fdee09a9496f",
+    "name": "Alarium – a live 3D flight tracker built on community ADS-B",
+    "description": "Alarium – a live 3D flight tracker built on community ADS-B - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.alarium.tech",
+    "featured": false
+  },
+  {
+    "id": "afe71b9708ac",
+    "name": "Bullshit Detector – agent skills that fact-check videos and articles",
+    "description": "Bullshit Detector – agent skills that fact-check videos and articles - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "featured": false
+  },
+  {
+    "id": "df366ff60bbd",
+    "name": "Echologue – the private AI voice journal I built for myself",
+    "description": "Echologue – the private AI voice journal I built for myself - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://echologue.com/",
+    "featured": false
+  },
+  {
+    "id": "521b761710eb",
+    "name": "Always on visual context for your agents",
+    "description": "Always on visual context for your agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://useglass.up.railway.app/#",
+    "featured": false
+  },
+  {
+    "id": "f377d43193e8",
+    "name": "Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+    "description": "Legionlinuxtui – Control Lenovo legion laptops in the terminal - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nooneknowspeter/legionlinuxtui",
+    "featured": false
   }
 ]
