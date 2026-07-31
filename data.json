@@ -310,5 +310,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/nooneknowspeter/legionlinuxtui",
     "featured": false
+  },
+  {
+    "id": "bfe531c00397",
+    "name": "Gander, an Android file viewer that asks for no permissions at all",
+    "description": "Gander, an Android file viewer that asks for no permissions at all - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mokshablr/gander",
+    "featured": false
+  },
+  {
+    "id": "deedd35499fa",
+    "name": "What should the GUI for AI agents look like?",
+    "description": "What should the GUI for AI agents look like? - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://marbleos.com/demo",
+    "featured": false
+  },
+  {
+    "id": "63605ee80720",
+    "name": "A udev implementation in Guile Scheme",
+    "description": "A udev implementation in Guile Scheme - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://codeberg.org/goodev/goodev",
+    "featured": false
+  },
+  {
+    "id": "945ecdf346e3",
+    "name": "Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "description": "Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "featured": false
+  },
+  {
+    "id": "41099f9d6d37",
+    "name": "Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
+    "description": "Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/SphericalCowww/CubicDoggo_06R",
+    "featured": false
+  },
+  {
+    "id": "2ef54e42d4c5",
+    "name": "Optimize and serve models with Fable quality at half the cost",
+    "description": "Optimize and serve models with Fable quality at half the cost - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/experientiallabs/world-model-optimizer",
+    "featured": false
+  },
+  {
+    "id": "648c2cd96695",
+    "name": "I made a game where you build a CPU from logic gates",
+    "description": "I made a game where you build a CPU from logic gates - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://select.supply/game/chipbuilder",
+    "featured": false
+  },
+  {
+    "id": "5cbe418b186a",
+    "name": "A Handwritten Blogging Platform",
+    "description": "A Handwritten Blogging Platform - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://handwritten.blog/",
+    "featured": false
+  },
+  {
+    "id": "64a1dcce28a9",
+    "name": "Claude-account – switch Claude Code accounts without logging in again",
+    "description": "Claude-account – switch Claude Code accounts without logging in again - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hamzarehmandeveloper/claude-account",
+    "featured": false
+  },
+  {
+    "id": "9ab468d3fc72",
+    "name": "Tileroot – save/restore tiling WM layouts (sway, Hyprland, i3)",
+    "description": "Tileroot – save/restore tiling WM layouts (sway, Hyprland, i3) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Hinikaa/tileroot",
+    "featured": false
+  },
+  {
+    "id": "c4280302814a",
+    "name": "Noisegate – a differential-privacy gateway for untrusted AI agents",
+    "description": "Noisegate – a differential-privacy gateway for untrusted AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+    "featured": false
+  },
+  {
+    "id": "5e5be9efc0f6",
+    "name": "Local text, image, video, music and 3D from one CLI, no Python",
+    "description": "Local text, image, video, music and 3D from one CLI, no Python - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/sawfwair/mere-run",
+    "featured": false
+  },
+  {
+    "id": "2574034f5177",
+    "name": "Port Zero – How I learned to stop worrying and love PORT=0",
+    "description": "Port Zero – How I learned to stop worrying and love PORT=0 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://portzero.net/",
+    "featured": false
+  },
+  {
+    "id": "45c55a1efab5",
+    "name": "Supapool – a Supabase per coding agent in ~400 ms",
+    "description": "Supapool – a Supabase per coding agent in ~400 ms - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://supapool.io/",
+    "featured": false
+  },
+  {
+    "id": "83536b292707",
+    "name": "Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL",
+    "description": "Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://widen.dev/",
+    "featured": false
   }
 ]
