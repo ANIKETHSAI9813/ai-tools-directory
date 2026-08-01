@@ -430,5 +430,125 @@
     "category": "Productivity",
     "affiliate_link": "https://widen.dev/",
     "featured": false
+  },
+  {
+    "id": "363b2ed0645b",
+    "name": "SendPage – Paste AI-generated HTML, get a link clients can open",
+    "description": "SendPage – Paste AI-generated HTML, get a link clients can open - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sendpageapp.com",
+    "featured": false
+  },
+  {
+    "id": "c2507e5ca403",
+    "name": "Wisp – a Linux shell with Lua scripting and structured pipelines",
+    "description": "Wisp – a Linux shell with Lua scripting and structured pipelines - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Hinikaa/wisp",
+    "featured": false
+  },
+  {
+    "id": "bd2d9f3d70d5",
+    "name": "Habit Dungeon – RPG gamification that helps good habits stick",
+    "description": "Habit Dungeon – RPG gamification that helps good habits stick - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gamifyhabits.app/",
+    "featured": false
+  },
+  {
+    "id": "6604d322a0c5",
+    "name": "I worked on a new browser for 2 years, today it passed Acid 3",
+    "description": "I worked on a new browser for 2 years, today it passed Acid 3 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://code.intellios.ai/cwbrowser/",
+    "featured": false
+  },
+  {
+    "id": "1895b18d7030",
+    "name": "Lightweight, S3-compatible object storage server",
+    "description": "Lightweight, S3-compatible object storage server - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vaults3.com/",
+    "featured": false
+  },
+  {
+    "id": "055c852f59cd",
+    "name": "BitBang – Reach machines behind NAT from a browser, no account",
+    "description": "BitBang – Reach machines behind NAT from a browser, no account - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/richlegrand/bitbang-cli",
+    "featured": false
+  },
+  {
+    "id": "bb4f8e0f1bbe",
+    "name": "How to build and self-host a code review agent",
+    "description": "How to build and self-host a code review agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "featured": false
+  },
+  {
+    "id": "2586bff7ca61",
+    "name": "One no-subscriptions online search for all your agent needs",
+    "description": "One no-subscriptions online search for all your agent needs - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49131426",
+    "featured": false
+  },
+  {
+    "id": "57d808b61853",
+    "name": "Best Books Guide – curated books list with tracking, rating, reviews",
+    "description": "Best Books Guide – curated books list with tracking, rating, reviews - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://bestbooks.guide/",
+    "featured": false
+  },
+  {
+    "id": "acd709305270",
+    "name": "Open source React Native debugging studio",
+    "description": "Open source React Native debugging studio - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.nativescope.dev",
+    "featured": false
+  },
+  {
+    "id": "a786bd3cb577",
+    "name": "Slope remade in HTML5 to load instantly on any browser, any device",
+    "description": "Slope remade in HTML5 to load instantly on any browser, any device - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hurtle.site/",
+    "featured": false
+  },
+  {
+    "id": "9f241cd04153",
+    "name": "Chronos, 2 terminal games through 50 years of hacking history",
+    "description": "Chronos, 2 terminal games through 50 years of hacking history - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.chronos-game.com/",
+    "featured": false
+  },
+  {
+    "id": "2013a104ec1e",
+    "name": "SmokeVPN – All-in-One WireGuard VPN Hub – Switch Exits in Realtime",
+    "description": "SmokeVPN – All-in-One WireGuard VPN Hub – Switch Exits in Realtime - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://smokevpn.com",
+    "featured": false
+  },
+  {
+    "id": "22277ffdc8d0",
+    "name": "The Goal is simple, there should be an actual free editor",
+    "description": "The Goal is simple, there should be an actual free editor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sylixide.com",
+    "featured": false
+  },
+  {
+    "id": "c009bb41819c",
+    "name": "I built a cross-browser extension that controls fingerprinting surfaces",
+    "description": "I built a cross-browser extension that controls fingerprinting surfaces - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://privacything.com/en/",
+    "featured": false
   }
 ]
