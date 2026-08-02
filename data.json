@@ -550,5 +550,125 @@
     "category": "Productivity",
     "affiliate_link": "https://privacything.com/en/",
     "featured": false
+  },
+  {
+    "id": "407ad45120f6",
+    "name": "I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "description": "I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "featured": false
+  },
+  {
+    "id": "86e689ab9ac5",
+    "name": "Logan Basic v2.1 - An online BASIC interpreter.",
+    "description": "Logan Basic v2.1 - An online BASIC interpreter. - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sinusoft.com/loganbasic/",
+    "featured": false
+  },
+  {
+    "id": "c0ca64fbc6d4",
+    "name": "Elevators",
+    "description": "Elevators - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://john.fun/elevators",
+    "featured": false
+  },
+  {
+    "id": "de00483fa364",
+    "name": "Copy any website pixel perfect",
+    "description": "Copy any website pixel perfect - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/HarKro753/claude-copy",
+    "featured": false
+  },
+  {
+    "id": "e0972fda1f67",
+    "name": "CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+    "description": "CostPerPrompt – Live AI API pricing and real-workload cost calculators - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://costperprompt.com/",
+    "featured": false
+  },
+  {
+    "id": "229fd438d195",
+    "name": "I get 25 deep researched ideas with one single prompt",
+    "description": "I get 25 deep researched ideas with one single prompt - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ringlochid/banksia",
+    "featured": false
+  },
+  {
+    "id": "4ef1a4054101",
+    "name": "FirstEmployee.ai – Start a Business",
+    "description": "FirstEmployee.ai – Start a Business - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://firstemployee.ai/",
+    "featured": false
+  },
+  {
+    "id": "35d22b1a5738",
+    "name": "Symbio self fine-tuning AI loop",
+    "description": "Symbio self fine-tuning AI loop - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/huyedits/Symbio",
+    "featured": false
+  },
+  {
+    "id": "e72d2e7e52c9",
+    "name": "Wage Against the Machine – MacWages Index for AI Tasks",
+    "description": "Wage Against the Machine – MacWages Index for AI Tasks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://watm.ddyo.dev/",
+    "featured": false
+  },
+  {
+    "id": "cab99b34e4e8",
+    "name": "Evidence-to-Skill – a gate between untrusted sources and agent skills",
+    "description": "Evidence-to-Skill – a gate between untrusted sources and agent skills - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Sanexxxx777/evidence-to-skill",
+    "featured": false
+  },
+  {
+    "id": "92b200f6893c",
+    "name": "Crew, a local collaborative (people and agents) IDE",
+    "description": "Crew, a local collaborative (people and agents) IDE - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/JamelHammoud/crew",
+    "featured": false
+  },
+  {
+    "id": "0f0d7206d0c8",
+    "name": "I made 70K+ hand-drawn icons using AI",
+    "description": "I made 70K+ hand-drawn icons using AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://koboyo.com/icons",
+    "featured": false
+  },
+  {
+    "id": "70e769f28e82",
+    "name": "PhaseProbe – Find simulation transitions and turn them into tests",
+    "description": "PhaseProbe – Find simulation transitions and turn them into tests - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aliengineering-byte/phaseprobe",
+    "featured": false
+  },
+  {
+    "id": "e64ff0f1940b",
+    "name": "Use iPhone's camera as a lux meter",
+    "description": "Use iPhone's camera as a lux meter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.impulsearc.com/wavelength/",
+    "featured": false
+  },
+  {
+    "id": "2f76ee0b1223",
+    "name": "Understanding the ReMarkable Coordinate System",
+    "description": "Understanding the ReMarkable Coordinate System - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://scrybble.ink/blog/understanding-remarkable-coordinate-system",
+    "featured": false
   }
 ]
