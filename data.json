@@ -670,5 +670,125 @@
     "category": "Productivity",
     "affiliate_link": "https://scrybble.ink/blog/understanding-remarkable-coordinate-system",
     "featured": false
+  },
+  {
+    "id": "bc7a6f0eaf37",
+    "name": "Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "description": "Nightcrawler – A local AI pentesting agent running on a smartphone - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/garagehq/nightcrawler/",
+    "featured": false
+  },
+  {
+    "id": "37212835e9a4",
+    "name": "Isopolis – Isometric pixel map of SF",
+    "description": "Isopolis – Isometric pixel map of SF - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sf.isopolis.city/",
+    "featured": false
+  },
+  {
+    "id": "e75f7e42eb23",
+    "name": "We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+    "description": "We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "featured": false
+  },
+  {
+    "id": "04dd9313e246",
+    "name": "ssh ssh.place",
+    "description": "ssh ssh.place - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ssh.place",
+    "featured": false
+  },
+  {
+    "id": "13353e874149",
+    "name": "Make your Framework 12 sound like a creaky door",
+    "description": "Make your Framework 12 sound like a creaky door - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ArcaEge/creakwork12",
+    "featured": false
+  },
+  {
+    "id": "89374eee3982",
+    "name": "NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+    "description": "NixOS-DGX-Spark – Nix and NixOS on the DGX Spark - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/graham33/nixos-dgx-spark",
+    "featured": false
+  },
+  {
+    "id": "b205fe476244",
+    "name": "The best-paid AI/tech job anyone advertises pays $824k, not $100M",
+    "description": "The best-paid AI/tech job anyone advertises pays $824k, not $100M - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ctaio.dev/en/jobs/",
+    "featured": false
+  },
+  {
+    "id": "2565e850e7fe",
+    "name": "Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio",
+    "description": "Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio - AI software and productivity tool.",
+    "category": "Marketing & Social",
+    "affiliate_link": "https://kuvu.ai/",
+    "featured": false
+  },
+  {
+    "id": "af04e142fadc",
+    "name": "TermBoard – A TUI dashboard for Python projects",
+    "description": "TermBoard – A TUI dashboard for Python projects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/HeyShinde/TermBoard",
+    "featured": false
+  },
+  {
+    "id": "0fd01907b1a1",
+    "name": "SaaS payment integration in ~10 lines of code",
+    "description": "SaaS payment integration in ~10 lines of code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/paycan-app/paycan",
+    "featured": false
+  },
+  {
+    "id": "ae22c6300e1c",
+    "name": "Bor – Open-source policy management for Linux desktops",
+    "description": "Bor – Open-source policy management for Linux desktops - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "featured": false
+  },
+  {
+    "id": "6cf1041431d4",
+    "name": "Hacker News CLI",
+    "description": "Hacker News CLI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ViktorRingnes/hackernews",
+    "featured": false
+  },
+  {
+    "id": "130bfbb261ea",
+    "name": "Shitty – fast terminal. Memory-unsafe and faster than yours",
+    "description": "Shitty – fast terminal. Memory-unsafe and faster than yours - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/pg83/shitty",
+    "featured": false
+  },
+  {
+    "id": "4423410040aa",
+    "name": "Fuse – statically typed functional programming language",
+    "description": "Fuse – statically typed functional programming language - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://fuselang.org",
+    "featured": false
+  },
+  {
+    "id": "c6c60dfe48be",
+    "name": "Daily Math Puzzle",
+    "description": "Daily Math Puzzle - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dozenal.game",
+    "featured": false
   }
 ]
