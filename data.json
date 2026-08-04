@@ -790,5 +790,125 @@
     "category": "Productivity",
     "affiliate_link": "https://dozenal.game",
     "featured": false
+  },
+  {
+    "id": "8e9b4ad079fc",
+    "name": "Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+    "description": "Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/leonickson1/Swiftlet",
+    "featured": false
+  },
+  {
+    "id": "505dbe612d55",
+    "name": "Product analytics (and evals) for agent sessions on your MCP",
+    "description": "Product analytics (and evals) for agent sessions on your MCP - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://armature.tech/",
+    "featured": false
+  },
+  {
+    "id": "b5616ccd413a",
+    "name": "Benzi – An AI coding assistant grounded in a live code map",
+    "description": "Benzi – An AI coding assistant grounded in a live code map - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://benzi.fly.dev/",
+    "featured": false
+  },
+  {
+    "id": "8dfeca04e809",
+    "name": "Every plaintext HTTP request on your Linux box captured via eBPF",
+    "description": "Every plaintext HTTP request on your Linux box captured via eBPF - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yeet-src/httpwatch",
+    "featured": false
+  },
+  {
+    "id": "9b59252706ba",
+    "name": "New Parts for Old Computers",
+    "description": "New Parts for Old Computers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://newold.computer/",
+    "featured": false
+  },
+  {
+    "id": "e2cbf78f556b",
+    "name": "Syncular – offline-first SQL sync with TypeScript and Rust cores",
+    "description": "Syncular – offline-first SQL sync with TypeScript and Rust cores - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/syncular/syncular",
+    "featured": false
+  },
+  {
+    "id": "f7190e065734",
+    "name": "Spellfolio – my stock market game with news events and inside info",
+    "description": "Spellfolio – my stock market game with news events and inside info - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.spellfolio.com/",
+    "featured": false
+  },
+  {
+    "id": "5b57efb10f34",
+    "name": "Texpile, an open-source desktop LaTeX editor with a visual mode",
+    "description": "Texpile, an open-source desktop LaTeX editor with a visual mode - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/texpile/texpile",
+    "featured": false
+  },
+  {
+    "id": "17b4b4105476",
+    "name": "Freqcast, an Android radio player that finds streams from a website URL",
+    "description": "Freqcast, an Android radio player that finds streams from a website URL - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/z0rats/freqcast",
+    "featured": false
+  },
+  {
+    "id": "0f96bcb23d2a",
+    "name": "LarpIn – LinkedIn, but everyone admits they're larping, one global feed",
+    "description": "LarpIn – LinkedIn, but everyone admits they're larping, one global feed - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://larpin.io",
+    "featured": false
+  },
+  {
+    "id": "d6a2a9bef0c1",
+    "name": "Katharos Functional programming and CSP-style concurrency for Python",
+    "description": "Katharos Functional programming and CSP-style concurrency for Python - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kamalfarahani/katharos",
+    "featured": false
+  },
+  {
+    "id": "732f1f71ace3",
+    "name": "Svelte-rs – a Svelte compiler in Rust",
+    "description": "Svelte-rs – a Svelte compiler in Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/MrWaip/svelte-rs",
+    "featured": false
+  },
+  {
+    "id": "a30429ee9551",
+    "name": "Golars (Go Equivalent of Polars)",
+    "description": "Golars (Go Equivalent of Polars) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://guywaldman.com/posts/polars-dataframe-contributions",
+    "featured": false
+  },
+  {
+    "id": "5a0e54de814b",
+    "name": "Domo",
+    "description": "Domo - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
+    "featured": false
+  },
+  {
+    "id": "c9c640d88cb2",
+    "name": "SpeakoFlow",
+    "description": "SpeakoFlow - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/speakoflow",
+    "featured": false
   }
 ]
