@@ -910,5 +910,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/speakoflow",
     "featured": false
+  },
+  {
+    "id": "c343395b0c53",
+    "name": "Simple algorithm and color space to generate diverse skin tones",
+    "description": "Simple algorithm and color space to generate diverse skin tones - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://toneyalexander.github.io/inclusive-color-space/",
+    "featured": false
+  },
+  {
+    "id": "ca3d8e3fd5e5",
+    "name": "Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "description": "Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://deepgrove.ai/maple-preview",
+    "featured": false
+  },
+  {
+    "id": "1f0f831ad25c",
+    "name": "Systematic reporting in under an hour, not months",
+    "description": "Systematic reporting in under an hour, not months - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://octigen.com/blog/posts/2026-08-04-systematic-reporting/",
+    "featured": false
+  },
+  {
+    "id": "1d7b6885a37f",
+    "name": "Bitbead – Photo to printable bead pattern, in the browser",
+    "description": "Bitbead – Photo to printable bead pattern, in the browser - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.bitbead.app/en",
+    "featured": false
+  },
+  {
+    "id": "4ce6eeeb7112",
+    "name": "SIMD Viterbi Decoder in Rust",
+    "description": "SIMD Viterbi Decoder in Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/brian-armstrong/fec",
+    "featured": false
+  },
+  {
+    "id": "8149b6d888ff",
+    "name": "Bean Network Tester – open-source bad network simulator",
+    "description": "Bean Network Tester – open-source bad network simulator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/donislawdev/BeanNetworkTester",
+    "featured": false
+  },
+  {
+    "id": "20118f3d0b68",
+    "name": "A little physical breakout clone",
+    "description": "A little physical breakout clone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://brontosaurusrex.github.io/physical/v7/",
+    "featured": false
+  },
+  {
+    "id": "795158a7ce4e",
+    "name": "Mcpscore – validate any MCP server compliance with a new MCP version",
+    "description": "Mcpscore – validate any MCP server compliance with a new MCP version - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mcp-box/mcpscore",
+    "featured": false
+  },
+  {
+    "id": "7313dc1b970b",
+    "name": "Arabic–Hebrew artifact in GPT-5.4, 12,160 frozen trials",
+    "description": "Arabic–Hebrew artifact in GPT-5.4, 12,160 frozen trials - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zenodo.org/records/21799525",
+    "featured": false
+  },
+  {
+    "id": "8c59646bde3b",
+    "name": "Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+    "description": "Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://jido.run/blog/jido-assembly-slack-clone",
+    "featured": false
+  },
+  {
+    "id": "b57146835e0a",
+    "name": "I gave my video editor an MCP server so Claude can edit videos for me",
+    "description": "I gave my video editor an MCP server so Claude can edit videos for me - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.shorz.ai",
+    "featured": false
+  },
+  {
+    "id": "1dc1efa262f0",
+    "name": "OpenEdit – Your coding agent can now edit videos",
+    "description": "OpenEdit – Your coding agent can now edit videos - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/veedstudio/open-edit",
+    "featured": false
+  },
+  {
+    "id": "f456a4ba8875",
+    "name": "SIEMatic, a fair-sourced observability and security platform",
+    "description": "SIEMatic, a fair-sourced observability and security platform - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mcindi/siematic",
+    "featured": false
+  },
+  {
+    "id": "452a90c4159c",
+    "name": "Sign language translation with smart glasses",
+    "description": "Sign language translation with smart glasses - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aadisang/hand-wave",
+    "featured": false
+  },
+  {
+    "id": "ccf16ac21330",
+    "name": "AI gateway open source integrated with cursor and open router",
+    "description": "AI gateway open source integrated with cursor and open router - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.routerfuel.com/",
+    "featured": false
   }
 ]
