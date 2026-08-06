@@ -1030,5 +1030,125 @@
     "category": "Productivity",
     "affiliate_link": "https://www.routerfuel.com/",
     "featured": false
+  },
+  {
+    "id": "2d4883ed608a",
+    "name": "Wallfacer – A terminal session manager for Claude Code, and more",
+    "description": "Wallfacer – A terminal session manager for Claude Code, and more - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/pradipta/wallfacer",
+    "featured": false
+  },
+  {
+    "id": "7226db037637",
+    "name": "My receipt printer prints an original artwork every morning",
+    "description": "My receipt printer prints an original artwork every morning - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/matt-w-horn/morningprint",
+    "featured": false
+  },
+  {
+    "id": "3f0f4186245a",
+    "name": "HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+    "description": "HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/adrida/hud-mode",
+    "featured": false
+  },
+  {
+    "id": "91afd76157ec",
+    "name": "Sift – MCP aggregator that exposes 2 tools instead of hundreds",
+    "description": "Sift – MCP aggregator that exposes 2 tools instead of hundreds - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Narasimha1997/sift",
+    "featured": false
+  },
+  {
+    "id": "4cfcf7775951",
+    "name": "ClickBench Playground – a playground for 110 database systems",
+    "description": "ClickBench Playground – a playground for 110 database systems - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://benchmark.clickhouse.com/playground/",
+    "featured": false
+  },
+  {
+    "id": "5d810f95a442",
+    "name": "Humor Arena – Which frontier model is funniest?",
+    "description": "Humor Arena – Which frontier model is funniest? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://laugh.so/benchmark/",
+    "featured": false
+  },
+  {
+    "id": "f3d8f8bfc9bd",
+    "name": "Modern Browsers Don't Need the Cookie Anymore",
+    "description": "Modern Browsers Don't Need the Cookie Anymore - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kuber.studio/cookie/",
+    "featured": false
+  },
+  {
+    "id": "ee1c5510ec0e",
+    "name": "An AI agent that trades inside limits you set, starting on paper",
+    "description": "An AI agent that trades inside limits you set, starting on paper - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://quantsignals.xyz/fst",
+    "featured": false
+  },
+  {
+    "id": "375ceefb7d3a",
+    "name": "Hacker News with reduced priority for AI driven content",
+    "description": "Hacker News with reduced priority for AI driven content - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://hn-without-ai.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "ac7ec695a93f",
+    "name": "Arxid – keyed, non-enumerable ID obfuscation",
+    "description": "Arxid – keyed, non-enumerable ID obfuscation - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lucasolopes/arxid",
+    "featured": false
+  },
+  {
+    "id": "39be7458671d",
+    "name": "Diffing Binary Files",
+    "description": "Diffing Binary Files - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://withkord.com/diff",
+    "featured": false
+  },
+  {
+    "id": "dc51f08b730d",
+    "name": "CityEdit – Open-source map for voting on NYC street changes",
+    "description": "CityEdit – Open-source map for voting on NYC street changes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cityedit.org/m/nyc-proposals",
+    "featured": false
+  },
+  {
+    "id": "0bdead23b1cb",
+    "name": "An app to dump notes during the day and plan todos without distraction",
+    "description": "An app to dump notes during the day and plan todos without distraction - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://today.spqrk.net/",
+    "featured": false
+  },
+  {
+    "id": "bc6b3542c96d",
+    "name": "Twocal – Calendar sync that verifies both sides actually agree",
+    "description": "Twocal – Calendar sync that verifies both sides actually agree - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://twocal.app/",
+    "featured": false
+  },
+  {
+    "id": "dc8cc0de8e46",
+    "name": "Capy – A Git-style platform for managing your team's secrets",
+    "description": "Capy – A Git-style platform for managing your team's secrets - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/capysc/capy-cli",
+    "featured": false
   }
 ]
