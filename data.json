@@ -1150,5 +1150,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/capysc/capy-cli",
     "featured": false
+  },
+  {
+    "id": "a595f1ee09e6",
+    "name": "A free mini game that makes you a smarter fly fisherperson",
+    "description": "A free mini game that makes you a smarter fly fisherperson - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://read-the-water.netlify.app/",
+    "featured": false
+  },
+  {
+    "id": "ceeb9e591d73",
+    "name": "Remembrane – agent memory in one SQLite file, zero dependencies",
+    "description": "Remembrane – agent memory in one SQLite file, zero dependencies - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/satyasairay/remembrane",
+    "featured": false
+  },
+  {
+    "id": "b9c3f87d8280",
+    "name": "The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "description": "The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/CopilotKit/channels-sdk",
+    "featured": false
+  },
+  {
+    "id": "78be881ede2f",
+    "name": "Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
+    "description": "Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.atlascloud.ai/models/seedance-2.5",
+    "featured": false
+  },
+  {
+    "id": "6b0df7e8c438",
+    "name": "Pokémon Emerald Ported to Raspberry Pi Pico 2",
+    "description": "Pokémon Emerald Ported to Raspberry Pi Pico 2 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mattdeeds/pokeemerald-rp2350",
+    "featured": false
+  },
+  {
+    "id": "d22dd60974cb",
+    "name": "Sidebar – a private ESP32 intercom for five kids, no accounts",
+    "description": "Sidebar – a private ESP32 intercom for five kids, no accounts - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.sundaradnus.ca/writing/sidebar-building-a-ham-radio-for-my-son",
+    "featured": false
+  },
+  {
+    "id": "22f75355b242",
+    "name": "AI Tutoring with Visual Grounding",
+    "description": "AI Tutoring with Visual Grounding - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://useknowable.ai/",
+    "featured": false
+  },
+  {
+    "id": "71567f40ee6f",
+    "name": "Open-source pixel art editor with animation and auto-tiling tilesets",
+    "description": "Open-source pixel art editor with animation and auto-tiling tilesets - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://simplepixelart.com/editor",
+    "featured": false
+  },
+  {
+    "id": "6f59913df064",
+    "name": "La Vieja Contra El Dibu – Penalty Shootout Game vs. Dibu Martínez",
+    "description": "La Vieja Contra El Dibu – Penalty Shootout Game vs. Dibu Martínez - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://laviejacontraeldibu.app",
+    "featured": false
+  },
+  {
+    "id": "9021fb0205fd",
+    "name": "QWERTY MIDI – Isomorphic Layout MIDI Controller",
+    "description": "QWERTY MIDI – Isomorphic Layout MIDI Controller - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://beijaflor.io/blog/07-2026/querymidi/",
+    "featured": false
+  },
+  {
+    "id": "c3ae3a2f28aa",
+    "name": "I spent 2 years designing a mechanical Magic Keyboard",
+    "description": "I spent 2 years designing a mechanical Magic Keyboard - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://electronicmaterialsoffice.com/",
+    "featured": false
+  },
+  {
+    "id": "74b656045d2b",
+    "name": "ARF – a record format for AI evaluation runs, with reproducible digests",
+    "description": "ARF – a record format for AI evaluation runs, with reproducible digests - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.korvo.xyz/arf",
+    "featured": false
+  },
+  {
+    "id": "b212a632509b",
+    "name": "GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+    "description": "GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.greatarrow.ai",
+    "featured": false
+  },
+  {
+    "id": "a6c9c5a90a3d",
+    "name": "demake – one source project compiles to any retro game console ROM",
+    "description": "demake – one source project compiles to any retro game console ROM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://geosona.com/demake/",
+    "featured": false
+  },
+  {
+    "id": "511df5ab6285",
+    "name": "Learn System Design, one campaign at a time",
+    "description": "Learn System Design, one campaign at a time - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://scalequest.io/",
+    "featured": false
   }
 ]
