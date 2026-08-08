@@ -1270,5 +1270,125 @@
     "category": "Image & Design",
     "affiliate_link": "https://scalequest.io/",
     "featured": false
+  },
+  {
+    "id": "252eddff9320",
+    "name": "Wyzer Programming Language",
+    "description": "Wyzer Programming Language - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Wyzer-Lang/wyzer",
+    "featured": false
+  },
+  {
+    "id": "11406604f86a",
+    "name": "textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "description": "textlog – A quiet, text-only microblogging platform, open-source, no JS - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://textlog.cc/about",
+    "featured": false
+  },
+  {
+    "id": "d3869b4c819a",
+    "name": "CrossPlay - Games, puzzles and tools for your e-reader",
+    "description": "CrossPlay - Games, puzzles and tools for your e-reader - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://crossplay.ma-r-s.com",
+    "featured": false
+  },
+  {
+    "id": "7bb1f9b52904",
+    "name": "Modern C++ Build Tools for Module Feature",
+    "description": "Modern C++ Build Tools for Module Feature - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mcpp-community/mcpp",
+    "featured": false
+  },
+  {
+    "id": "5b055bc542d7",
+    "name": "Certo – An open source platform to deliver Open Badges",
+    "description": "Certo – An open source platform to deliver Open Badges - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/schroedinger-Hat/certo",
+    "featured": false
+  },
+  {
+    "id": "5be5679b3bad",
+    "name": "ReadMyStatement – Where did the money go?",
+    "description": "ReadMyStatement – Where did the money go? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://readmystatement.com/",
+    "featured": false
+  },
+  {
+    "id": "592118a169f6",
+    "name": "S-Bahn Seat Picker",
+    "description": "S-Bahn Seat Picker - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://welidev.github.io/sbahn-picker/",
+    "featured": false
+  },
+  {
+    "id": "423d73301bac",
+    "name": "Clef – spaced repetition for piano over MIDI",
+    "description": "Clef – spaced repetition for piano over MIDI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://playclef.com/",
+    "featured": false
+  },
+  {
+    "id": "98e6bbe3e19e",
+    "name": "Zaivern Code – a Rust cockpit for parallel AI coding agents",
+    "description": "Zaivern Code – a Rust cockpit for parallel AI coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/tacyan/zaivern-code",
+    "featured": false
+  },
+  {
+    "id": "04d899dcd393",
+    "name": "Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "description": "Check if any of the $656M in unclaimed royalties at The MLC is yours - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pub.doub.ly/",
+    "featured": false
+  },
+  {
+    "id": "9d9d1c4e8654",
+    "name": "Mousecrack – Teaching an LSTM to move a mouse like a human",
+    "description": "Mousecrack – Teaching an LSTM to move a mouse like a human - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/puffinsoft/mousecrack",
+    "featured": false
+  },
+  {
+    "id": "23db8678fea8",
+    "name": "File-based HTTP endpoints for Python with its own isolated dependencies",
+    "description": "File-based HTTP endpoints for Python with its own isolated dependencies - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/tanrax/bitpoint",
+    "featured": false
+  },
+  {
+    "id": "78a6cc992216",
+    "name": "Mermaid flowcharts you don't have to redraw in a diagram editor",
+    "description": "Mermaid flowcharts you don't have to redraw in a diagram editor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://line9.ai/diagram",
+    "featured": false
+  },
+  {
+    "id": "145dea16b1c4",
+    "name": "Likeface, make typefaces you like",
+    "description": "Likeface, make typefaces you like - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://0i0.app/pro/likeface",
+    "featured": false
+  },
+  {
+    "id": "ebda993c2f7e",
+    "name": "XSAF – Extra Small Agent Framework",
+    "description": "XSAF – Extra Small Agent Framework - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://xsaf.ilha.build/",
+    "featured": false
   }
 ]
