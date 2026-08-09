@@ -1390,5 +1390,125 @@
     "category": "Automation",
     "affiliate_link": "https://xsaf.ilha.build/",
     "featured": false
+  },
+  {
+    "id": "f05bda858138",
+    "name": "Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",
+    "description": "Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/skorotkiewicz/algebruh",
+    "featured": false
+  },
+  {
+    "id": "2c1e89676f9e",
+    "name": "Tura – Build agent that uses 80% less token and delivers better results",
+    "description": "Tura – Build agent that uses 80% less token and delivers better results - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Tura-AI/tura",
+    "featured": false
+  },
+  {
+    "id": "acada6086955",
+    "name": "OpsCart – Read-only Kubernetes triage with incident history",
+    "description": "OpsCart – Read-only Kubernetes triage with incident history - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/opscart/opscart-k8s-watcher",
+    "featured": false
+  },
+  {
+    "id": "7942f3fc4c71",
+    "name": "Aidress – LangChain integration for cross-agent discovery and trust",
+    "description": "Aidress – LangChain integration for cross-agent discovery and trust - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://docs.langchain.com/oss/python/integrations/tools",
+    "featured": false
+  },
+  {
+    "id": "fe6e02fffa11",
+    "name": "Defcon and HN, the only two audiences I might find",
+    "description": "Defcon and HN, the only two audiences I might find - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49226838",
+    "featured": false
+  },
+  {
+    "id": "7356e5d63521",
+    "name": "Faaah – Filesystem as an AI Handler",
+    "description": "Faaah – Filesystem as an AI Handler - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sebastiancarlos/faaah",
+    "featured": false
+  },
+  {
+    "id": "55fc44d75007",
+    "name": "VD – TUI Password Manager and OTP Authenticator for Unix",
+    "description": "VD – TUI Password Manager and OTP Authenticator for Unix - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ahmedhosssam/vd",
+    "featured": false
+  },
+  {
+    "id": "f5bbb08f8b07",
+    "name": "iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "description": "iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://photosynthesis.camera",
+    "featured": false
+  },
+  {
+    "id": "4ea5113d9692",
+    "name": "Turn tweets into beautiful, shareable photos",
+    "description": "Turn tweets into beautiful, shareable photos - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://tweet.download/",
+    "featured": false
+  },
+  {
+    "id": "fcc04960c996",
+    "name": "ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+    "description": "ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/amos-labs/expertcache",
+    "featured": false
+  },
+  {
+    "id": "41aa515023b0",
+    "name": "Inertia – Not your Grandfathers animation editor",
+    "description": "Inertia – Not your Grandfathers animation editor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://inertiagraphics.com/",
+    "featured": false
+  },
+  {
+    "id": "cd93877e88d9",
+    "name": "Happy 808 Day",
+    "description": "Happy 808 Day - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://raygum.com/instruments/roland-tr-808-drum-machine",
+    "featured": false
+  },
+  {
+    "id": "50e79af38f6a",
+    "name": "A Discord bot running in a 4MiB microVM",
+    "description": "A Discord bot running in a 4MiB microVM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/IanSeyler/BareMetal-Discord-Bot",
+    "featured": false
+  },
+  {
+    "id": "0a30debb682e",
+    "name": "49IDE – 2D Grid IDE for managing many agents, Git trees, issues",
+    "description": "49IDE – 2D Grid IDE for managing many agents, Git trees, issues - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/alpbahadur/49Agents",
+    "featured": false
+  },
+  {
+    "id": "2855ea6db03f",
+    "name": "A free DOCX editor with MCP server for editing",
+    "description": "A free DOCX editor with MCP server for editing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://revise.io/help/mcp-server",
+    "featured": false
   }
 ]
