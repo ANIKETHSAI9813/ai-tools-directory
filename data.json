@@ -1510,5 +1510,125 @@
     "category": "Productivity",
     "affiliate_link": "https://revise.io/help/mcp-server",
     "featured": false
+  },
+  {
+    "id": "4e6949d8a97b",
+    "name": "Voice driven murder mystery, Interview AI suspects with your voice",
+    "description": "Voice driven murder mystery, Interview AI suspects with your voice - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.whodunnitai.com/",
+    "featured": false
+  },
+  {
+    "id": "b742ae4b603d",
+    "name": "I made alchemical-cosmological PCB badges",
+    "description": "I made alchemical-cosmological PCB badges - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+    "featured": false
+  },
+  {
+    "id": "521fe158cece",
+    "name": "A Project Oberon System version running on RISC-V instead of RISC-5",
+    "description": "A Project Oberon System version running on RISC-V instead of RISC-5 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "featured": false
+  },
+  {
+    "id": "b028dc9e40d1",
+    "name": "Memcode AI goes open source with Claude Code inspired coding agent",
+    "description": "Memcode AI goes open source with Claude Code inspired coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/memcode-ai/memcode",
+    "featured": false
+  },
+  {
+    "id": "4aae321d1c61",
+    "name": "Alphabet Soup, a multiplayer game, build the longest word to win",
+    "description": "Alphabet Soup, a multiplayer game, build the longest word to win - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://alphabetsoup.club",
+    "featured": false
+  },
+  {
+    "id": "641203cff8bb",
+    "name": "Blueferry, iMessage on Linux",
+    "description": "Blueferry, iMessage on Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/erikwb/blueferry",
+    "featured": false
+  },
+  {
+    "id": "7c77618ed6ba",
+    "name": "Today's cities on a globe of Earth's tectonic past and future",
+    "description": "Today's cities on a globe of Earth's tectonic past and future - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://douwe.com/projects/tectonic_globe",
+    "featured": false
+  },
+  {
+    "id": "63f28637662d",
+    "name": "Airy – Free, fast, and simple voice content creation",
+    "description": "Airy – Free, fast, and simple voice content creation - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://airy.so",
+    "featured": false
+  },
+  {
+    "id": "2b735f4c9779",
+    "name": "35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
+    "description": "35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://consciousnesslibrary.org/",
+    "featured": false
+  },
+  {
+    "id": "19d9fbe38e0e",
+    "name": "A replayable A2A jury for tracing how agents influence decisions",
+    "description": "A replayable A2A jury for tracing how agents influence decisions - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "featured": false
+  },
+  {
+    "id": "1586868601c2",
+    "name": "Gotcha- First on-device AI copilot for Android",
+    "description": "Gotcha- First on-device AI copilot for Android - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://samosa-ai.com/gotcha/",
+    "featured": false
+  },
+  {
+    "id": "102e08998c15",
+    "name": "Discord-delete – Delete all your Discord messages from your data export",
+    "description": "Discord-delete – Delete all your Discord messages from your data export - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/DatCodeMania/discord-delete",
+    "featured": false
+  },
+  {
+    "id": "d386f8239412",
+    "name": "Weather balloon to the stratosphere with a Raspberry Pi computer",
+    "description": "Weather balloon to the stratosphere with a Raspberry Pi computer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stratopi-org/stratopi",
+    "featured": false
+  },
+  {
+    "id": "352dff57bd75",
+    "name": "Albedo – single-file listenable document database in Zig",
+    "description": "Albedo – single-file listenable document database in Zig - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/klirix/albedo",
+    "featured": false
+  },
+  {
+    "id": "cba88bed3062",
+    "name": "Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+    "description": "Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://pacslate.com/",
+    "featured": false
   }
 ]
