@@ -1630,5 +1630,125 @@
     "category": "Automation",
     "affiliate_link": "https://pacslate.com/",
     "featured": false
+  },
+  {
+    "id": "fba14a85c872",
+    "name": "Mcptoon – Token-efficient MCP CLI client",
+    "description": "Mcptoon – Token-efficient MCP CLI client - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/activeing123/mcptoon",
+    "featured": false
+  },
+  {
+    "id": "635b267ac04d",
+    "name": "Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "description": "Needle2: 14MB agentic LLM for phones, wearables, smart home and robots - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://cactuscompute.com/needle",
+    "featured": false
+  },
+  {
+    "id": "7d6440dd3953",
+    "name": "Scroll through all 43252003274489856000 Rubik's Cube states",
+    "description": "Scroll through all 43252003274489856000 Rubik's Cube states - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://everycube.alen.is/",
+    "featured": false
+  },
+  {
+    "id": "a43807efb088",
+    "name": "Ante, a coding agent in a single binary that runs offline",
+    "description": "Ante, a coding agent in a single binary that runs offline - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/AntigmaLabs/ante",
+    "featured": false
+  },
+  {
+    "id": "5bfeb879b232",
+    "name": "Langkast – One workspace for every AI model, agents, and your files",
+    "description": "Langkast – One workspace for every AI model, agents, and your files - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://langkast.com",
+    "featured": false
+  },
+  {
+    "id": "cb4dd6bad231",
+    "name": "My local climbing gym from photogrammetry",
+    "description": "My local climbing gym from photogrammetry - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://kmcheung12.github.io/climb-preview/tour/ae43c6e5",
+    "featured": false
+  },
+  {
+    "id": "7550e45d9a91",
+    "name": "ConfigLedger -Find configuration drift across code, CI, Docker and docs",
+    "description": "ConfigLedger -Find configuration drift across code, CI, Docker and docs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/DevFoundry-labs/configledger/",
+    "featured": false
+  },
+  {
+    "id": "714ad1a1b478",
+    "name": "NiceShot AI – The analytics layer competitive games forgot to add",
+    "description": "NiceShot AI – The analytics layer competitive games forgot to add - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/karimm-ai/NiceShot_AI",
+    "featured": false
+  },
+  {
+    "id": "2256eb148d1d",
+    "name": "I vibecoded a heavy lift drone",
+    "description": "I vibecoded a heavy lift drone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lukeiseman.substack.com/p/i-vibecoded-a-drone",
+    "featured": false
+  },
+  {
+    "id": "a05534f80361",
+    "name": "A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+    "description": "A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+    "featured": false
+  },
+  {
+    "id": "596b7ca7215f",
+    "name": "Seedle, daily -dle for Minecraft seeds",
+    "description": "Seedle, daily -dle for Minecraft seeds - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://seedle.loch.tools/",
+    "featured": false
+  },
+  {
+    "id": "5fb171709023",
+    "name": "Higher-dimensional lattices unfolded into the 2D plane",
+    "description": "Higher-dimensional lattices unfolded into the 2D plane - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://number-garden.com/?@THLP@",
+    "featured": false
+  },
+  {
+    "id": "88c04bfc83ce",
+    "name": "Insidedb, an interactive, animated explainer of database internals",
+    "description": "Insidedb, an interactive, animated explainer of database internals - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://david-g-3654.github.io/insidedb/",
+    "featured": false
+  },
+  {
+    "id": "0f2656a045de",
+    "name": "Graph2agent; Mermaid diagrams, explained for agents",
+    "description": "Graph2agent; Mermaid diagrams, explained for agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://graph2agent.github.io/",
+    "featured": false
+  },
+  {
+    "id": "7f9b013c6ac0",
+    "name": "Ohm – Use uBlock Origin cosmetic filters in Chrome again",
+    "description": "Ohm – Use uBlock Origin cosmetic filters in Chrome again - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ohm.wbnns.com/",
+    "featured": false
   }
 ]
