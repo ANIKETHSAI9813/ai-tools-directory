@@ -1750,5 +1750,125 @@
     "category": "Productivity",
     "affiliate_link": "https://ohm.wbnns.com/",
     "featured": false
+  },
+  {
+    "id": "4f501c77e4ce",
+    "name": "Tamron Lens Utility Alternative on Linux",
+    "description": "Tamron Lens Utility Alternative on Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yikerman/tamron-lens-control",
+    "featured": false
+  },
+  {
+    "id": "c5702709cec1",
+    "name": "Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+    "description": "Git-knife – Edit commit messages, authors, and dates like a spreadsheet - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/TheRealYT/git-knife",
+    "featured": false
+  },
+  {
+    "id": "232d73253424",
+    "name": "TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs",
+    "description": "TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/bikeshaving/termdom",
+    "featured": false
+  },
+  {
+    "id": "bb395ee62071",
+    "name": "Kernelspace- interactive course on systems programming for LLM Serving",
+    "description": "Kernelspace- interactive course on systems programming for LLM Serving - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kernelspace.naigap.com/",
+    "featured": false
+  },
+  {
+    "id": "d67bb83dcb9f",
+    "name": "Tokyo Trains",
+    "description": "Tokyo Trains - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://greggman.github.io/tokyo-trains/",
+    "featured": false
+  },
+  {
+    "id": "7758bb4cc5ac",
+    "name": "I wrote the emudev hello world (CHIP-8 emulator in C)",
+    "description": "I wrote the emudev hello world (CHIP-8 emulator in C) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Tackx/c8",
+    "featured": false
+  },
+  {
+    "id": "3bf578b80d12",
+    "name": "Supply-Wizard; Start Selling Data with an Easy Vendor Checklist",
+    "description": "Supply-Wizard; Start Selling Data with an Easy Vendor Checklist - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://brickroad.network/supplier-wizard",
+    "featured": false
+  },
+  {
+    "id": "b3e3f4479ee4",
+    "name": "Openleetcode – local LeetCode runner where tests live in the repo",
+    "description": "Openleetcode – local LeetCode runner where tests live in the repo - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/therepanic/openleetcode",
+    "featured": false
+  },
+  {
+    "id": "602918d323c2",
+    "name": "p0rt – see every dev server, port and Docker container in your menu bar",
+    "description": "p0rt – see every dev server, port and Docker container in your menu bar - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://p0rt.app",
+    "featured": false
+  },
+  {
+    "id": "591107dee52a",
+    "name": "C# Game Engine with its own scripting language and IDE",
+    "description": "C# Game Engine with its own scripting language and IDE - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+    "featured": false
+  },
+  {
+    "id": "b0cde69ba798",
+    "name": "ThinkingType, an eval measuring if fonts change VLM judgments",
+    "description": "ThinkingType, an eval measuring if fonts change VLM judgments - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/wdanfort/thinkingtype",
+    "featured": false
+  },
+  {
+    "id": "7410f87624b7",
+    "name": "Pulp – Zero-allocation C11 telemetry engine (28M logs/SEC to disk)",
+    "description": "Pulp – Zero-allocation C11 telemetry engine (28M logs/SEC to disk) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/superwired-labs/Pulp",
+    "featured": false
+  },
+  {
+    "id": "220fbc8e56a0",
+    "name": "HyperSAE – Hyperbolic Sparse Autoencoders for LLM Interpretability",
+    "description": "HyperSAE – Hyperbolic Sparse Autoencoders for LLM Interpretability - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/vishal-dehurdle/hypersae",
+    "featured": false
+  },
+  {
+    "id": "baccfb132f59",
+    "name": "Proxima serves 4x more requests with no hardware change on vLLM",
+    "description": "Proxima serves 4x more requests with no hardware change on vLLM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Tenosra/Proxima",
+    "featured": false
+  },
+  {
+    "id": "e51dc4b117e0",
+    "name": "The self-improving QA agent for software teams",
+    "description": "The self-improving QA agent for software teams - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://vostride.com",
+    "featured": false
   }
 ]
