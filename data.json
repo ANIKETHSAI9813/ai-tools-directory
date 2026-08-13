@@ -1870,5 +1870,125 @@
     "category": "Automation",
     "affiliate_link": "https://vostride.com",
     "featured": false
+  },
+  {
+    "id": "f92606905e4f",
+    "name": "Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+    "description": "Relational-to-KV – AI maps relational models to ToplingDB/RocksDB - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/rockeet/relational-to-kv",
+    "featured": false
+  },
+  {
+    "id": "4d5da3ea46dc",
+    "name": "Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "description": "Woxi - Open-source Mathematica / Wolfram Language reimplementation - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://woxi.ad-si.com",
+    "featured": false
+  },
+  {
+    "id": "6e28cc05d708",
+    "name": "Ballet – Workflow automation that writes integrations against any API",
+    "description": "Ballet – Workflow automation that writes integrations against any API - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.ballet.dev/",
+    "featured": false
+  },
+  {
+    "id": "337bf2068b12",
+    "name": "Programmable timer web app (for gym workouts or stretching sessions)",
+    "description": "Programmable timer web app (for gym workouts or stretching sessions) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://timer.jotaen.net",
+    "featured": false
+  },
+  {
+    "id": "8368765c4e00",
+    "name": "Posts grew 6x since ChatGPT, but success rate remained relatively flat",
+    "description": "Posts grew 6x since ChatGPT, but success rate remained relatively flat - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.orangecrumbs.com/stories/show-hn",
+    "featured": false
+  },
+  {
+    "id": "b1e56a316d37",
+    "name": "UTC Time - live clock, ISO 8601, Unix timestamp",
+    "description": "UTC Time - live clock, ISO 8601, Unix timestamp - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://utctime.app/",
+    "featured": false
+  },
+  {
+    "id": "cb134b9a3e23",
+    "name": "I asked Claude to write DDIA as a live comic",
+    "description": "I asked Claude to write DDIA as a live comic - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://systemscomic.com/ddia/read",
+    "featured": false
+  },
+  {
+    "id": "a705d6dc35f4",
+    "name": "Agent Memory Leaderboard – first public results for AI memory systems",
+    "description": "Agent Memory Leaderboard – first public results for AI memory systems - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+    "featured": false
+  },
+  {
+    "id": "3905f403cbfd",
+    "name": "Interspectr – automated interview prep generated from a job posting",
+    "description": "Interspectr – automated interview prep generated from a job posting - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://interspectr.com/",
+    "featured": false
+  },
+  {
+    "id": "59ec699f5547",
+    "name": "GreenTree – Cache test results by Git tree, not commit SHA",
+    "description": "GreenTree – Cache test results by Git tree, not commit SHA - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Reachpad/greentree",
+    "featured": false
+  },
+  {
+    "id": "861dc857e723",
+    "name": "ponzy.io, an online multiplayer trading game in the browser",
+    "description": "ponzy.io, an online multiplayer trading game in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ponzy.io",
+    "featured": false
+  },
+  {
+    "id": "5895c03d6c12",
+    "name": "Smarter Shell History for Zsh",
+    "description": "Smarter Shell History for Zsh - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/overflowy/zhist",
+    "featured": false
+  },
+  {
+    "id": "ef591ddff893",
+    "name": "Meteor shower, planet alignment, eclipse kit",
+    "description": "Meteor shower, planet alignment, eclipse kit - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lifesprites.com/share/0ACA25",
+    "featured": false
+  },
+  {
+    "id": "44667c875b86",
+    "name": "/show-me: agent skill for compact visual representations",
+    "description": "/show-me: agent skill for compact visual representations - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.humanlayer.com/blog/show-me-skill",
+    "featured": false
+  },
+  {
+    "id": "8f2b39b99163",
+    "name": "Seisin – a desktop app that turns your job search into analytics",
+    "description": "Seisin – a desktop app that turns your job search into analytics - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getseisin.com",
+    "featured": false
   }
 ]
