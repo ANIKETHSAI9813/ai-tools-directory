@@ -1990,5 +1990,125 @@
     "category": "Productivity",
     "affiliate_link": "https://getseisin.com",
     "featured": false
+  },
+  {
+    "id": "6990f6ce15d7",
+    "name": "Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+    "description": "Lumabri – Run Moe Models on a P2P Swarm with Colibri - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/JustVugg/lumabri",
+    "featured": false
+  },
+  {
+    "id": "dd53fcf32880",
+    "name": "MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+    "description": "MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5 - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/fellowgeek/mcp-memory",
+    "featured": false
+  },
+  {
+    "id": "dc27dfa4a5ab",
+    "name": "Control Claude Code, Codex, Pi and Gemini CLI from Telegram",
+    "description": "Control Claude Code, Codex, Pi and Gemini CLI from Telegram - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/choiyounggi/cliclaw",
+    "featured": false
+  },
+  {
+    "id": "25c531f9d29a",
+    "name": "OJCP – an open protocol for agent-consumable job data",
+    "description": "OJCP – an open protocol for agent-consumable job data - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://ojcp.dev/",
+    "featured": false
+  },
+  {
+    "id": "6f4e8c19a3a4",
+    "name": "OxiSH, a modern, memory-safe SSH server",
+    "description": "OxiSH, a modern, memory-safe SSH server - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
+    "featured": false
+  },
+  {
+    "id": "f268704cb94d",
+    "name": "Why – a deterministic curiosity graph built on probabilistic model",
+    "description": "Why – a deterministic curiosity graph built on probabilistic model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://why.com",
+    "featured": false
+  },
+  {
+    "id": "e47a4092df2f",
+    "name": "Millennium – Steam Homebrew",
+    "description": "Millennium – Steam Homebrew - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://steambrew.app/",
+    "featured": false
+  },
+  {
+    "id": "8cc03378fcb3",
+    "name": "Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
+    "description": "Auto-train the harness, not the LLM. cross-model, cross-benchmark gains - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/workofart/harness-training",
+    "featured": false
+  },
+  {
+    "id": "c4b58d0cdac1",
+    "name": "Clixad – Free AI coding agent in the terminal, funded by an offerwall",
+    "description": "Clixad – Free AI coding agent in the terminal, funded by an offerwall - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://clixad.io/",
+    "featured": false
+  },
+  {
+    "id": "cf192642d13a",
+    "name": "Track habits, metrics, time and whateven you think worth tracking",
+    "description": "Track habits, metrics, time and whateven you think worth tracking - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://habitpocket.io/",
+    "featured": false
+  },
+  {
+    "id": "785e47bcf9bf",
+    "name": "Mirage Browser, the deadest of internets. ~1000 tok/s 1998 internet",
+    "description": "Mirage Browser, the deadest of internets. ~1000 tok/s 1998 internet - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://miragebrowser.xyz/",
+    "featured": false
+  },
+  {
+    "id": "e8898c3c3a17",
+    "name": "DynaFX – Simulation meets knowledge graphs",
+    "description": "DynaFX – Simulation meets knowledge graphs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Achref-Yak/DynaFX",
+    "featured": false
+  },
+  {
+    "id": "598b8e0e47f0",
+    "name": "MLTraining Free AI/ML training resources for everyone",
+    "description": "MLTraining Free AI/ML training resources for everyone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mltraining.org/",
+    "featured": false
+  },
+  {
+    "id": "f25cd31f01e9",
+    "name": "Cadre.rocks A local-first board for orchestrating coding agents",
+    "description": "Cadre.rocks A local-first board for orchestrating coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://cadre.rocks/",
+    "featured": false
+  },
+  {
+    "id": "f13bb8f30c90",
+    "name": "LymeScribe – one computer on your network transcribes for the rest",
+    "description": "LymeScribe – one computer on your network transcribes for the rest - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://transcribe.lymestack.com/",
+    "featured": false
   }
 ]
