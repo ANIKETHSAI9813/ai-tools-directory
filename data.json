@@ -2110,5 +2110,125 @@
     "category": "Video & Audio",
     "affiliate_link": "https://transcribe.lymestack.com/",
     "featured": false
+  },
+  {
+    "id": "4da72045a0bf",
+    "name": "HN Without AI Stories",
+    "description": "HN Without AI Stories - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hnnoai.readpipe.org/",
+    "featured": false
+  },
+  {
+    "id": "221adc0985ab",
+    "name": "ThoughtDAG – An editable context graph for LLM conversations",
+    "description": "ThoughtDAG – An editable context graph for LLM conversations - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chenxiachan.github.io/thoughtdag/",
+    "featured": false
+  },
+  {
+    "id": "f178f6ee2fd0",
+    "name": "Silent Shark – tactical map-based WWII submarine sim",
+    "description": "Silent Shark – tactical map-based WWII submarine sim - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://silentshark.app/",
+    "featured": false
+  },
+  {
+    "id": "9caa2d082854",
+    "name": "A website for exploring historical photographs of my city",
+    "description": "A website for exploring historical photographs of my city - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://yesterdays.maprva.org/",
+    "featured": false
+  },
+  {
+    "id": "c0d7e3a27020",
+    "name": "Deltix – AI Driven Testing",
+    "description": "Deltix – AI Driven Testing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://app.deltix.ai",
+    "featured": false
+  },
+  {
+    "id": "5aabe20e894f",
+    "name": "Mole – Deep research agent for your terminal",
+    "description": "Mole – Deep research agent for your terminal - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/lajosdeme/mole",
+    "featured": false
+  },
+  {
+    "id": "e2f28f0722cb",
+    "name": "Ember – Redshift safe color palettes",
+    "description": "Ember – Redshift safe color palettes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/carpdiem/ember",
+    "featured": false
+  },
+  {
+    "id": "54e74d61ac47",
+    "name": "LuaCAD – Parametric CAD Scripted in Lua",
+    "description": "LuaCAD – Parametric CAD Scripted in Lua - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://luacad.ad-si.com",
+    "featured": false
+  },
+  {
+    "id": "b53dfec6ee68",
+    "name": "I spent 3 months making desktop automation stop lying to AI agents",
+    "description": "I spent 3 months making desktop automation stop lying to AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/lahfir/agent-desktop/tree/main",
+    "featured": false
+  },
+  {
+    "id": "a41b732ae4f9",
+    "name": "Mocktail – Free, open-source mock API server with a built-in dashboard",
+    "description": "Mocktail – Free, open-source mock API server with a built-in dashboard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getmocktail.com/",
+    "featured": false
+  },
+  {
+    "id": "5e98e9c1e03d",
+    "name": "I serve my website with a swarm of ESP32 microcontrollers on a shelf",
+    "description": "I serve my website with a swarm of ESP32 microcontrollers on a shelf - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Novotarskyi/ivan-bohun",
+    "featured": false
+  },
+  {
+    "id": "489aa08ed11f",
+    "name": "Is AI Dumber Today? An index of AI model experience from user's opinion",
+    "description": "Is AI Dumber Today? An index of AI model experience from user's opinion - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://isaidumber.today/",
+    "featured": false
+  },
+  {
+    "id": "e2759e26529a",
+    "name": "Rdio – an open-source internet radio control suite",
+    "description": "Rdio – an open-source internet radio control suite - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rdio-docs.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "38063159dda5",
+    "name": "Online SNMP MIB database - upload/view your own MIBs",
+    "description": "Online SNMP MIB database - upload/view your own MIBs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mib-viewer.com/",
+    "featured": false
+  },
+  {
+    "id": "abb8554f6946",
+    "name": "Banquish – Take other websites apart and build your own",
+    "description": "Banquish – Take other websites apart and build your own - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://banquish.space",
+    "featured": false
   }
 ]
