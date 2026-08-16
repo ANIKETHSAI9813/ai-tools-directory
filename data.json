@@ -2230,5 +2230,125 @@
     "category": "Productivity",
     "affiliate_link": "https://banquish.space",
     "featured": false
+  },
+  {
+    "id": "03a14d297358",
+    "name": "Mic Drop, a real-time multiplayer karaoke game",
+    "description": "Mic Drop, a real-time multiplayer karaoke game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.micdrop.gg/",
+    "featured": false
+  },
+  {
+    "id": "c0aca2720abe",
+    "name": "Laptop is the last place your secrets are still in plaintext",
+    "description": "Laptop is the last place your secrets are still in plaintext - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jitpass/jit",
+    "featured": false
+  },
+  {
+    "id": "1a733465ef33",
+    "name": "Bribes.fyi – Compare bribes statistics department wise",
+    "description": "Bribes.fyi – Compare bribes statistics department wise - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bribes.fyi/compare",
+    "featured": false
+  },
+  {
+    "id": "ee776a365b3e",
+    "name": "Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "description": "Eigendrum - Draw any shape and hear what it sounds like as a drum - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://baselashraf81.github.io/eigendrum/",
+    "featured": false
+  },
+  {
+    "id": "5d59b436fdf4",
+    "name": "DSH Plugin Directory – Every DeepSeek Harness Plugin",
+    "description": "DSH Plugin Directory – Every DeepSeek Harness Plugin - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dshplugin.online/",
+    "featured": false
+  },
+  {
+    "id": "678a9c51dcde",
+    "name": "Widen, a native Postgres GUI using Apple's on-device LLM",
+    "description": "Widen, a native Postgres GUI using Apple's on-device LLM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/betocmn/widen",
+    "featured": false
+  },
+  {
+    "id": "64849f50cd9f",
+    "name": "Snafu: Agentic flow to help you with \"naming things\" in source code",
+    "description": "Snafu: Agentic flow to help you with \"naming things\" in source code - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/sebastiancarlos/snafu",
+    "featured": false
+  },
+  {
+    "id": "ebbd3bb982d2",
+    "name": "Quasicrystals Animation Playground with WebXR",
+    "description": "Quasicrystals Animation Playground with WebXR - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hypnagogic-quasicrystals.github.io/",
+    "featured": false
+  },
+  {
+    "id": "bad5f033b518",
+    "name": "Every MUNI, BART and Caltrain in SF on a Live Map",
+    "description": "Every MUNI, BART and Caltrain in SF on a Live Map - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/UtpalJayNadiger/wheres-my-muni",
+    "featured": false
+  },
+  {
+    "id": "785465949416",
+    "name": "Stratum – Rate books, films, and music to find users with similar taste",
+    "description": "Stratum – Rate books, films, and music to find users with similar taste - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://www.joinstratum.app/",
+    "featured": false
+  },
+  {
+    "id": "4a467805b820",
+    "name": "ElevenMusic Sounds, loop library that grows as other people generate",
+    "description": "ElevenMusic Sounds, loop library that grows as other people generate - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://elevenmusic.io/sounds",
+    "featured": false
+  },
+  {
+    "id": "edc8cbb7dffc",
+    "name": "Between Tokens – an interactive piece where you are the language model",
+    "description": "Between Tokens – an interactive piece where you are the language model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chrisjz.github.io/between-tokens/",
+    "featured": false
+  },
+  {
+    "id": "5ae0cc9a5755",
+    "name": "I evaluated file, vector, graph and RL based memory frameworks",
+    "description": "I evaluated file, vector, graph and RL based memory frameworks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory",
+    "featured": false
+  },
+  {
+    "id": "1bed6655fc5d",
+    "name": "Upscaled screenshots of specific DOM elements",
+    "description": "Upscaled screenshots of specific DOM elements - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://addons.mozilla.org/en-US/firefox/addon/beermusic/",
+    "featured": false
+  },
+  {
+    "id": "574a43c1f5b1",
+    "name": "Self-hosted monitoring for AI recommendations (MIT License)",
+    "description": "Self-hosted monitoring for AI recommendations (MIT License) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lettertrace.com",
+    "featured": false
   }
 ]
