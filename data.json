@@ -2350,5 +2350,125 @@
     "category": "Productivity",
     "affiliate_link": "https://lettertrace.com",
     "featured": false
+  },
+  {
+    "id": "eca7bd3e4c7e",
+    "name": "Vocal Slice – Cut audio by selecting text, fully on-device",
+    "description": "Vocal Slice – Cut audio by selecting text, fully on-device - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://vocalslice.com/",
+    "featured": false
+  },
+  {
+    "id": "a35aba72c199",
+    "name": "Desktopcolors.com – A museum for solid background colors of classic OS",
+    "description": "Desktopcolors.com – A museum for solid background colors of classic OS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://desktopcolors.com",
+    "featured": false
+  },
+  {
+    "id": "886316ca5125",
+    "name": "A public AI whose memory is shared across all users",
+    "description": "A public AI whose memory is shared across all users - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wildstatic.com/",
+    "featured": false
+  },
+  {
+    "id": "c472da7f7cbf",
+    "name": "Columnary, a better experience for reading long articles",
+    "description": "Columnary, a better experience for reading long articles - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chromewebstore.google.com/detail/columnary/dechndjpekelnmgcchblfbmcceonfdoo",
+    "featured": false
+  },
+  {
+    "id": "6d374ad1dab6",
+    "name": "Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
+    "description": "Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/marsbos/flynt.js",
+    "featured": false
+  },
+  {
+    "id": "319028f37bfa",
+    "name": "Adding friction to my automatic open Claude reaction",
+    "description": "Adding friction to my automatic open Claude reaction - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49325617",
+    "featured": false
+  },
+  {
+    "id": "ff205fa465ba",
+    "name": "PageSieve, a web scraping browser extension",
+    "description": "PageSieve, a web scraping browser extension - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://julius383.github.io/PageSieve/",
+    "featured": false
+  },
+  {
+    "id": "df7c5d97775b",
+    "name": "Convertix – Fast, 100% in-browser media and QR tools",
+    "description": "Convertix – Fast, 100% in-browser media and QR tools - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://convertix-fast-imager-co.blogspot.com/p/blog-page.html",
+    "featured": false
+  },
+  {
+    "id": "48bdb4d0cf06",
+    "name": "A visual ping utility that is pretty",
+    "description": "A visual ping utility that is pretty - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://source.tube/ache/rusty-ping",
+    "featured": false
+  },
+  {
+    "id": "769e6ff01cf8",
+    "name": "Continuum – Financial simulations for DIY multimillionaires",
+    "description": "Continuum – Financial simulations for DIY multimillionaires - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://continuum-app.xyz/",
+    "featured": false
+  },
+  {
+    "id": "d9cdbe47d223",
+    "name": "SolidSync – Poorman's Solidworks PDM",
+    "description": "SolidSync – Poorman's Solidworks PDM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/baggiest/solidsync",
+    "featured": false
+  },
+  {
+    "id": "8a7ba56f409a",
+    "name": "FileIndexer (simple N-copies verification on ext USB drives)",
+    "description": "FileIndexer (simple N-copies verification on ext USB drives) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.thanassis.space/indexer.html",
+    "featured": false
+  },
+  {
+    "id": "8781c92d0cb0",
+    "name": "Interactive component to map fibre breaks (OTDR)",
+    "description": "Interactive component to map fibre breaks (OTDR) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://react-networks-lib.rackout.net/otdr-strip",
+    "featured": false
+  },
+  {
+    "id": "e84952a62f53",
+    "name": "Hacker News Top Stories as Feeds to Use with RSS/Atom with Summaries",
+    "description": "Hacker News Top Stories as Feeds to Use with RSS/Atom with Summaries - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://textlog.cc/u/hn10",
+    "featured": false
+  },
+  {
+    "id": "949dc1304b60",
+    "name": "I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+    "description": "I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+    "featured": false
   }
 ]
