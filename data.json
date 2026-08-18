@@ -2470,5 +2470,125 @@
     "category": "Productivity",
     "affiliate_link": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
     "featured": false
+  },
+  {
+    "id": "778c00ef9de9",
+    "name": "I built an M2M payment loop where AI Agents pay for data via x402",
+    "description": "I built an M2M payment loop where AI Agents pay for data via x402 - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/tianzizhiming-svg/agentbridge",
+    "featured": false
+  },
+  {
+    "id": "1a9ed11a3e9f",
+    "name": "Convex clients in 100 programming languages",
+    "description": "Convex clients in 100 programming languages - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mikecann/the-convex-100-language-challenge",
+    "featured": false
+  },
+  {
+    "id": "30ff21fad290",
+    "name": "Agents Workbook watch Claude Code, Codex write down their working notes",
+    "description": "Agents Workbook watch Claude Code, Codex write down their working notes - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/softcane/agents-workbook",
+    "featured": false
+  },
+  {
+    "id": "5940ec7cf441",
+    "name": "Vyral – Portable contracts for data, retrieval, durable work, and MCP",
+    "description": "Vyral – Portable contracts for data, retrieval, durable work, and MCP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Univeracity/vyral",
+    "featured": false
+  },
+  {
+    "id": "2566470bdecf",
+    "name": "TextCompare – Local-first diff tools for text, files, and code",
+    "description": "TextCompare – Local-first diff tools for text, files, and code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://compare-text.org/",
+    "featured": false
+  },
+  {
+    "id": "c0ff895bdd05",
+    "name": "Learn Flags Quiz",
+    "description": "Learn Flags Quiz - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://flagquizzes.com/",
+    "featured": false
+  },
+  {
+    "id": "29f0a0efe94b",
+    "name": "Sokoban AI Solver",
+    "description": "Sokoban AI Solver - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mkornreich.me/projects/sokoban/",
+    "featured": false
+  },
+  {
+    "id": "e3c4c9c52ba9",
+    "name": "Honeymatcha.io connect your Grok bots for dating, meetups, anything",
+    "description": "Honeymatcha.io connect your Grok bots for dating, meetups, anything - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://honeymatcha.io",
+    "featured": false
+  },
+  {
+    "id": "988e4746c72d",
+    "name": "UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
+    "description": "UL-SMF – Open-source linear-complexity ~300x KV-cache compression - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/liventruth/UL-SMF-Cache-Compression",
+    "featured": false
+  },
+  {
+    "id": "2be3c32c7211",
+    "name": "Tesana – An AI game engine that builds quality games end-to-end",
+    "description": "Tesana – An AI game engine that builds quality games end-to-end - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tesana.ai/en",
+    "featured": false
+  },
+  {
+    "id": "35a89a052aca",
+    "name": "Declarative-forms – await an object the way prompt() awaits a string",
+    "description": "Declarative-forms – await an object the way prompt() awaits a string - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wolfoo2931.github.io/declarative-forms/",
+    "featured": false
+  },
+  {
+    "id": "0d8c84dfb896",
+    "name": "Classifier and browser extension to detect rule violating HN comments",
+    "description": "Classifier and browser extension to detect rule violating HN comments - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://classify.stylometry.net/",
+    "featured": false
+  },
+  {
+    "id": "b98d47cd9f1a",
+    "name": "AI-generated music box version of any song (for baby)",
+    "description": "AI-generated music box version of any song (for baby) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lullabyconverter.com",
+    "featured": false
+  },
+  {
+    "id": "2398549316c8",
+    "name": "A benchmark for AI agent guardrails that caught my own plugin",
+    "description": "A benchmark for AI agent guardrails that caught my own plugin - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/couldbeme/holdline",
+    "featured": false
+  },
+  {
+    "id": "ff3d4c2453c9",
+    "name": "A community library for Claude Code status lines",
+    "description": "A community library for Claude Code status lines - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://statuslin.es",
+    "featured": false
   }
 ]
