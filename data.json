@@ -2590,5 +2590,125 @@
     "category": "Productivity",
     "affiliate_link": "https://statuslin.es",
     "featured": false
+  },
+  {
+    "id": "ee7b199421a7",
+    "name": "Automatically detect and patch walking-dead states in Sierra games",
+    "description": "Automatically detect and patch walking-dead states in Sierra games - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/katiahayati/lucasartsifier/",
+    "featured": false
+  },
+  {
+    "id": "0a36c1588c9f",
+    "name": "Interactive, animated architecture of any HuggingFace models",
+    "description": "Interactive, animated architecture of any HuggingFace models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://modelmap.cc",
+    "featured": false
+  },
+  {
+    "id": "0a00191352a2",
+    "name": "PlugClaw – Private AI agent hardware for any phone or PC",
+    "description": "PlugClaw – Private AI agent hardware for any phone or PC - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://plugos.net/plugclaw/",
+    "featured": false
+  },
+  {
+    "id": "7d1468675970",
+    "name": "Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "description": "Saggar, a Mac terminal that keeps sessions and your attention organized - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://saggar.marginalutility.dev/",
+    "featured": false
+  },
+  {
+    "id": "fc4482be1206",
+    "name": "Capto – alerts when a background job goes quiet, with breadcrumbs",
+    "description": "Capto – alerts when a background job goes quiet, with breadcrumbs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://capto.run",
+    "featured": false
+  },
+  {
+    "id": "1acb3406285f",
+    "name": "4bit bridge between AI and humans",
+    "description": "4bit bridge between AI and humans - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/YOalphabet/YOalphabet",
+    "featured": false
+  },
+  {
+    "id": "77914eab007c",
+    "name": "Loft Day – a wedding invitation turned point-and-click game",
+    "description": "Loft Day – a wedding invitation turned point-and-click game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://marketa.behdad.org/loft-day",
+    "featured": false
+  },
+  {
+    "id": "4eec69102765",
+    "name": "Shoehorn – Quantize any model down to run on your machine",
+    "description": "Shoehorn – Quantize any model down to run on your machine - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "featured": false
+  },
+  {
+    "id": "0d08cbaa54ae",
+    "name": "Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
+    "description": "Warp DD – AI that analyzes technology ecosystems in ~30 seconds - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://warpdd.com",
+    "featured": false
+  },
+  {
+    "id": "6ccad6477d48",
+    "name": "Go CLI for website health checks, zero dependencies",
+    "description": "Go CLI for website health checks, zero dependencies - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/atillalab/site-health",
+    "featured": false
+  },
+  {
+    "id": "bfc8a9d4c4ab",
+    "name": "Search inside podcast episodes and read transcript while listening",
+    "description": "Search inside podcast episodes and read transcript while listening - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://metapodcast.net",
+    "featured": false
+  },
+  {
+    "id": "57531a3bb3d2",
+    "name": "ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+    "description": "ChatOSS – A Codex alternative for Open Source AI built on Ollama - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chatoss.ai",
+    "featured": false
+  },
+  {
+    "id": "6e8d6ddea6cb",
+    "name": "Monity.ai – Get notified when any website changes",
+    "description": "Monity.ai – Get notified when any website changes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+    "featured": false
+  },
+  {
+    "id": "dbaf85a822e1",
+    "name": "A local MitM proxy to control TLS fingerprints",
+    "description": "A local MitM proxy to control TLS fingerprints - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ytkoka/impersonate-proxy",
+    "featured": false
+  },
+  {
+    "id": "360482d939db",
+    "name": "Particle – Extract and save articles in a clean, self-hosted reader",
+    "description": "Particle – Extract and save articles in a clean, self-hosted reader - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://particle.crnst8.com/try/",
+    "featured": false
   }
 ]
