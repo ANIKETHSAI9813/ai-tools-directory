@@ -2710,5 +2710,125 @@
     "category": "Productivity",
     "affiliate_link": "https://particle.crnst8.com/try/",
     "featured": false
+  },
+  {
+    "id": "7899d5d9a0e3",
+    "name": "Linux and iPhone Continuity (iMessage / SMS)",
+    "description": "Linux and iPhone Continuity (iMessage / SMS) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zackb/tether",
+    "featured": false
+  },
+  {
+    "id": "38000ac50f2e",
+    "name": "Frugal Tokens – explore costs and usage across coding agents",
+    "description": "Frugal Tokens – explore costs and usage across coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://demo.frugaltokens.com/",
+    "featured": false
+  },
+  {
+    "id": "9bc1c914c725",
+    "name": "Nikon F100 Film Camera Repair Notes",
+    "description": "Nikon F100 Film Camera Repair Notes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/enthdegree/f100",
+    "featured": false
+  },
+  {
+    "id": "f3601b4f1e34",
+    "name": "Mail client optimized for self-hosted email across multiple domains",
+    "description": "Mail client optimized for self-hosted email across multiple domains - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mainly.crnst8.com/",
+    "featured": false
+  },
+  {
+    "id": "df3dff771da5",
+    "name": "Anonymous age verification with passkey-powered encryption",
+    "description": "Anonymous age verification with passkey-powered encryption - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://loginwithone.com/",
+    "featured": false
+  },
+  {
+    "id": "f8c7a84c2c5f",
+    "name": "terminal-code – VS Code inside the terminal",
+    "description": "terminal-code – VS Code inside the terminal - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://terminal-code.com",
+    "featured": false
+  },
+  {
+    "id": "e2975aa7be51",
+    "name": "Hack Club Folktale: Learn Python, Make a Game, Get Free Stickers",
+    "description": "Hack Club Folktale: Learn Python, Make a Game, Get Free Stickers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://folktale.hackclub.com/",
+    "featured": false
+  },
+  {
+    "id": "0c50c6a7b555",
+    "name": "A new way to read books, magnifying in and out",
+    "description": "A new way to read books, magnifying in and out - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://book.curiora.space/",
+    "featured": false
+  },
+  {
+    "id": "7dcdd5f46b1e",
+    "name": "Turning websites into micro CLIs for Claude Code to save on tokens",
+    "description": "Turning websites into micro CLIs for Claude Code to save on tokens - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/only-cli/oc",
+    "featured": false
+  },
+  {
+    "id": "8b262a5ccefc",
+    "name": "Invoicing and Tax for UK Tradespeople",
+    "description": "Invoicing and Tax for UK Tradespeople - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tradetally.co.uk",
+    "featured": false
+  },
+  {
+    "id": "a244457ca1d0",
+    "name": "HRAG – Hybrid RAG on €116/month of Hetzner, officially benchmarked",
+    "description": "HRAG – Hybrid RAG on €116/month of Hetzner, officially benchmarked - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hrag.app/",
+    "featured": false
+  },
+  {
+    "id": "16d8456dc52e",
+    "name": "Naeos – an engineering system for AI coding agents",
+    "description": "Naeos – an engineering system for AI coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/NAEOS-foundation/naeos",
+    "featured": false
+  },
+  {
+    "id": "4bb014121d8f",
+    "name": "nanoAlphaZero – Train a grandmaster-level chess model in 24h with TPUs",
+    "description": "nanoAlphaZero – Train a grandmaster-level chess model in 24h with TPUs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/wtedw/nanoAlphaZero",
+    "featured": false
+  },
+  {
+    "id": "c73d13a66d19",
+    "name": "I am getting genuine questions",
+    "description": "I am getting genuine questions - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/docbrain-ai/docbrain",
+    "featured": false
+  },
+  {
+    "id": "e923f53f5d33",
+    "name": "LongTerMemory, an AI EdTech Platform",
+    "description": "LongTerMemory, an AI EdTech Platform - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wired.business/longtermemory",
+    "featured": false
   }
 ]
