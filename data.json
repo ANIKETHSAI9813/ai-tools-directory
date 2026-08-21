@@ -2830,5 +2830,125 @@
     "category": "Productivity",
     "affiliate_link": "https://wired.business/longtermemory",
     "featured": false
+  },
+  {
+    "id": "19e393a5e185",
+    "name": "Huzzah – a novel approach to coding with AI",
+    "description": "Huzzah – a novel approach to coding with AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.danielvaughn.dev/posts/huzzah/",
+    "featured": false
+  },
+  {
+    "id": "3cc4c313c8f3",
+    "name": "Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "description": "Argentic – An L402 Lightning toll booth for AI scraping agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://Argentic.network",
+    "featured": false
+  },
+  {
+    "id": "d0dc8507a711",
+    "name": "I trained a 125M model to autocomplete piano on-device",
+    "description": "I trained a 125M model to autocomplete piano on-device - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "featured": false
+  },
+  {
+    "id": "4bafc696f34d",
+    "name": "Open-source Stripe Connect alternative",
+    "description": "Open-source Stripe Connect alternative - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zoneless.com",
+    "featured": false
+  },
+  {
+    "id": "5a7578924cbb",
+    "name": "ParqDB – Vector search in the browser from Parquet over HTTP\"",
+    "description": "ParqDB – Vector search in the browser from Parquet over HTTP\" - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://search.parqdb.io/",
+    "featured": false
+  },
+  {
+    "id": "7117b3e6f2a3",
+    "name": "We chased a weather balloon across Montana and never found it",
+    "description": "We chased a weather balloon across Montana and never found it - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://radi8.dev/blog/uplink/",
+    "featured": false
+  },
+  {
+    "id": "302b75ae7d7b",
+    "name": "Just describe your idea and let AI build a playable game for you",
+    "description": "Just describe your idea and let AI build a playable game for you - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://run.ceo/coder/",
+    "featured": false
+  },
+  {
+    "id": "08f947614af7",
+    "name": "A data viewer for choosing Frigate-compatible IP cameras",
+    "description": "A data viewer for choosing Frigate-compatible IP cameras - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ch-bas/cctv-camera-database",
+    "featured": false
+  },
+  {
+    "id": "1dcc687fff09",
+    "name": "Fsel –. a Rust TUI launcher, fuzzy picker and clipboard browser",
+    "description": "Fsel –. a Rust TUI launcher, fuzzy picker and clipboard browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Mjoyufull/fsel",
+    "featured": false
+  },
+  {
+    "id": "96f7bdc326a7",
+    "name": "XListman – one-binary, self-hosted mailing list manager",
+    "description": "XListman – one-binary, self-hosted mailing list manager - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/barats/xlistman",
+    "featured": false
+  },
+  {
+    "id": "44d56bdb3c47",
+    "name": "Steppewm stacking Wayland window manager",
+    "description": "Steppewm stacking Wayland window manager - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://keygen.sbs/steppewm/",
+    "featured": false
+  },
+  {
+    "id": "757d0d820603",
+    "name": "TakoVM – Serverless file systems for agents",
+    "description": "TakoVM – Serverless file systems for agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://tako-research.github.io/TakoVM/",
+    "featured": false
+  },
+  {
+    "id": "2ba728d0e4d8",
+    "name": "Sourcery – Benchmark for search APIs on the sources they return",
+    "description": "Sourcery – Benchmark for search APIs on the sources they return - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sameerhimati.com/sourcery/",
+    "featured": false
+  },
+  {
+    "id": "d6ce25304e5e",
+    "name": "sce (Simple Console Editor)",
+    "description": "sce (Simple Console Editor) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/volution/simple-console-editor",
+    "featured": false
+  },
+  {
+    "id": "21a3aa4c0287",
+    "name": "Crypto and NFT Project Directory – Other Worlders",
+    "description": "Crypto and NFT Project Directory – Other Worlders - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://otherworlders.com/nft-directory/",
+    "featured": false
   }
 ]
