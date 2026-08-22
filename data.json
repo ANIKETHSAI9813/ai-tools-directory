@@ -2950,5 +2950,125 @@
     "category": "Productivity",
     "affiliate_link": "https://otherworlders.com/nft-directory/",
     "featured": false
+  },
+  {
+    "id": "e5068d40c6d1",
+    "name": "PgExtAssure – pre-admission security evidence for PostgreSQL extensions",
+    "description": "PgExtAssure – pre-admission security evidence for PostgreSQL extensions - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/borborich/pgextassure",
+    "featured": false
+  },
+  {
+    "id": "dbf89c6b73d6",
+    "name": "I reverse-engineered Bambu's 3MF color format so GLB keeps the colors",
+    "description": "I reverse-engineered Bambu's 3MF color format so GLB keeps the colors - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/SamiSalah221/3mf-to-glb",
+    "featured": false
+  },
+  {
+    "id": "ec74d4d3ec74",
+    "name": "OzBrain, a shared brain for knowledge between agents and your team",
+    "description": "OzBrain, a shared brain for knowledge between agents and your team - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://ozbrain.com",
+    "featured": false
+  },
+  {
+    "id": "406f63a57e84",
+    "name": "Rex, a parallel functional language for scientific workflows",
+    "description": "Rex, a parallel functional language for scientific workflows - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/peterkelly/rex",
+    "featured": false
+  },
+  {
+    "id": "aed0c7e69cee",
+    "name": "Proliferate- open-source, self-hostable Codex for any coding agent",
+    "description": "Proliferate- open-source, self-hostable Codex for any coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/proliferate-ai/proliferate",
+    "featured": false
+  },
+  {
+    "id": "cbdf994f12e3",
+    "name": "EchoVault, an app that interviews you and answers as you after death",
+    "description": "EchoVault, an app that interviews you and answers as you after death - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028",
+    "featured": false
+  },
+  {
+    "id": "b5d691fb83ae",
+    "name": "I let an subagent workflow refactor my codebase for three days",
+    "description": "I let an subagent workflow refactor my codebase for three days - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/ringlochid/oh-my-subagents",
+    "featured": false
+  },
+  {
+    "id": "4633631ba13a",
+    "name": "ServerKit - Self-hosted control panel for apps, Docker, and databases",
+    "description": "ServerKit - Self-hosted control panel for apps, Docker, and databases - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jhd3197/ServerKit",
+    "featured": false
+  },
+  {
+    "id": "f655774091c9",
+    "name": "Heimdall – Trust-verified knowledge layer for AI coding agents",
+    "description": "Heimdall – Trust-verified knowledge layer for AI coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/ArihantDeva/heimdall",
+    "featured": false
+  },
+  {
+    "id": "29664aed54cd",
+    "name": "Plethora – Social platform and SDK around games and interactive content",
+    "description": "Plethora – Social platform and SDK around games and interactive content - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://plethora.studio/",
+    "featured": false
+  },
+  {
+    "id": "3e0ca28bc704",
+    "name": "Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+    "description": "Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model) - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.pianoify.net/",
+    "featured": false
+  },
+  {
+    "id": "c34ce65b18ea",
+    "name": "Oasis - Giving Agents Situational Awareness",
+    "description": "Oasis - Giving Agents Situational Awareness - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://joinoasis.com",
+    "featured": false
+  },
+  {
+    "id": "096d3bcce37e",
+    "name": "SteppeWM – a stacking IceWM-like Wayland compositor",
+    "description": "SteppeWM – a stacking IceWM-like Wayland compositor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/uncognic/steppewm",
+    "featured": false
+  },
+  {
+    "id": "01652a7aa203",
+    "name": "Zroar – Serialized Roaring Bitmaps in Zig",
+    "description": "Zroar – Serialized Roaring Bitmaps in Zig - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/manishrjain/zroar",
+    "featured": false
+  },
+  {
+    "id": "ed6a9f1062fc",
+    "name": "CLI to Churn Out CLIs",
+    "description": "CLI to Churn Out CLIs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/chinmayrelkar/bawarchi",
+    "featured": false
   }
 ]
