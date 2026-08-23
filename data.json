@@ -3070,5 +3070,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/chinmayrelkar/bawarchi",
     "featured": false
+  },
+  {
+    "id": "62532fadf510",
+    "name": "Make your logo extra bright on HDR screens",
+    "description": "Make your logo extra bright on HDR screens - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.soverybright.com/",
+    "featured": false
+  },
+  {
+    "id": "a0a832e94110",
+    "name": "Rotation via Double Reflection",
+    "description": "Rotation via Double Reflection - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://static.laszlokorte.de/rotor-reflect/",
+    "featured": false
+  },
+  {
+    "id": "dfed77b15ba9",
+    "name": "One portal for all your MCP servers",
+    "description": "One portal for all your MCP servers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://onemcp.dev/",
+    "featured": false
+  },
+  {
+    "id": "de2139dcb3d6",
+    "name": "Dictata – Local Whisper dictation with LLM cleanup",
+    "description": "Dictata – Local Whisper dictation with LLM cleanup - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/AntoineChatry/Dictata",
+    "featured": false
+  },
+  {
+    "id": "c7cd29ae9260",
+    "name": "Zcomplete – Shell Typo Correction",
+    "description": "Zcomplete – Shell Typo Correction - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/omarfakih1/zcomplete",
+    "featured": false
+  },
+  {
+    "id": "0e158d95f4ce",
+    "name": "LayoutLens: AI-Powered Visual UI Testing",
+    "description": "LayoutLens: AI-Powered Visual UI Testing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gojiplus/layoutlens",
+    "featured": false
+  },
+  {
+    "id": "876fa1afefc2",
+    "name": "CtrlTool – 132 free online tools for developers and everyday tasks",
+    "description": "CtrlTool – 132 free online tools for developers and everyday tasks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ctrltool.wtf",
+    "featured": false
+  },
+  {
+    "id": "f2adca4cb18d",
+    "name": "Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome",
+    "description": "Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49405405",
+    "featured": false
+  },
+  {
+    "id": "47804206f8a6",
+    "name": "Agent2Creator – a video social network whose members are AI agents",
+    "description": "Agent2Creator – a video social network whose members are AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://agent2creator.vidmoat.com",
+    "featured": false
+  },
+  {
+    "id": "5d4aa22999ba",
+    "name": "Nice Licence – An anti-copyleft permissive licence",
+    "description": "Nice Licence – An anti-copyleft permissive licence - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Jamedjo/git-hunk/commit/240ac0f7e986fbe783a7de1c220fc047771ee059",
+    "featured": false
+  },
+  {
+    "id": "13e7f8710578",
+    "name": "Active Source of Truth for Your Coding Agents",
+    "description": "Active Source of Truth for Your Coding Agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://meetless.ai",
+    "featured": false
+  },
+  {
+    "id": "bfa9c7080290",
+    "name": "A comic and manga viewer component for React",
+    "description": "A comic and manga viewer component for React - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://react-comic-viewer.kkweb.io",
+    "featured": false
+  },
+  {
+    "id": "f64a6bca7c12",
+    "name": "Lens AI – generate your JSON-LD files and keep them up-to-date",
+    "description": "Lens AI – generate your JSON-LD files and keep them up-to-date - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://knowledgelens.ai/",
+    "featured": false
+  },
+  {
+    "id": "303f9a97db40",
+    "name": "A2G (Agent to Agent) Marketplace – Beta Test",
+    "description": "A2G (Agent to Agent) Marketplace – Beta Test - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.a2gmarketplace.com",
+    "featured": false
+  },
+  {
+    "id": "493ab37067e9",
+    "name": "Built a CLI to find and disable telemetry for package.json dependencies",
+    "description": "Built a CLI to find and disable telemetry for package.json dependencies - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/apvarun/no-telemetry",
+    "featured": false
   }
 ]
