@@ -3190,5 +3190,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/apvarun/no-telemetry",
     "featured": false
+  },
+  {
+    "id": "2150a6dc9d30",
+    "name": "Hookpost – Open-source social media scheduler with AI Agent copilot",
+    "description": "Hookpost – Open-source social media scheduler with AI Agent copilot - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/jatinder14/hookpost",
+    "featured": false
+  },
+  {
+    "id": "ab91770da86b",
+    "name": "Neostatic, a tiny site/blog generator for neocities",
+    "description": "Neostatic, a tiny site/blog generator for neocities - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/giannitedesco/neostatic",
+    "featured": false
+  },
+  {
+    "id": "59a17a6a341b",
+    "name": "Live 3D satellite tracker and the declassified Pentagon UFO archive",
+    "description": "Live 3D satellite tracker and the declassified Pentagon UFO archive - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://skylens.yantraai.app/",
+    "featured": false
+  },
+  {
+    "id": "5a8343cef211",
+    "name": "Dev // Cyber Toolkit – a free floating dev/cybersecurity widget",
+    "description": "Dev // Cyber Toolkit – a free floating dev/cybersecurity widget - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dev-cyber-toolkit.netlify.app",
+    "featured": false
+  },
+  {
+    "id": "87b58b402550",
+    "name": "Mnemosyne Local hierarchical memory engine for AI agents (MCP Native)",
+    "description": "Mnemosyne Local hierarchical memory engine for AI agents (MCP Native) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/M4F-S/mnemosyne",
+    "featured": false
+  },
+  {
+    "id": "d9ec030e214a",
+    "name": "Vidmoat – My Super Fantastic AI Native Video Editor (MCP, Web)",
+    "description": "Vidmoat – My Super Fantastic AI Native Video Editor (MCP, Web) - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.vidmoat.com",
+    "featured": false
+  },
+  {
+    "id": "82b0a0fd307e",
+    "name": "USB – A universal skill bridge for AI agents",
+    "description": "USB – A universal skill bridge for AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/PeepSick/usb",
+    "featured": false
+  },
+  {
+    "id": "a0359311435f",
+    "name": "Hillock – Local neuro-symbolic memory engine in <1.2GB VRAM",
+    "description": "Hillock – Local neuro-symbolic memory engine in <1.2GB VRAM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/roandejager/Hillock",
+    "featured": false
+  },
+  {
+    "id": "39f862dae912",
+    "name": "FramePin – Turn screen recordings into beautiful interactive guides",
+    "description": "FramePin – Turn screen recordings into beautiful interactive guides - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://framepin.com/",
+    "featured": false
+  },
+  {
+    "id": "ba22e99c7754",
+    "name": "Know the true cost of egg freezing upfront",
+    "description": "Know the true cost of egg freezing upfront - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://eggfreezingfacts.org/",
+    "featured": false
+  },
+  {
+    "id": "0e33d5c4ba00",
+    "name": "Cartopolis, 3D virtual world (Rust/Bevy/OSM)",
+    "description": "Cartopolis, 3D virtual world (Rust/Bevy/OSM) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49411624",
+    "featured": false
+  },
+  {
+    "id": "6823c8dc9877",
+    "name": "Doop – open-source live canvas for AI agents to design",
+    "description": "Doop – open-source live canvas for AI agents to design - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/kgoedecke/doop",
+    "featured": false
+  },
+  {
+    "id": "ae9a282f77e7",
+    "name": "ZMQ Arena – a benchmark harness for ZeroMQ/ZMTP implementations",
+    "description": "ZMQ Arena – a benchmark harness for ZeroMQ/ZMTP implementations - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vorjdux.github.io/zmq-arena/",
+    "featured": false
+  },
+  {
+    "id": "34e9c9ee6f3d",
+    "name": "Civic Nightmare –Browser JRPG about a citizen in a savage civilization",
+    "description": "Civic Nightmare –Browser JRPG about a citizen in a savage civilization - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Daniele-Cangi/civic-nightmare",
+    "featured": false
+  },
+  {
+    "id": "55c8e548c1ba",
+    "name": "Modern demo of Douglas Hofstadter et al.'s 2001 Letter Spirit project",
+    "description": "Modern demo of Douglas Hofstadter et al.'s 2001 Letter Spirit project - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Paul-G2/letter-spirit-2-js",
+    "featured": false
   }
 ]
