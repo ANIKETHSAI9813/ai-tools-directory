@@ -3310,5 +3310,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/Paul-G2/letter-spirit-2-js",
     "featured": false
+  },
+  {
+    "id": "4762f50065dc",
+    "name": "Screen memory without screenshots, just text to Markdown",
+    "description": "Screen memory without screenshots, just text to Markdown - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dragthelake/ambient-context",
+    "featured": false
+  },
+  {
+    "id": "a6ba381c77a0",
+    "name": "I wrote a BASIC interpreter that boots on UEFI machines",
+    "description": "I wrote a BASIC interpreter that boots on UEFI machines - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tarjan.itch.io/thoreaubasic",
+    "featured": false
+  },
+  {
+    "id": "54126e1e338e",
+    "name": "PicoMQ – Durable Streams over HTTP, on object storage",
+    "description": "PicoMQ – Durable Streams over HTTP, on object storage - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://picomq.com/",
+    "featured": false
+  },
+  {
+    "id": "fd9f5a3e9c43",
+    "name": "A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+    "description": "A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ovenpasta/adi2",
+    "featured": false
+  },
+  {
+    "id": "eee32e3ec1e4",
+    "name": "A techno machine in one HTML file, with verifiable renders",
+    "description": "A techno machine in one HTML file, with verifiable renders - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ssx360.github.io/rack-02/?src=hn",
+    "featured": false
+  },
+  {
+    "id": "f6e04a014cf1",
+    "name": "How to mentally calculate the day of the week for any date",
+    "description": "How to mentally calculate the day of the week for any date - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tinkerandsee.com/weekday/",
+    "featured": false
+  },
+  {
+    "id": "1f713feb7c46",
+    "name": "GlassBox – what the browser reveals, and how identifiable you are",
+    "description": "GlassBox – what the browser reveals, and how identifiable you are - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://glassbox.codecanary.org",
+    "featured": false
+  },
+  {
+    "id": "1bb8f74af46c",
+    "name": "Flostep – Diagrams people can actually walk through",
+    "description": "Flostep – Diagrams people can actually walk through - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://flostep.dev/",
+    "featured": false
+  },
+  {
+    "id": "3e5fd2dd75b8",
+    "name": "Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+    "description": "Kern – container and resource runtime in a 1.5 MB binary, no daemon - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/getkern/kern",
+    "featured": false
+  },
+  {
+    "id": "883695cb3018",
+    "name": "Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
+    "description": "Vanilla OS 3 Reunion – Immutable and Reproducible Operating System - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
+    "featured": false
+  },
+  {
+    "id": "f1ddee5e7103",
+    "name": "See how much your AI knows about you",
+    "description": "See how much your AI knows about you - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.withcorpus.com/knows",
+    "featured": false
+  },
+  {
+    "id": "e8fd5aa3792a",
+    "name": "I built a lite LPU that can do inference on Karpathy's MicroGPT",
+    "description": "I built a lite LPU that can do inference on Karpathy's MicroGPT - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.lpulite.com",
+    "featured": false
+  },
+  {
+    "id": "19200502e822",
+    "name": "Tblue – 614 passive security scanners for any website, runs locally",
+    "description": "Tblue – 614 passive security scanners for any website, runs locally - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/taylannuhogluofficial-png/Tblue",
+    "featured": false
+  },
+  {
+    "id": "4c84e85611c7",
+    "name": "Pyrift – static analyser for silent Python/PyPy behaviour differences",
+    "description": "Pyrift – static analyser for silent Python/PyPy behaviour differences - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/BHUVANSH855/pyrift",
+    "featured": false
+  },
+  {
+    "id": "12ef482d3e84",
+    "name": "A puzzle I couldn't solve for a year – cubers cracked it in an hour",
+    "description": "A puzzle I couldn't solve for a year – cubers cracked it in an hour - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://skimmiq.com/pt/",
+    "featured": false
   }
 ]
