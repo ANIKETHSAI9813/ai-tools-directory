@@ -3430,5 +3430,125 @@
     "category": "Productivity",
     "affiliate_link": "https://skimmiq.com/pt/",
     "featured": false
+  },
+  {
+    "id": "5a6b14ecd33b",
+    "name": "Buslens – where can I get to by bus? (UK)",
+    "description": "Buslens – where can I get to by bus? (UK) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rupertlinacre.com/buslens/",
+    "featured": false
+  },
+  {
+    "id": "b7598d97e9ed",
+    "name": "LatticeDB – Like SQLite but for graph databases",
+    "description": "LatticeDB – Like SQLite but for graph databases - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jeffhajewski/latticedb",
+    "featured": false
+  },
+  {
+    "id": "7369d43a2315",
+    "name": "I made a Raspberry with Qwen my local car AI",
+    "description": "I made a Raspberry with Qwen my local car AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ThinkOffApp/CarWatch",
+    "featured": false
+  },
+  {
+    "id": "c21d61ec22c3",
+    "name": "TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "description": "TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/swimmingbrain/texbrain",
+    "featured": false
+  },
+  {
+    "id": "1ef7ab61b466",
+    "name": "I built self-hosted deployment automation tool for Windows and IIS",
+    "description": "I built self-hosted deployment automation tool for Windows and IIS - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://fdeploy.com/",
+    "featured": false
+  },
+  {
+    "id": "5f1f12b194ec",
+    "name": "Lightweight system monitor for Linux VPS written in Go",
+    "description": "Lightweight system monitor for Linux VPS written in Go - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/leodeim/vpsmon",
+    "featured": false
+  },
+  {
+    "id": "d374f16a6888",
+    "name": "Multiplayer Laser Simulator",
+    "description": "Multiplayer Laser Simulator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://prismaduel.com/",
+    "featured": false
+  },
+  {
+    "id": "3864957e9352",
+    "name": "Browser automation with no chromedriver and no Node driver",
+    "description": "Browser automation with no chromedriver and no Node driver - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/angeldevmobile/Orion",
+    "featured": false
+  },
+  {
+    "id": "93392a361b12",
+    "name": "Wireshark in a TUI",
+    "description": "Wireshark in a TUI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yeet-src/pktscope",
+    "featured": false
+  },
+  {
+    "id": "13f1a278a485",
+    "name": "Reachpad CLI – Spin up free sandboxes in seconds to develop apps",
+    "description": "Reachpad CLI – Spin up free sandboxes in seconds to develop apps - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Reachpad/reachpad-cli",
+    "featured": false
+  },
+  {
+    "id": "d66f0148f2d9",
+    "name": "Use-Fs – A React Hook for the File System Access API and OPFS",
+    "description": "Use-Fs – A React Hook for the File System Access API and OPFS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://use-fs.com/",
+    "featured": false
+  },
+  {
+    "id": "e00f318eb38b",
+    "name": "1 Bit Pixel, pixel art editor with a CRT soul (iPad/Mac)",
+    "description": "1 Bit Pixel, pixel art editor with a CRT soul (iPad/Mac) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://1bitstudio.app/pixel/",
+    "featured": false
+  },
+  {
+    "id": "63dc703389fe",
+    "name": "Graphlib 3.1 – the C++ 23, header only solution to directional graphs",
+    "description": "Graphlib 3.1 – the C++ 23, header only solution to directional graphs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/RANDOMFNP/Graphlib",
+    "featured": false
+  },
+  {
+    "id": "0b96325e1ee9",
+    "name": "Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol",
+    "description": "Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ecdeos.org",
+    "featured": false
+  },
+  {
+    "id": "1c6c8e705530",
+    "name": "Sillage a 4 MB memory that lets a frozen language>model remember",
+    "description": "Sillage a 4 MB memory that lets a frozen language>model remember - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/riscoss63/sillage",
+    "featured": false
   }
 ]
