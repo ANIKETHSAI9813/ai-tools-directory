@@ -3550,5 +3550,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/riscoss63/sillage",
     "featured": false
+  },
+  {
+    "id": "915b345476a6",
+    "name": "The load-bearing vocabulary of Claude",
+    "description": "The load-bearing vocabulary of Claude - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://louisabraham.github.io/load-bearing/",
+    "featured": false
+  },
+  {
+    "id": "fb181c2b12ea",
+    "name": "My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+    "description": "My Claude quota ran out in 10 minutes, so I made a tool to find out why - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kelviq/tare",
+    "featured": false
+  },
+  {
+    "id": "b9bc3e8ca47e",
+    "name": "Yet another minimal and lightweight terminal multiplexer written in Go.",
+    "description": "Yet another minimal and lightweight terminal multiplexer written in Go. - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/patriceckhart/hrdx",
+    "featured": false
+  },
+  {
+    "id": "f79a96b04174",
+    "name": "Restoredrill – proves your Postgres backups restore",
+    "description": "Restoredrill – proves your Postgres backups restore - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ahmadpiran/restoredrill",
+    "featured": false
+  },
+  {
+    "id": "ed2f026d4057",
+    "name": "A lightweight, stateless database for agent memory",
+    "description": "A lightweight, stateless database for agent memory - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://polign.com/blog-edge-agent-memory",
+    "featured": false
+  },
+  {
+    "id": "4a99ce82af9c",
+    "name": "RealDiff – runtime behavior diffing for pull requests (six languages)",
+    "description": "RealDiff – runtime behavior diffing for pull requests (six languages) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/issacnitin/RealDiff",
+    "featured": false
+  },
+  {
+    "id": "15a9a4c9a357",
+    "name": "Collaborate with your team on Claude and ChatGPT artifacts",
+    "description": "Collaborate with your team on Claude and ChatGPT artifacts - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.valet.dev/blog/your-agent-is-only-the-first-collaborator",
+    "featured": false
+  },
+  {
+    "id": "530d2818e3a6",
+    "name": "Interactive SDP Explainer for WebRTC, Sip, and RTSP",
+    "description": "Interactive SDP Explainer for WebRTC, Sip, and RTSP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://explainer.pion.ly/",
+    "featured": false
+  },
+  {
+    "id": "802a0d236065",
+    "name": "Music Visualizer|New MilkDrop engine and various types of reactive art",
+    "description": "Music Visualizer|New MilkDrop engine and various types of reactive art - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ikandy.app/",
+    "featured": false
+  },
+  {
+    "id": "9a863e197b80",
+    "name": "Voronoi Go",
+    "description": "Voronoi Go - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://voronoigo.com/",
+    "featured": false
+  },
+  {
+    "id": "c5230a283e59",
+    "name": "Sparrow-2 – Solving the cocktail party problem",
+    "description": "Sparrow-2 – Solving the cocktail party problem - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.tavus.io/blog/sparrow-2",
+    "featured": false
+  },
+  {
+    "id": "400c4af23d5e",
+    "name": "A private radio station for issue updates across your org",
+    "description": "A private radio station for issue updates across your org - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/statemediafm/statemediafmradio",
+    "featured": false
+  },
+  {
+    "id": "87092d66a7a8",
+    "name": "Dropping SynthID from 188/192 to 0/192 without changing visible text",
+    "description": "Dropping SynthID from 188/192 to 0/192 without changing visible text - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mark.q1z.org",
+    "featured": false
+  },
+  {
+    "id": "cfa4337e5ba4",
+    "name": "Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub",
+    "description": "Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/seoes/proval",
+    "featured": false
+  },
+  {
+    "id": "187a4364d360",
+    "name": "AiTells, a Vale style package for AI-written prose tells",
+    "description": "AiTells, a Vale style package for AI-written prose tells - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/krishnasunkam/vale-ai-tells",
+    "featured": false
   }
 ]
