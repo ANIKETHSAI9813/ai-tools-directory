@@ -3670,5 +3670,125 @@
     "category": "Text & Writing",
     "affiliate_link": "https://github.com/krishnasunkam/vale-ai-tells",
     "featured": false
+  },
+  {
+    "id": "284ee5415a25",
+    "name": "Conduct, open-source guardrails for LLM and MCP tool calls",
+    "description": "Conduct, open-source guardrails for LLM and MCP tool calls - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sseshachala/conductai",
+    "featured": false
+  },
+  {
+    "id": "7135aad4c6ba",
+    "name": "Sesame - a local-first, open-source password manager",
+    "description": "Sesame - a local-first, open-source password manager - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://usesesame.app/",
+    "featured": false
+  },
+  {
+    "id": "76d7b011b188",
+    "name": "Hacker News Client with Claude Code and Codex Integration",
+    "description": "Hacker News Client with Claude Code and Codex Integration - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nilbuild/rundown",
+    "featured": false
+  },
+  {
+    "id": "252a963c4b57",
+    "name": "SubSmith – Turn your own videos into language-learning material",
+    "description": "SubSmith – Turn your own videos into language-learning material - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://subsmith.app",
+    "featured": false
+  },
+  {
+    "id": "9d94f51a228c",
+    "name": "iOS app for learning any song on piano with AI music transcription",
+    "description": "iOS app for learning any song on piano with AI music transcription - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933",
+    "featured": false
+  },
+  {
+    "id": "5d4703fd528d",
+    "name": "Boop – tiny, self-hosted push notifications for your apps built in Go",
+    "description": "Boop – tiny, self-hosted push notifications for your apps built in Go - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/chrisgreg/boop",
+    "featured": false
+  },
+  {
+    "id": "aaf7994d10f9",
+    "name": "FeatureFlags.app – Feature Management for .NET",
+    "description": "FeatureFlags.app – Feature Management for .NET - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://featureflags.app/",
+    "featured": false
+  },
+  {
+    "id": "2dba481f8c56",
+    "name": "Blast – Open-source sandbox-as-a-service",
+    "description": "Blast – Open-source sandbox-as-a-service - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stanford-mast/blast",
+    "featured": false
+  },
+  {
+    "id": "dfcc80c51eaa",
+    "name": "A retirement planner in one HTML file, works offline, nothing uploaded",
+    "description": "A retirement planner in one HTML file, works offline, nothing uploaded - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.torsalis.com",
+    "featured": false
+  },
+  {
+    "id": "76851f87b911",
+    "name": "Watermarks Remover: Clean LLM watermarks from text and files",
+    "description": "Watermarks Remover: Clean LLM watermarks from text and files - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/guillaumemeyer/watermarks-remover",
+    "featured": false
+  },
+  {
+    "id": "0fb288ec6876",
+    "name": "OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "description": "OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/elyosh/OpenTIE/",
+    "featured": false
+  },
+  {
+    "id": "7597f65a541e",
+    "name": "Texttile, a multiplayer blog engine for people who write together",
+    "description": "Texttile, a multiplayer blog engine for people who write together - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://www.texttile.blog/",
+    "featured": false
+  },
+  {
+    "id": "4918cb13bf9c",
+    "name": "Open tool for testing your AI Agents (No LLM)",
+    "description": "Open tool for testing your AI Agents (No LLM) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/IdoGol24/weir",
+    "featured": false
+  },
+  {
+    "id": "263c72ee937b",
+    "name": "URML – safety-eval harness for AI agents on lab and factory hardware",
+    "description": "URML – safety-eval harness for AI agents on lab and factory hardware - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
+    "featured": false
+  },
+  {
+    "id": "80191afb7f61",
+    "name": "Adding and Extending Integer Support for MATLAB Code in RunMat",
+    "description": "Adding and Extending Integer Support for MATLAB Code in RunMat - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://runmat.com/blog/adding-and-extending-integer-support-for-matlab-code-in-runmat",
+    "featured": false
   }
 ]
