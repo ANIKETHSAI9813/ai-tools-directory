@@ -3790,5 +3790,125 @@
     "category": "Productivity",
     "affiliate_link": "https://runmat.com/blog/adding-and-extending-integer-support-for-matlab-code-in-runmat",
     "featured": false
+  },
+  {
+    "id": "dc41b83f2bbe",
+    "name": "Laser Graffiti",
+    "description": "Laser Graffiti - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://laser.consti.de",
+    "featured": false
+  },
+  {
+    "id": "6e307952027c",
+    "name": "Qwiksi a CLI tool for adding your signature to a PDFs",
+    "description": "Qwiksi a CLI tool for adding your signature to a PDFs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/krisraven/qwiksi",
+    "featured": false
+  },
+  {
+    "id": "e70e7937ae77",
+    "name": "DeepSeekGUI – A Windows desktop client for DeepSeek's coding agent",
+    "description": "DeepSeekGUI – A Windows desktop client for DeepSeek's coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/See-Sol-Lab/DeepSeekGUI",
+    "featured": false
+  },
+  {
+    "id": "292f1532e352",
+    "name": "AMC Stocks Hub – asset-manager profiles, 13F holdings, and co-holdings",
+    "description": "AMC Stocks Hub – asset-manager profiles, 13F holdings, and co-holdings - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://assetmanagementcompany.net/",
+    "featured": false
+  },
+  {
+    "id": "72e992c9d8a1",
+    "name": "Kith – AI clinical notes for therapists from ambient session audio",
+    "description": "Kith – AI clinical notes for therapists from ambient session audio - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.kith.space",
+    "featured": false
+  },
+  {
+    "id": "a1be2c8dd46d",
+    "name": "Itsuki – open-source memory engine for AI agents (API and MCP)",
+    "description": "Itsuki – open-source memory engine for AI agents (API and MCP) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://itsuki.app/",
+    "featured": false
+  },
+  {
+    "id": "711d6d3e530a",
+    "name": "Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+    "description": "Tokensift, an open-sourced token-efficiency linter for LLM prompts - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ritenv/tokensift",
+    "featured": false
+  },
+  {
+    "id": "fb8a92a4c5df",
+    "name": "Visits.Report – analytics you can publish and prove",
+    "description": "Visits.Report – analytics you can publish and prove - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://visits.report/",
+    "featured": false
+  },
+  {
+    "id": "f853c1a15223",
+    "name": "Watches user sessions, finds bugs that matter, and fixes them",
+    "description": "Watches user sessions, finds bugs that matter, and fixes them - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/opslane/opslane",
+    "featured": false
+  },
+  {
+    "id": "a1b02a6424f5",
+    "name": "We built open OpenRouter that turns usage into a better model",
+    "description": "We built open OpenRouter that turns usage into a better model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/experientiallabs/experiential",
+    "featured": false
+  },
+  {
+    "id": "88b72598dfda",
+    "name": "500,000+ AOL Instant Messenger Buddy Icons All at Once",
+    "description": "500,000+ AOL Instant Messenger Buddy Icons All at Once - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://buddyiconarchive.com/",
+    "featured": false
+  },
+  {
+    "id": "6115461aa615",
+    "name": "Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%)",
+    "description": "Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Wholiver/metis",
+    "featured": false
+  },
+  {
+    "id": "d0e4aec6b82e",
+    "name": "Build your own theme park",
+    "description": "Build your own theme park - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.magicpatterns.com/theme-park",
+    "featured": false
+  },
+  {
+    "id": "8df24176b1c0",
+    "name": "I read 648 banks' exchange boards daily to show what they charge",
+    "description": "I read 648 banks' exchange boards daily to show what they charge - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://myratefx.com/",
+    "featured": false
+  },
+  {
+    "id": "41f8b0704d0b",
+    "name": "An annotated archive of S-1 filings, with hindsight",
+    "description": "An annotated archive of S-1 filings, with hindsight - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://s-1.space/",
+    "featured": false
   }
 ]
