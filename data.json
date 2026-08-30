@@ -3910,5 +3910,125 @@
     "category": "Productivity",
     "affiliate_link": "https://s-1.space/",
     "featured": false
+  },
+  {
+    "id": "845a2a4bd21a",
+    "name": "Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+    "description": "Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/AniketWathore/bolnee-chat",
+    "featured": false
+  },
+  {
+    "id": "f6f953c636f4",
+    "name": "Self-hosted mobile-friendly web UI for Herdr agents",
+    "description": "Self-hosted mobile-friendly web UI for Herdr agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/luiscleto/shepherdr",
+    "featured": false
+  },
+  {
+    "id": "9a288a47f53a",
+    "name": "ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+    "description": "ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://orchestra.shevtoneaudio.com",
+    "featured": false
+  },
+  {
+    "id": "b1efd6833a92",
+    "name": "My startup-idea scanner scored 500 ideas; the best got 6.3/10",
+    "description": "My startup-idea scanner scored 500 ideas; the best got 6.3/10 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://1mil.app/",
+    "featured": false
+  },
+  {
+    "id": "fae2aaea44fa",
+    "name": "1endpoint – Cheaper access to AI models",
+    "description": "1endpoint – Cheaper access to AI models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://1endpoint.dev",
+    "featured": false
+  },
+  {
+    "id": "31272a60bd23",
+    "name": "The Thousand – 1k founders, 1 question, one book",
+    "description": "The Thousand – 1k founders, 1 question, one book - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://thethousand.co",
+    "featured": false
+  },
+  {
+    "id": "8c1803354ece",
+    "name": "Nuzzle – adorable live wallpapers of your pets",
+    "description": "Nuzzle – adorable live wallpapers of your pets - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://usenuzzle.com",
+    "featured": false
+  },
+  {
+    "id": "15cd284e7b82",
+    "name": "Drop a SQL schema, get an interactive ER diagram",
+    "description": "Drop a SQL schema, get an interactive ER diagram - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mcdview.dev/",
+    "featured": false
+  },
+  {
+    "id": "63910d15ff94",
+    "name": "Typebase – A single-folder back end you write in TypeScript",
+    "description": "Typebase – A single-folder back end you write in TypeScript - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://typebase.io",
+    "featured": false
+  },
+  {
+    "id": "dec1a3299d10",
+    "name": "I missed the moving blocks, so I built a real Linux disk defragmenter",
+    "description": "I missed the moving blocks, so I built a real Linux disk defragmenter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gbin/defragger",
+    "featured": false
+  },
+  {
+    "id": "2789f493dc70",
+    "name": "Delete yourself from data brokers without a subscription",
+    "description": "Delete yourself from data brokers without a subscription - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/k7cfo/remove-your-data",
+    "featured": false
+  },
+  {
+    "id": "e0dfcac800c7",
+    "name": "Practice where countries are in the world",
+    "description": "Practice where countries are in the world - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49495618",
+    "featured": false
+  },
+  {
+    "id": "e3e5d724a98c",
+    "name": "Flint – A minimal C/C++ package manager and build tool written in C",
+    "description": "Flint – A minimal C/C++ package manager and build tool written in C - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/mainak55512/flint",
+    "featured": false
+  },
+  {
+    "id": "02d1809f4c52",
+    "name": "PhpEZ – A tiny PHP framework for shared LAMP hosting",
+    "description": "PhpEZ – A tiny PHP framework for shared LAMP hosting - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/QcFe/phpEZ",
+    "featured": false
+  },
+  {
+    "id": "1cfaf19edf69",
+    "name": "HN Mirror with Image Previews",
+    "description": "HN Mirror with Image Previews - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://hackernews.beliantech.com/",
+    "featured": false
   }
 ]
