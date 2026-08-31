@@ -4030,5 +4030,125 @@
     "category": "Image & Design",
     "affiliate_link": "https://hackernews.beliantech.com/",
     "featured": false
+  },
+  {
+    "id": "a5f0dea9bb8e",
+    "name": "Linux server management over SSH – written in Rust and Tauri",
+    "description": "Linux server management over SSH – written in Rust and Tauri - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://serverbox.stupidlabs.lol/",
+    "featured": false
+  },
+  {
+    "id": "1b46633eeb27",
+    "name": "E-Ink Optimized Manga for KOreader, Kindle, Kobo, ReMarkable with KCC",
+    "description": "E-Ink Optimized Manga for KOreader, Kindle, Kobo, ReMarkable with KCC - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ciromattia/kcc",
+    "featured": false
+  },
+  {
+    "id": "32604e384b83",
+    "name": "What Happens When You Give Your AI Agents a Voice and an Attitude",
+    "description": "What Happens When You Give Your AI Agents a Voice and an Attitude - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://fellowgeek.github.io/mcp-speak/",
+    "featured": false
+  },
+  {
+    "id": "6c4c62438da1",
+    "name": "Slotstream, run Qwen3.8-Flash-Next 4-bit on a low-memory Mac",
+    "description": "Slotstream, run Qwen3.8-Flash-Next 4-bit on a low-memory Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/carloslfu/slotstream",
+    "featured": false
+  },
+  {
+    "id": "a3201053b108",
+    "name": "License Detector – the fastest, most accurate license detection tool",
+    "description": "License Detector – the fastest, most accurate license detection tool - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/licensedetector/cli",
+    "featured": false
+  },
+  {
+    "id": "8df92436ebe5",
+    "name": "SlideOps, slides from a repo that flag when they drift from the code",
+    "description": "SlideOps, slides from a repo that flag when they drift from the code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/glukicov/slideops",
+    "featured": false
+  },
+  {
+    "id": "4c76cb34f08c",
+    "name": "Astral – Astro.js, but in Elixir",
+    "description": "Astral – Astro.js, but in Elixir - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/elixir-volt/astral",
+    "featured": false
+  },
+  {
+    "id": "3b95219c59ae",
+    "name": "Three Slicer, I ported OrcaSlicer to run in the browser",
+    "description": "Three Slicer, I ported OrcaSlicer to run in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://slicer.kimgh06.com/",
+    "featured": false
+  },
+  {
+    "id": "5680f6cea5f5",
+    "name": "AI startup TrustedRouter raises $1.25M",
+    "description": "AI startup TrustedRouter raises $1.25M - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49510283",
+    "featured": false
+  },
+  {
+    "id": "57f117fcc581",
+    "name": "Floe – an open-source plugin for sample libraries – CLAP/VST3/AU",
+    "description": "Floe – an open-source plugin for sample libraries – CLAP/VST3/AU - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://floe.audio/",
+    "featured": false
+  },
+  {
+    "id": "2cedd5d0dfb1",
+    "name": "NFC Energy-Harvesting PCB Business Card with an MCU",
+    "description": "NFC Energy-Harvesting PCB Business Card with an MCU - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wilsonharper.net/projects/businesscard/",
+    "featured": false
+  },
+  {
+    "id": "2341ad3dfaa1",
+    "name": "We tried to recover blurred, pixelated and redacted text (480 cases)",
+    "description": "We tried to recover blurred, pixelated and redacted text (480 cases) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://datablur.app/blog/blur-recovery-study",
+    "featured": false
+  },
+  {
+    "id": "9948b5969ef4",
+    "name": "Evoboard – GitHub style habit heatmaps with automatic activity logging",
+    "description": "Evoboard – GitHub style habit heatmaps with automatic activity logging - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://evoboard.me/",
+    "featured": false
+  },
+  {
+    "id": "63db98e48e9c",
+    "name": "I tracked 55k free proxies for a week – 1.6% were alive",
+    "description": "I tracked 55k free proxies for a week – 1.6% were alive - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/proxmint/free-proxy-list",
+    "featured": false
+  },
+  {
+    "id": "57211668ac07",
+    "name": "AI studio with 500 models for headshots, video and images",
+    "description": "AI studio with 500 models for headshots, video and images - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://magicshot.ai",
+    "featured": false
   }
 ]
