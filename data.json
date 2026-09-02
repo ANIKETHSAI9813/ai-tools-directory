@@ -4270,5 +4270,125 @@
     "category": "Productivity",
     "affiliate_link": "https://bsky.app/profile/hnwiki.bsky.social",
     "featured": false
+  },
+  {
+    "id": "f0176e09fc64",
+    "name": "Browzer",
+    "description": "Browzer - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/browzer",
+    "featured": false
+  },
+  {
+    "id": "9a60658e5658",
+    "name": "Onset MCP",
+    "description": "Onset MCP - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/onset-io",
+    "featured": false
+  },
+  {
+    "id": "d74ee309c724",
+    "name": "Parasocial",
+    "description": "Parasocial - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/parasocial",
+    "featured": false
+  },
+  {
+    "id": "42f0072799d9",
+    "name": "Stitch AI by Dynamic Mockups",
+    "description": "Stitch AI by Dynamic Mockups - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+    "featured": false
+  },
+  {
+    "id": "eea82678ce54",
+    "name": "Loqua",
+    "description": "Loqua - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/loqua",
+    "featured": false
+  },
+  {
+    "id": "fed511a247a4",
+    "name": "Userlens",
+    "description": "Userlens - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/userlens",
+    "featured": false
+  },
+  {
+    "id": "2844208d7fb4",
+    "name": "Articos",
+    "description": "Articos - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/articos",
+    "featured": false
+  },
+  {
+    "id": "7866a039efb7",
+    "name": "CleanShot 5.0 with Studio Mode",
+    "description": "CleanShot 5.0 with Studio Mode - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/cleanshot",
+    "featured": false
+  },
+  {
+    "id": "57898f1d085f",
+    "name": "Dynamic Edge",
+    "description": "Dynamic Edge - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/dynamic-edge",
+    "featured": false
+  },
+  {
+    "id": "2b03ecb70e15",
+    "name": "deepeye by deepidv",
+    "description": "deepeye by deepidv - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/deepidv",
+    "featured": false
+  },
+  {
+    "id": "405283e29ed7",
+    "name": "Dial",
+    "description": "Dial - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/dial-3",
+    "featured": false
+  },
+  {
+    "id": "d3fd83f3802f",
+    "name": "Monid",
+    "description": "Monid - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/monid",
+    "featured": false
+  },
+  {
+    "id": "0f1489780169",
+    "name": "HydraDB OSS",
+    "description": "HydraDB OSS - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/hydradb-oss",
+    "featured": false
+  },
+  {
+    "id": "3abeb50538e2",
+    "name": "Basedash AI Sources",
+    "description": "Basedash AI Sources - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/basedash",
+    "featured": false
+  },
+  {
+    "id": "749a45ce6fe4",
+    "name": "OpenClaw 2.0",
+    "description": "OpenClaw 2.0 - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
+    "featured": false
   }
 ]
