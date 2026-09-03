@@ -4390,5 +4390,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
     "featured": false
+  },
+  {
+    "id": "a493d00ed8f4",
+    "name": "Oconee Runtime – Policy enforcement for browser AI and coding agents",
+    "description": "Oconee Runtime – Policy enforcement for browser AI and coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents",
+    "featured": false
+  },
+  {
+    "id": "7b66dc135975",
+    "name": "Play Hide and Seek vs. a Self-Improving Agent Using WebMCP",
+    "description": "Play Hide and Seek vs. a Self-Improving Agent Using WebMCP - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://lightcone-webmcp.netlify.app/",
+    "featured": false
+  },
+  {
+    "id": "d2461806f895",
+    "name": "OwnTime – a chess clock for your day's priorities",
+    "description": "OwnTime – a chess clock for your day's priorities - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://owntime.app/",
+    "featured": false
+  },
+  {
+    "id": "41a465efd66e",
+    "name": "HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "description": "HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\" - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hnmatchmaker.com/",
+    "featured": false
+  },
+  {
+    "id": "ff2b2db447e5",
+    "name": "asciiQuake",
+    "description": "asciiQuake - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://asciiquake.wtf/",
+    "featured": false
+  },
+  {
+    "id": "2c36d495ed3f",
+    "name": "Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "description": "Weedout – Safari extension that hides YouTube AI-labeled videos - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://masteranza.github.io/weedout/",
+    "featured": false
+  },
+  {
+    "id": "ca2d9ef8cecd",
+    "name": "Open source ML programming language playground",
+    "description": "Open source ML programming language playground - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sw-ml-study.github.io/sw-mlpl/",
+    "featured": false
+  },
+  {
+    "id": "b2736474c51c",
+    "name": "Skatanica – Browse and share skate clips by location",
+    "description": "Skatanica – Browse and share skate clips by location - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://skatanica.com/runs",
+    "featured": false
+  },
+  {
+    "id": "e55e5e4a921f",
+    "name": "Aura – a Rust agent that investigates and fixes production incidents",
+    "description": "Aura – a Rust agent that investigates and fixes production incidents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/mezmo/aura",
+    "featured": false
+  },
+  {
+    "id": "5392c2e1a5e0",
+    "name": "I Have Been Clawed – Index of coding agent incidents",
+    "description": "I Have Been Clawed – Index of coding agent incidents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://ihavebeenclawed.com/",
+    "featured": false
+  },
+  {
+    "id": "0fe437a1a120",
+    "name": "FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+    "description": "FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://frontierharness.org",
+    "featured": false
+  },
+  {
+    "id": "93a9687c0e68",
+    "name": "Redactle LLM Leaderboard",
+    "description": "Redactle LLM Leaderboard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://redactle.net/llm-leaderboard",
+    "featured": false
+  },
+  {
+    "id": "5ce939d0f54f",
+    "name": "Convert Anything to Markdown",
+    "description": "Convert Anything to Markdown - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://anyto.md/",
+    "featured": false
+  },
+  {
+    "id": "2536d564e492",
+    "name": "Claude and ChatGPT need a datacenter. This runs on my phone",
+    "description": "Claude and ChatGPT need a datacenter. This runs on my phone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://llmobi.pages.dev",
+    "featured": false
+  },
+  {
+    "id": "6b1fbc4c5cd0",
+    "name": "Newton's Orchard – Browser-based space/gravity playground",
+    "description": "Newton's Orchard – Browser-based space/gravity playground - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://newtonsorchard.app",
+    "featured": false
   }
 ]
