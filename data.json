@@ -4510,5 +4510,125 @@
     "category": "Productivity",
     "affiliate_link": "https://newtonsorchard.app",
     "featured": false
+  },
+  {
+    "id": "9ed57d3ed8e7",
+    "name": "Million Bricks – a 3D tower of one million bricks you can buy for $10",
+    "description": "Million Bricks – a 3D tower of one million bricks you can buy for $10 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.millionbrickshomepage.com",
+    "featured": false
+  },
+  {
+    "id": "8a8df3f07841",
+    "name": "What if AI did the prompting – and humans did the thinking?",
+    "description": "What if AI did the prompting – and humans did the thinking? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.antiagent.site",
+    "featured": false
+  },
+  {
+    "id": "5d94818f3008",
+    "name": "Reactor Atlas",
+    "description": "Reactor Atlas - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://reactoratlas.com",
+    "featured": false
+  },
+  {
+    "id": "5b76885334af",
+    "name": "I made a word building game supporting anagrams and one handed use",
+    "description": "I made a word building game supporting anagrams and one handed use - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49550479",
+    "featured": false
+  },
+  {
+    "id": "5a980a983e2a",
+    "name": "Aurict – An open-source Terminal AI",
+    "description": "Aurict – An open-source Terminal AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aurict/aurict",
+    "featured": false
+  },
+  {
+    "id": "14724efeac1b",
+    "name": "Prices.eu.org",
+    "description": "Prices.eu.org - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://prices.eu.org/",
+    "featured": false
+  },
+  {
+    "id": "51cd82a2fe1a",
+    "name": "Interactive map of the Japanese address system",
+    "description": "Interactive map of the Japanese address system - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://japanmap.fyi",
+    "featured": false
+  },
+  {
+    "id": "3b444afcf529",
+    "name": "Real-time AI news aggregator with daily digest",
+    "description": "Real-time AI news aggregator with daily digest - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://aibriefs.news",
+    "featured": false
+  },
+  {
+    "id": "1b4509a4dcaa",
+    "name": "Word42, a wordprocessor inspired by MS Word and Abiword",
+    "description": "Word42, a wordprocessor inspired by MS Word and Abiword - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://word42.org/",
+    "featured": false
+  },
+  {
+    "id": "3437fb73e7aa",
+    "name": "A gravity simulator where forces propagate at the speed of light",
+    "description": "A gravity simulator where forces propagate at the speed of light - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/alessandro-pioli/AstroCausal_Engine",
+    "featured": false
+  },
+  {
+    "id": "85476fa020ad",
+    "name": "I built my first MCP to manage Google Ads",
+    "description": "I built my first MCP to manage Google Ads - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://adchestra.com/",
+    "featured": false
+  },
+  {
+    "id": "baf423a9108e",
+    "name": "Sirenfall, a civil defense siren synthesized in Web Audio",
+    "description": "Sirenfall, a civil defense siren synthesized in Web Audio - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://sirenfall.live/",
+    "featured": false
+  },
+  {
+    "id": "c414e0dfb5e1",
+    "name": "A benchmark for flight search intent",
+    "description": "A benchmark for flight search intent - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://fjmatrix.github.io/flight-search-intent-eval/",
+    "featured": false
+  },
+  {
+    "id": "68520833611c",
+    "name": "Devbar – Point at what to change. Leave a comment. Your agent ships it",
+    "description": "Devbar – Point at what to change. Leave a comment. Your agent ships it - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://devbar.sh",
+    "featured": false
+  },
+  {
+    "id": "0a3f6ba3e309",
+    "name": "MesaOS – An operating system written from scratch in Rust",
+    "description": "MesaOS – An operating system written from scratch in Rust - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/crackanimad0r/MesaOS",
+    "featured": false
   }
 ]
