@@ -4630,5 +4630,125 @@
     "category": "Text & Writing",
     "affiliate_link": "https://github.com/crackanimad0r/MesaOS",
     "featured": false
+  },
+  {
+    "id": "c58b2106c537",
+    "name": "Open-Source eInk Bike Computer",
+    "description": "Open-Source eInk Bike Computer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://opentrailpaper.com",
+    "featured": false
+  },
+  {
+    "id": "5a4d931021fc",
+    "name": "TERMy – A fast terminal assistant that does not use LLMs",
+    "description": "TERMy – A fast terminal assistant that does not use LLMs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "featured": false
+  },
+  {
+    "id": "a099e0c23762",
+    "name": "TenantLayer – Multi-Tenancy for Spring Boot and Postgres",
+    "description": "TenantLayer – Multi-Tenancy for Spring Boot and Postgres - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tenantlayer.io",
+    "featured": false
+  },
+  {
+    "id": "4a93a311166f",
+    "name": "Moadim.io – A scheduler for agents",
+    "description": "Moadim.io – A scheduler for agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://moadim.io/",
+    "featured": false
+  },
+  {
+    "id": "23790a35db27",
+    "name": "WinZST > 7-Zip fork with first-class compressed tar support on Windows",
+    "description": "WinZST > 7-Zip fork with first-class compressed tar support on Windows - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/firebadnofire/WinZST",
+    "featured": false
+  },
+  {
+    "id": "128eaae6321d",
+    "name": "Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+    "description": "Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lovaxi/Rubato_Device",
+    "featured": false
+  },
+  {
+    "id": "2ee55958e42e",
+    "name": "Personal Context MCP",
+    "description": "Personal Context MCP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lanes.sh/showcase/personal-context-mcp",
+    "featured": false
+  },
+  {
+    "id": "d8d9f866e436",
+    "name": "Agent-to-agent payment. Your agents can pay each other",
+    "description": "Agent-to-agent payment. Your agents can pay each other - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://openspender.com/agent-to-agent",
+    "featured": false
+  },
+  {
+    "id": "beafeb69d3b0",
+    "name": "TimerVana a Local-first scheduler for real world routines",
+    "description": "TimerVana a Local-first scheduler for real world routines - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://timervana.net/browse",
+    "featured": false
+  },
+  {
+    "id": "8364628792cf",
+    "name": "Marketplace for finding craft fairs and vendor events",
+    "description": "Marketplace for finding craft fairs and vendor events - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.boothscout.com",
+    "featured": false
+  },
+  {
+    "id": "d3388d44eabf",
+    "name": "Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+    "description": "Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://sageling.ai/",
+    "featured": false
+  },
+  {
+    "id": "3135023d6bee",
+    "name": "Covenant – A governance framework for multi-agent AI systems",
+    "description": "Covenant – A governance framework for multi-agent AI systems - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/asalsali/covenant-framework-community",
+    "featured": false
+  },
+  {
+    "id": "bde7b231faff",
+    "name": "Coder Eval – A Framework for Evals",
+    "description": "Coder Eval – A Framework for Evals - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/uipath/coder_eval",
+    "featured": false
+  },
+  {
+    "id": "d9590f75fb39",
+    "name": "Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite",
+    "description": "Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://didac.dev/builds/mitsubishi-air-conditioning",
+    "featured": false
+  },
+  {
+    "id": "23cffae9d6e1",
+    "name": "NationalDex • minimal open-source Pokédex",
+    "description": "NationalDex • minimal open-source Pokédex - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.nationaldex.app",
+    "featured": false
   }
 ]
