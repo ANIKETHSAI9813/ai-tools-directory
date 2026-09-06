@@ -4750,5 +4750,125 @@
     "category": "Productivity",
     "affiliate_link": "https://www.nationaldex.app",
     "featured": false
+  },
+  {
+    "id": "5037aa34e959",
+    "name": "Keen Bean – Mac meeting notes that draft the spec while you talk",
+    "description": "Keen Bean – Mac meeting notes that draft the spec while you talk - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://keenbean.app/",
+    "featured": false
+  },
+  {
+    "id": "d0ac707c314f",
+    "name": "Wayfinder – A reference implementation for evaluating AI applications",
+    "description": "Wayfinder – A reference implementation for evaluating AI applications - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/DivakarUngatla/wayfinder",
+    "featured": false
+  },
+  {
+    "id": "adc03df054c0",
+    "name": "Fly By – retro biplane flying game",
+    "description": "Fly By – retro biplane flying game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://michaelteter.com/flyby.html",
+    "featured": false
+  },
+  {
+    "id": "ffaa9b0297fd",
+    "name": "Blunderbase: A Personal Chess Database",
+    "description": "Blunderbase: A Personal Chess Database - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/philphilphil/blunderbase",
+    "featured": false
+  },
+  {
+    "id": "931c42b12def",
+    "name": "HyperCard to HTML Converter",
+    "description": "HyperCard to HTML Converter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stachon/hc2html",
+    "featured": false
+  },
+  {
+    "id": "37abbc932ae7",
+    "name": "Cowbull – Wordle-like game where you only get match counts",
+    "description": "Cowbull – Wordle-like game where you only get match counts - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cowbull.co/",
+    "featured": false
+  },
+  {
+    "id": "c4c09ce5c24c",
+    "name": "I made a retro falling block puzzle, with a twist ;)",
+    "description": "I made a retro falling block puzzle, with a twist ;) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://blocknado.app/marathon",
+    "featured": false
+  },
+  {
+    "id": "16994d7db51a",
+    "name": "OpenMonitor – vendor neutral web monitoring cloud agent",
+    "description": "OpenMonitor – vendor neutral web monitoring cloud agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.openmonitor.website/",
+    "featured": false
+  },
+  {
+    "id": "8602d7a81b8a",
+    "name": "Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels",
+    "description": "Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kings.amaze-apps.com/",
+    "featured": false
+  },
+  {
+    "id": "74e8c37a3989",
+    "name": "Getting to the top of Show HN is getting harder",
+    "description": "Getting to the top of Show HN is getting harder - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://artifactbin.dev/@vivek/6bXsx3-vol-2-show-hn-hall-of-fames",
+    "featured": false
+  },
+  {
+    "id": "a11b7cfbd37b",
+    "name": "Fast Cut Video tool for cutting video for Agents",
+    "description": "Fast Cut Video tool for cutting video for Agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/modecir/fast-cutvid",
+    "featured": false
+  },
+  {
+    "id": "f66c8e35df30",
+    "name": "Merge Wikipedia articles across languages into one page",
+    "description": "Merge Wikipedia articles across languages into one page - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gojiplus/wikifuse",
+    "featured": false
+  },
+  {
+    "id": "71a8d4d5b295",
+    "name": "MobileCode – OpenCode with Built-In iOS and Android Previews",
+    "description": "MobileCode – OpenCode with Built-In iOS and Android Previews - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hsandhu/mobilecode",
+    "featured": false
+  },
+  {
+    "id": "ae21e37cbc23",
+    "name": "Minilith – A zero-dependency CMS stored inside a PNG file",
+    "description": "Minilith – A zero-dependency CMS stored inside a PNG file - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://blog.minilith.site/#posts/minilith-architecture",
+    "featured": false
+  },
+  {
+    "id": "51955a69b5a3",
+    "name": "Agentic Video Understanding in Gemini",
+    "description": "Agentic Video Understanding in Gemini - AI tool launch.",
+    "category": "Automation",
+    "affiliate_link": "https://www.producthunt.com/products/google",
+    "featured": false
   }
 ]
