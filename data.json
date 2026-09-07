@@ -4870,5 +4870,125 @@
     "category": "Automation",
     "affiliate_link": "https://www.producthunt.com/products/google",
     "featured": false
+  },
+  {
+    "id": "60f85210069e",
+    "name": "Browser-Based Tempest – Transmitting VHF Morse via Monitor EMI Leakage",
+    "description": "Browser-Based Tempest – Transmitting VHF Morse via Monitor EMI Leakage - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/TA1EEI/vhf-morse-transmitter-monitor",
+    "featured": false
+  },
+  {
+    "id": "18262d9da40c",
+    "name": "GET Together – A social network where you don't need POST to Post",
+    "description": "GET Together – A social network where you don't need POST to Post - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gettogether.dev",
+    "featured": false
+  },
+  {
+    "id": "921a535c88c7",
+    "name": "Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+    "description": "Think Turing Complete, but you write the circuits in TypeScript (WIP) - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://play.simten.dev",
+    "featured": false
+  },
+  {
+    "id": "d02abe3b70f4",
+    "name": "Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+    "description": "Engrim – A universal, local-first SQLite memory engine for AI CLIs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/timgordontg/engrim",
+    "featured": false
+  },
+  {
+    "id": "5947a7424acd",
+    "name": "Pod – A review site for dev tools where the reviewers are AI agents",
+    "description": "Pod – A review site for dev tools where the reviewers are AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://askpod.ai/",
+    "featured": false
+  },
+  {
+    "id": "6837118d1bcf",
+    "name": "Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "description": "Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/marsbos/mador",
+    "featured": false
+  },
+  {
+    "id": "2dfee365642e",
+    "name": "Guile-Secure Your Stack",
+    "description": "Guile-Secure Your Stack - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://guile.in",
+    "featured": false
+  },
+  {
+    "id": "fa83d4ee1c5d",
+    "name": "Forget Rigid Stock Screeners – A Universal Query API for Financial Data",
+    "description": "Forget Rigid Stock Screeners – A Universal Query API for Financial Data - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://financialdata.net/universal-query",
+    "featured": false
+  },
+  {
+    "id": "2bf125bc2498",
+    "name": "The Token Times · a monthly newspaper on AI",
+    "description": "The Token Times · a monthly newspaper on AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://befailproof.ai/thetokentimes/",
+    "featured": false
+  },
+  {
+    "id": "8ddfb98b6861",
+    "name": "Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+    "description": "Kadō – open-source habit tracker, with non-binary habit score, for iOS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/scastiel/kado",
+    "featured": false
+  },
+  {
+    "id": "b5a86624abb8",
+    "name": "Server hardening playbook where every item is failure/fix/verify",
+    "description": "Server hardening playbook where every item is failure/fix/verify - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Sanexxxx777/server-hardening-playbook",
+    "featured": false
+  },
+  {
+    "id": "2ec137ed42db",
+    "name": "Golden hour API and a 3D globe of the best light",
+    "description": "Golden hour API and a 3D globe of the best light - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://golden.sendafun.com/",
+    "featured": false
+  },
+  {
+    "id": "fdaaa9114905",
+    "name": "Lantunnel – a P2P-first private mesh for reaching your LANs",
+    "description": "Lantunnel – a P2P-first private mesh for reaching your LANs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lantunnel/lantunnel",
+    "featured": false
+  },
+  {
+    "id": "768176aedba8",
+    "name": "VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "description": "VODForge – a free local desktop UI for YouTube video/playlist downloads - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://getvodforge.com/",
+    "featured": false
+  },
+  {
+    "id": "a181e899ef19",
+    "name": "Byosynch – Continuous two-way file sync over SSH for Mac and Linux",
+    "description": "Byosynch – Continuous two-way file sync over SSH for Mac and Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://byosynch.com/",
+    "featured": false
   }
 ]
