@@ -4990,5 +4990,125 @@
     "category": "Productivity",
     "affiliate_link": "https://byosynch.com/",
     "featured": false
+  },
+  {
+    "id": "c30feb76c3f6",
+    "name": "Jigsaw Haiku",
+    "description": "Jigsaw Haiku - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jigsawhaiku.com/",
+    "featured": false
+  },
+  {
+    "id": "b6bf3f5f4c0b",
+    "name": "Interactive Tree of Life",
+    "description": "Interactive Tree of Life - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ptree.org/",
+    "featured": false
+  },
+  {
+    "id": "8b5f7f93181f",
+    "name": "Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "description": "Stuxnet – A reconstructed source code of the infamous cyber-weapon - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Sadpainy/Stuxnet",
+    "featured": false
+  },
+  {
+    "id": "0059bd53b162",
+    "name": "I made Artle – a quick, daily art guessing game",
+    "description": "I made Artle – a quick, daily art guessing game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://artle.eu",
+    "featured": false
+  },
+  {
+    "id": "a01d995b38e3",
+    "name": "I've Translated Linear Algebra Done Right by Axler to Hebrew",
+    "description": "I've Translated Linear Algebra Done Right by Axler to Hebrew - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://twitter.com/AxlerLinear/status/2097188716091674804",
+    "featured": false
+  },
+  {
+    "id": "4161d5a751c0",
+    "name": "NYC MapTap – Learn NYC neighborhoods",
+    "description": "NYC MapTap – Learn NYC neighborhoods - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://albertjoseph0.github.io/nyc-maptap/",
+    "featured": false
+  },
+  {
+    "id": "74b96561a10a",
+    "name": "Wg-admin – web UI for an existing WireGuard host",
+    "description": "Wg-admin – web UI for an existing WireGuard host - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/logimaxx/wg-admin",
+    "featured": false
+  },
+  {
+    "id": "bdbbc4d49fd0",
+    "name": "Doc-scraper, offline searchable docs corpora for coding agents (Go)",
+    "description": "Doc-scraper, offline searchable docs corpora for coding agents (Go) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Sriram-PR/doc-scraper",
+    "featured": false
+  },
+  {
+    "id": "8a7cc57075fa",
+    "name": "HomeCat – Design your backyard office",
+    "description": "HomeCat – Design your backyard office - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://myhomecat.com",
+    "featured": false
+  },
+  {
+    "id": "7b7e56b05da9",
+    "name": "Isle – managed application environments for computer-use agents",
+    "description": "Isle – managed application environments for computer-use agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.tryisle.com",
+    "featured": false
+  },
+  {
+    "id": "8520ce4789fd",
+    "name": "Claude Style Patch – A dropin Claude.MD section for improving Claudish",
+    "description": "Claude Style Patch – A dropin Claude.MD section for improving Claudish - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/andrewroxby/claude-style-patch",
+    "featured": false
+  },
+  {
+    "id": "a1e86b7115a8",
+    "name": "Browser only CSV editor, data never leaves your machine",
+    "description": "Browser only CSV editor, data never leaves your machine - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://csvpreview.com",
+    "featured": false
+  },
+  {
+    "id": "bfc8b5ea95c9",
+    "name": "Jackalope.dev",
+    "description": "Jackalope.dev - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jackalope.dev/",
+    "featured": false
+  },
+  {
+    "id": "b832c26c2804",
+    "name": "Archprint, infer architecture lint rules from your repo's import graph",
+    "description": "Archprint, infer architecture lint rules from your repo's import graph - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Tommkruix/archprint",
+    "featured": false
+  },
+  {
+    "id": "4c205166702e",
+    "name": "Zero downtime embedding model upgrades",
+    "description": "Zero downtime embedding model upgrades - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/arnsri33/embedflow",
+    "featured": false
   }
 ]
