@@ -5110,5 +5110,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/arnsri33/embedflow",
     "featured": false
+  },
+  {
+    "id": "a940c1c88139",
+    "name": "Hazzel – A tiny, minimal, Git-native coding agent",
+    "description": "Hazzel – A tiny, minimal, Git-native coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/mukundzha/hazzel",
+    "featured": false
+  },
+  {
+    "id": "0c66f27aef2d",
+    "name": "Copperhead – Cursor for circuit boards",
+    "description": "Copperhead – Cursor for circuit boards - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://copperhead.sh/",
+    "featured": false
+  },
+  {
+    "id": "d8fb85b4ef05",
+    "name": "LLM Attention Visualization",
+    "description": "LLM Attention Visualization - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "featured": false
+  },
+  {
+    "id": "d1250e4e209c",
+    "name": "NeXDM – Fast 64-segment download manager for Windows in Rust",
+    "description": "NeXDM – Fast 64-segment download manager for Windows in Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nexdm.in/",
+    "featured": false
+  },
+  {
+    "id": "99278288100c",
+    "name": "Numen - self hosted, it tells you what needs attention before you ask",
+    "description": "Numen - self hosted, it tells you what needs attention before you ask - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/theBstar/numen",
+    "featured": false
+  },
+  {
+    "id": "c7825857030a",
+    "name": "AgentPulse – Claude Code and Codex status in tmux",
+    "description": "AgentPulse – Claude Code and Codex status in tmux - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/jerriclynsjohn/tmux-agent-pulse",
+    "featured": false
+  },
+  {
+    "id": "87c6644d4d5e",
+    "name": "Impress your boss with interactive Scikit-Learn Decision Tree",
+    "description": "Impress your boss with interactive Scikit-Learn Decision Tree - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mljar/supertree",
+    "featured": false
+  },
+  {
+    "id": "301f800320cd",
+    "name": "Compute Polynomials Twice as Fast",
+    "description": "Compute Polynomials Twice as Fast - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://thomasahle.com/fast-polynomials/",
+    "featured": false
+  },
+  {
+    "id": "c4767ab95af7",
+    "name": "VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+    "description": "VolAnti – Open-source acoustic detector for fibre-optic FPV drones - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/agamrossen/VolAnti",
+    "featured": false
+  },
+  {
+    "id": "d05cc1822e1e",
+    "name": "Booley – open-source IDE for agentic chip design",
+    "description": "Booley – open-source IDE for agentic chip design - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/boldaxolotl/booley",
+    "featured": false
+  },
+  {
+    "id": "26526a78ba8e",
+    "name": "ZWPlayer 3.3.2, a free HTML5 video player with ads and music mode",
+    "description": "ZWPlayer 3.3.2, a free HTML5 video player with ads and music mode - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.zwplayer.com/",
+    "featured": false
+  },
+  {
+    "id": "8d006ce691ea",
+    "name": "AI-first open-source alternative to Microsoft and Google Office",
+    "description": "AI-first open-source alternative to Microsoft and Google Office - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/injectinglabs/injoffice",
+    "featured": false
+  },
+  {
+    "id": "98ae4f4eae21",
+    "name": "Estimate your AI CO2 footprint",
+    "description": "Estimate your AI CO2 footprint - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://llmfootprint.fyi/",
+    "featured": false
+  },
+  {
+    "id": "135ea7e45135",
+    "name": "Self-host open-source LLMs on AWS with scale-to-zero",
+    "description": "Self-host open-source LLMs on AWS with scale-to-zero - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/paguasmar/veloxml-deploy",
+    "featured": false
+  },
+  {
+    "id": "ce2c0061c9c2",
+    "name": "Raven – Encrypted messages hidden inside ordinary text",
+    "description": "Raven – Encrypted messages hidden inside ordinary text - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sendraven.ink",
+    "featured": false
   }
 ]
