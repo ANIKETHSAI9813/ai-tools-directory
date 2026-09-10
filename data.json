@@ -5230,5 +5230,125 @@
     "category": "Productivity",
     "affiliate_link": "https://sendraven.ink",
     "featured": false
+  },
+  {
+    "id": "8b391dea9d70",
+    "name": "The same nine streaming subscriptions cost $702/year more than in 2021",
+    "description": "The same nine streaming subscriptions cost $702/year more than in 2021 - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://honestlyranked.com/guides/streaming-price-increases/",
+    "featured": false
+  },
+  {
+    "id": "8c0d9de43541",
+    "name": "What if the speed of light was 5 km/h?",
+    "description": "What if the speed of light was 5 km/h? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rivendell.dmitrybrant.com/relativity/",
+    "featured": false
+  },
+  {
+    "id": "e36eaddb16be",
+    "name": "Art – draw one stroke, let symmetry complete it",
+    "description": "Art – draw one stroke, let symmetry complete it - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mrdee.in/mandala/",
+    "featured": false
+  },
+  {
+    "id": "0454e6a413c5",
+    "name": "A free API to query 3.5B subdomains",
+    "description": "A free API to query 3.5B subdomains - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://subdomains.jsmon.sh",
+    "featured": false
+  },
+  {
+    "id": "4b7c28875704",
+    "name": "Persistent Jupyter kernel execution and live output streaming in VSCode",
+    "description": "Persistent Jupyter kernel execution and live output streaming in VSCode - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/rnoro/tithon",
+    "featured": false
+  },
+  {
+    "id": "1c9cbc199d9b",
+    "name": "Draw a wheel. See the road it rolls on",
+    "description": "Draw a wheel. See the road it rolls on - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://baselashraf.com/roadwright/",
+    "featured": false
+  },
+  {
+    "id": "8e8476bc1bfc",
+    "name": "Botbin.io – pastebin for AI agent artifacts",
+    "description": "Botbin.io – pastebin for AI agent artifacts - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://botbin.io/?v=next",
+    "featured": false
+  },
+  {
+    "id": "23dc7c531ac9",
+    "name": "Self-hosted company OS, Claude Code and Codex agents in departments",
+    "description": "Self-hosted company OS, Claude Code and Codex agents in departments - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/OtoDock/oto-dock",
+    "featured": false
+  },
+  {
+    "id": "768e0d979e85",
+    "name": "SubnetLens – OSS local network scanner built in Go with a TUI",
+    "description": "SubnetLens – OSS local network scanner built in Go with a TUI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ostefani/subnetlens",
+    "featured": false
+  },
+  {
+    "id": "b5f4770be407",
+    "name": "Free ePub Tools Online – View, Edit and Extract – ePub Toolset",
+    "description": "Free ePub Tools Online – View, Edit and Extract – ePub Toolset - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://epubtoolset.com",
+    "featured": false
+  },
+  {
+    "id": "74125c188853",
+    "name": "Geiger – See every AI agent on your machine and what it can touch",
+    "description": "Geiger – See every AI agent on your machine and what it can touch - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Atomburstofficial/geiger",
+    "featured": false
+  },
+  {
+    "id": "58b6760ad9b4",
+    "name": "I turned a 25 year old web platform into a HATEOAS multi-agent system",
+    "description": "I turned a 25 year old web platform into a HATEOAS multi-agent system - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://pwnc.it/en/home.php",
+    "featured": false
+  },
+  {
+    "id": "25a5e9246c10",
+    "name": "They chose your competitor. Find out why",
+    "description": "They chose your competitor. Find out why - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://drop.space",
+    "featured": false
+  },
+  {
+    "id": "fa6f5fbf5c65",
+    "name": "Rdltr – Inbox zero for your reading list",
+    "description": "Rdltr – Inbox zero for your reading list - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rdltr.app/",
+    "featured": false
+  },
+  {
+    "id": "c4c0a8f054ab",
+    "name": "Whetuu – An opinionated, zero-config status line and history picker",
+    "description": "Whetuu – An opinionated, zero-config status line and history picker - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yamafaktory/whetuu",
+    "featured": false
   }
 ]
