@@ -5350,5 +5350,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/yamafaktory/whetuu",
     "featured": false
+  },
+  {
+    "id": "7fa896c74bcc",
+    "name": "Foldelight – the iPhone Duo folding effect the MacBook was owed",
+    "description": "Foldelight – the iPhone Duo folding effect the MacBook was owed - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://lufzle.dev/foldelight/",
+    "featured": false
+  },
+  {
+    "id": "b78de1b38af7",
+    "name": "Vertumnus – printable posters of farmers' market produce seasonality",
+    "description": "Vertumnus – printable posters of farmers' market produce seasonality - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vertumnus.fyi",
+    "featured": false
+  },
+  {
+    "id": "b9daf8150721",
+    "name": "A browser IDE for m68000, Z80 assembly (and more), with graphics",
+    "description": "A browser IDE for m68000, Z80 assembly (and more), with graphics - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://asm-editor.specy.app/",
+    "featured": false
+  },
+  {
+    "id": "22fc92769ecf",
+    "name": "Beautiful Markdown rendering in your terminal",
+    "description": "Beautiful Markdown rendering in your terminal - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/spencerldixon/lime",
+    "featured": false
+  },
+  {
+    "id": "02f2629c2920",
+    "name": "DOOM in the kernel, or fibers in eBPF",
+    "description": "DOOM in the kernel, or fibers in eBPF - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ayles.github.io/doom-in-kernel/",
+    "featured": false
+  },
+  {
+    "id": "550c6d06a83f",
+    "name": "MultiMatte, a Promptable Image Background Removal Model",
+    "description": "MultiMatte, a Promptable Image Background Removal Model - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://usefeyn.com/blog/multimatte/",
+    "featured": false
+  },
+  {
+    "id": "d095edbd9ca4",
+    "name": "Filament – Fast data movement engine in Go",
+    "description": "Filament – Fast data movement engine in Go - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/galaxy-io/filament",
+    "featured": false
+  },
+  {
+    "id": "82ac4c9b4ad0",
+    "name": "A local, open-source version of Claude Code",
+    "description": "A local, open-source version of Claude Code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/just-not-google/BiNeuron",
+    "featured": false
+  },
+  {
+    "id": "1da4ba370bb3",
+    "name": "I pointed 11 cold AI agents at my own product. 3 finished",
+    "description": "I pointed 11 cold AI agents at my own product. 3 finished - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://pact0.com/notes/agents-vs-our-own-product",
+    "featured": false
+  },
+  {
+    "id": "90e4c8dbe0c4",
+    "name": "Self Host Your Own Minecraft Java Server with Ease",
+    "description": "Self Host Your Own Minecraft Java Server with Ease - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/5TN1rcZRS79VAEFuUCRB/MCPersist",
+    "featured": false
+  },
+  {
+    "id": "b38f2b431815",
+    "name": "Nightshift – Your code gets better while you sleep",
+    "description": "Nightshift – Your code gets better while you sleep - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/openslop/nightshift",
+    "featured": false
+  },
+  {
+    "id": "3461dc96687e",
+    "name": "Family Greenhouse – shared plant care for a household",
+    "description": "Family Greenhouse – shared plant care for a household - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://familygreenhouse.net/",
+    "featured": false
+  },
+  {
+    "id": "9af8f3b1ff40",
+    "name": "Kern Agent – See inside your agent's brain",
+    "description": "Kern Agent – See inside your agent's brain - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/oguzbilgic/kern-ai",
+    "featured": false
+  },
+  {
+    "id": "fea71e51fbab",
+    "name": "Learn programming by building something you want",
+    "description": "Learn programming by building something you want - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://codeset.ai/",
+    "featured": false
+  },
+  {
+    "id": "6a52355c5bfd",
+    "name": "Post-graph-RAG – your RAG still thinks the old CFO is the CFO",
+    "description": "Post-graph-RAG – your RAG still thinks the old CFO is the CFO - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/crajah/post-graph-rag",
+    "featured": false
   }
 ]
