@@ -5470,5 +5470,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/crajah/post-graph-rag",
     "featured": false
+  },
+  {
+    "id": "94269ba2055c",
+    "name": "I wrote a book on using AI in game design production (free on GitHub)",
+    "description": "I wrote a book on using AI in game design production (free on GitHub) - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/eremes81/game-design-ai-practice-en",
+    "featured": false
+  },
+  {
+    "id": "0d759abbe1cb",
+    "name": "Bodily Oddities",
+    "description": "Bodily Oddities - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vester.si/bodily-oddities/",
+    "featured": false
+  },
+  {
+    "id": "51c78ba3f128",
+    "name": "ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "description": "ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mirza-rizvi/ResolveHQ",
+    "featured": false
+  },
+  {
+    "id": "055d5b8ca7fc",
+    "name": "We built a local-first Android agent. Then Meta launched Muse",
+    "description": "We built a local-first Android agent. Then Meta launched Muse - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://creepy.im/",
+    "featured": false
+  },
+  {
+    "id": "b7ccd404c732",
+    "name": "Godot and Rust based multiplexer (terminal panes and more)",
+    "description": "Godot and Rust based multiplexer (terminal panes and more) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/godot-pty/gpty",
+    "featured": false
+  },
+  {
+    "id": "4cfbd6f7baeb",
+    "name": "Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "description": "Graphify C# – Compiler-accurate Find Usages for coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/zachsaw/graphify-csharp",
+    "featured": false
+  },
+  {
+    "id": "b61e4d6a51b3",
+    "name": "Hacker News, without AI",
+    "description": "Hacker News, without AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hcker.news/?ai=exclude",
+    "featured": false
+  },
+  {
+    "id": "68aca59c2e78",
+    "name": "I built a hand-modeled 3D Windows 98 portfolio with Three.js",
+    "description": "I built a hand-modeled 3D Windows 98 portfolio with Three.js - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wesselsdesktop.com/",
+    "featured": false
+  },
+  {
+    "id": "3d127ce09bfd",
+    "name": "Don't Hit Send – the model answers while you type",
+    "description": "Don't Hit Send – the model answers while you type - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/scalattice/dont-hit-send",
+    "featured": false
+  },
+  {
+    "id": "02cae3a22c74",
+    "name": "Clawfight.ai MCP-driven agentic game play",
+    "description": "Clawfight.ai MCP-driven agentic game play - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://clawfight.ai/agents.md",
+    "featured": false
+  },
+  {
+    "id": "1c121c438cca",
+    "name": "Extension to filter LLM written articles",
+    "description": "Extension to filter LLM written articles - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://hnslop.nilsherzig.com/",
+    "featured": false
+  },
+  {
+    "id": "8c4aadf97176",
+    "name": "Next Notes – local dictation, meeting notes, and actions app",
+    "description": "Next Notes – local dictation, meeting notes, and actions app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/spyhack225/next-notes",
+    "featured": false
+  },
+  {
+    "id": "39d471811ffd",
+    "name": "Claude Read Aloud – Hear Claude's Replies Instead of Reading",
+    "description": "Claude Read Aloud – Hear Claude's Replies Instead of Reading - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/MichaelPGifford/claude-read-aloud",
+    "featured": false
+  },
+  {
+    "id": "d53366dbc07d",
+    "name": "Loop Pedal for Video",
+    "description": "Loop Pedal for Video - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/haxybaxy/video-pedal",
+    "featured": false
+  },
+  {
+    "id": "c60ff207739e",
+    "name": "Toast, a beautiful by default in terminal IDE",
+    "description": "Toast, a beautiful by default in terminal IDE - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/paradise-runner/toast",
+    "featured": false
   }
 ]
