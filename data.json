@@ -5710,5 +5710,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/ricardoborges/DiskTriage",
     "featured": false
+  },
+  {
+    "id": "0f81e5211098",
+    "name": "Pelican-bicycle alternatives (updated for 2026)",
+    "description": "Pelican-bicycle alternatives (updated for 2026) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "featured": false
+  },
+  {
+    "id": "98cab947ad65",
+    "name": "Kinesis – Control your Mac with the Meta Neural Band",
+    "description": "Kinesis – Control your Mac with the Meta Neural Band - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/callbacked/kinesis",
+    "featured": false
+  },
+  {
+    "id": "d2be8fae8afe",
+    "name": "What an agent does when anyone can read and rewrite its context",
+    "description": "What an agent does when anyone can read and rewrite its context - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://ljedrz.github.io/nachalnik/",
+    "featured": false
+  },
+  {
+    "id": "0247210b0bff",
+    "name": "Voice Rater – in-browser voice analysis (jitter, CPPS, formants)",
+    "description": "Voice Rater – in-browser voice analysis (jitter, CPPS, formants) - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://voice-rater.com/",
+    "featured": false
+  },
+  {
+    "id": "577980c8e662",
+    "name": "Prmptree – AI email agent with a trust dial, not an on/off switch",
+    "description": "Prmptree – AI email agent with a trust dial, not an on/off switch - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.prmptree.com/",
+    "featured": false
+  },
+  {
+    "id": "cc53e3eff657",
+    "name": "Fluidify – A wiki of the industrial world being built (post-2026)",
+    "description": "Fluidify – A wiki of the industrial world being built (post-2026) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.fluidify.org/map",
+    "featured": false
+  },
+  {
+    "id": "10ea8a260483",
+    "name": "Chickadee – Free, local, open-source text-to-speech for web pages",
+    "description": "Chickadee – Free, local, open-source text-to-speech for web pages - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.usechickadee.com",
+    "featured": false
+  },
+  {
+    "id": "95b551f89c2b",
+    "name": "Single-file private Markdown viewer",
+    "description": "Single-file private Markdown viewer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49697103",
+    "featured": false
+  },
+  {
+    "id": "3e9f7278bc01",
+    "name": "Bastion – run each MCP server once, for every client on your Mac",
+    "description": "Bastion – run each MCP server once, for every client on your Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bastion.mgcrea.io/",
+    "featured": false
+  },
+  {
+    "id": "b5f7261362cb",
+    "name": "My-IP-Info – Ad-free IP intelligence, WebRTC, and DNS leak tester",
+    "description": "My-IP-Info – Ad-free IP intelligence, WebRTC, and DNS leak tester - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ii2d/my-ip-info",
+    "featured": false
+  },
+  {
+    "id": "4e0878cba57a",
+    "name": "I built Otis, a minimal AI agent that runs local models out of the box",
+    "description": "I built Otis, a minimal AI agent that runs local models out of the box - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://triangllabs.ai/otis",
+    "featured": false
+  },
+  {
+    "id": "6d20faa3a5e4",
+    "name": "Fixrs – Refactoring for long absolute paths and clippy:absolute_paths",
+    "description": "Fixrs – Refactoring for long absolute paths and clippy:absolute_paths - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/webc-site/fixrs",
+    "featured": false
+  },
+  {
+    "id": "cf61d04ed19f",
+    "name": "Salmon – tray and desktop alerts for systemd services and custom checks",
+    "description": "Salmon – tray and desktop alerts for systemd services and custom checks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dimonomid/salmon",
+    "featured": false
+  },
+  {
+    "id": "406f06e47060",
+    "name": "Memory plugin for coding agents that remembers your coding&chat history",
+    "description": "Memory plugin for coding agents that remembers your coding&chat history - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/deepmemteam/deepmem-claude-plugin",
+    "featured": false
+  },
+  {
+    "id": "6323cc35c270",
+    "name": "Music visualizer that knows the drop is coming (iOS 27 on-device)",
+    "description": "Music visualizer that knows the drop is coming (iOS 27 on-device) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.prismatic.fm/music/conductor",
+    "featured": false
   }
 ]
