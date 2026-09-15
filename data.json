@@ -5830,5 +5830,125 @@
     "category": "Productivity",
     "affiliate_link": "https://www.prismatic.fm/music/conductor",
     "featured": false
+  },
+  {
+    "id": "4e7ba9f5f04b",
+    "name": "An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "description": "An e-ink frame that hears birds and draws them as 1800s illustrations - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/arnegiacomo/fugleramme",
+    "featured": false
+  },
+  {
+    "id": "b135bfe9de6d",
+    "name": "Redis City – Explore how Redis works in an interactive 3D model",
+    "description": "Redis City – Explore how Redis works in an interactive 3D model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://poltora.dev/redis",
+    "featured": false
+  },
+  {
+    "id": "ed050f2acf62",
+    "name": "ScaleUp City Simulator",
+    "description": "ScaleUp City Simulator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://city.scaleupcto.com/",
+    "featured": false
+  },
+  {
+    "id": "222609ac1c76",
+    "name": "Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+    "description": "Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "featured": false
+  },
+  {
+    "id": "1fb92bf26136",
+    "name": "A Zoomable Equal-Area Map Projection that interpolates to Mercator",
+    "description": "A Zoomable Equal-Area Map Projection that interpolates to Mercator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.benjoffe.com/map",
+    "featured": false
+  },
+  {
+    "id": "6ece847a6a6f",
+    "name": "Neobrutalism.dev – Just added Base UI support and added new color theme",
+    "description": "Neobrutalism.dev – Just added Base UI support and added new color theme - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.neobrutalism.dev/",
+    "featured": false
+  },
+  {
+    "id": "8d7d8ab7e12b",
+    "name": "Jinfer – AI inference engine for the JVM. AI in a jar",
+    "description": "Jinfer – AI inference engine for the JVM. AI in a jar - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://qxotic.ai/",
+    "featured": false
+  },
+  {
+    "id": "fa19f33d9dfc",
+    "name": "Pushie – Get notified with a simple webhook",
+    "description": "Pushie – Get notified with a simple webhook - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pushie.net",
+    "featured": false
+  },
+  {
+    "id": "16dbc6184aee",
+    "name": "Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
+    "description": "Fly.exe – An EON systems like virtual fruit fly uploaded to computer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Ibtisam-Mohammad/Fly.exe",
+    "featured": false
+  },
+  {
+    "id": "eeb5d9b3f02a",
+    "name": "Analyzed 400 routes and driving a Tesla beats flying 65% of the time",
+    "description": "Analyzed 400 routes and driving a Tesla beats flying 65% of the time - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://flyortesla.com/insights",
+    "featured": false
+  },
+  {
+    "id": "3f0d739ac0c5",
+    "name": "What Just Pinged Me?",
+    "description": "What Just Pinged Me? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://whatjustpingedme.com",
+    "featured": false
+  },
+  {
+    "id": "6cd2f0cb7018",
+    "name": "1080p is 920px tall – 1k real browser viewports",
+    "description": "1080p is 920px tall – 1k real browser viewports - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://screensize.net/reports/viewport-stats",
+    "featured": false
+  },
+  {
+    "id": "1e9e8b1e72e8",
+    "name": "An open-source control plane for your company's AI agents",
+    "description": "An open-source control plane for your company's AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/vstorm-co/agenticos",
+    "featured": false
+  },
+  {
+    "id": "c7973dfc373f",
+    "name": "MCP Harbor – An MCP Registry",
+    "description": "MCP Harbor – An MCP Registry - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ai.mcpharbor.dev/",
+    "featured": false
+  },
+  {
+    "id": "e4b656a6de0c",
+    "name": "Authorize MCP tool calls without giving agents the credentials",
+    "description": "Authorize MCP tool calls without giving agents the credentials - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/keydrisLabs/mcp-auth-keydris-template",
+    "featured": false
   }
 ]
