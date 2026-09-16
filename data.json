@@ -5950,5 +5950,125 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/keydrisLabs/mcp-auth-keydris-template",
     "featured": false
+  },
+  {
+    "id": "93012fd9d904",
+    "name": "I made a flight simulator, except you're just a passenger",
+    "description": "I made a flight simulator, except you're just a passenger - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://inflightsimulator.com",
+    "featured": false
+  },
+  {
+    "id": "306fc0a12a7c",
+    "name": "Picxel – Turn reference images into pixel-art game assets",
+    "description": "Picxel – Turn reference images into pixel-art game assets - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/See-Sol-Lab/Picxel",
+    "featured": false
+  },
+  {
+    "id": "dbc9010b4eab",
+    "name": "How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "description": "How Stale Is Your AI? Release age and training cutoff for 20 models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://stale.jock.pl/",
+    "featured": false
+  },
+  {
+    "id": "b4f8812b4be5",
+    "name": "Capsule – Single-file web apps that save their data into SQLite",
+    "description": "Capsule – Single-file web apps that save their data into SQLite - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://withcapsule.app/",
+    "featured": false
+  },
+  {
+    "id": "78b5cd0c50f7",
+    "name": "TurboBench, the Compression Lie Detector, 100 Codecs, Daily Update",
+    "description": "TurboBench, the Compression Lie Detector, 100 Codecs, Daily Update - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/powturbo/TurboBench/blob/master/benchmark.md",
+    "featured": false
+  },
+  {
+    "id": "dfe98e4f12c4",
+    "name": "Hacking a $20 4G wireless hotspot into a texting device",
+    "description": "Hacking a $20 4G wireless hotspot into a texting device - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bkovac.github.io/modem-thing/",
+    "featured": false
+  },
+  {
+    "id": "dafd142b1dcc",
+    "name": "Modern RSS reader with social capabilities based on AT Proto",
+    "description": "Modern RSS reader with social capabilities based on AT Proto - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sunred.app/",
+    "featured": false
+  },
+  {
+    "id": "0ce4868202f1",
+    "name": "Pizza Bot – An inbox for AI agents that work in the background",
+    "description": "Pizza Bot – An inbox for AI agents that work in the background - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/pizza-bot-app/pizza-bot",
+    "featured": false
+  },
+  {
+    "id": "044b25e89e75",
+    "name": "Pull every comment out of a Google Sheet, in the browser",
+    "description": "Pull every comment out of a Google Sheet, in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bensunter.com/commentpulse.html",
+    "featured": false
+  },
+  {
+    "id": "9ebc15d64c06",
+    "name": "Panel – A research workspace where the agent can build its own panes",
+    "description": "Panel – A research workspace where the agent can build its own panes - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/greentfrapp/panel",
+    "featured": false
+  },
+  {
+    "id": "ad7d4d1d5828",
+    "name": "Nerdulator – put something in, get everything out (no AI)",
+    "description": "Nerdulator – put something in, get everything out (no AI) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nerdulator.com",
+    "featured": false
+  },
+  {
+    "id": "ce5601e55584",
+    "name": "Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+    "description": "Ordewell – turn one goal into an ordered plan of coding-agent tasks - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/ordewell/ordewell",
+    "featured": false
+  },
+  {
+    "id": "d246933d4f6d",
+    "name": "Loss. a tiny satire about AI progress",
+    "description": "Loss. a tiny satire about AI progress - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://workatloss.com/",
+    "featured": false
+  },
+  {
+    "id": "8d14c16069ee",
+    "name": "Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s",
+    "description": "Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sqliteai/warp",
+    "featured": false
+  },
+  {
+    "id": "a03f8a13a008",
+    "name": "SCIP MIP solver bindings for Go, ported from russcip",
+    "description": "SCIP MIP solver bindings for Go, ported from russcip - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/egoisutolabs/scipgo",
+    "featured": false
   }
 ]
