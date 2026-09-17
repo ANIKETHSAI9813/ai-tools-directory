@@ -6070,5 +6070,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/egoisutolabs/scipgo",
     "featured": false
+  },
+  {
+    "id": "4ce39b37f4f0",
+    "name": "I built a new version of my fun spatial 3D online meeting app",
+    "description": "I built a new version of my fun spatial 3D online meeting app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://flat.social",
+    "featured": false
+  },
+  {
+    "id": "59b92f4d3213",
+    "name": "Trading on-chain with 0 gas: A <1ms DEX router at 0.50% fees",
+    "description": "Trading on-chain with 0 gas: A <1ms DEX router at 0.50% fees - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rhopool.com/",
+    "featured": false
+  },
+  {
+    "id": "57f48f9bd1f8",
+    "name": "AttaLambda: a language where types and data are made of untyped lambdas",
+    "description": "AttaLambda: a language where types and data are made of untyped lambdas - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://attalambda.com",
+    "featured": false
+  },
+  {
+    "id": "372df07cbead",
+    "name": "Restarted – a 2026 remake of the classic 2015 startup generator",
+    "description": "Restarted – a 2026 remake of the classic 2015 startup generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://restarted.io/",
+    "featured": false
+  },
+  {
+    "id": "e30691515a14",
+    "name": "SeasonMap – when to travel where? visualized with climate data",
+    "description": "SeasonMap – when to travel where? visualized with climate data - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://seasonmap.app",
+    "featured": false
+  },
+  {
+    "id": "5284be20b31a",
+    "name": "ManyBot – Framework to build WhatsApp bots, without the boring part",
+    "description": "ManyBot – Framework to build WhatsApp bots, without the boring part - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://manybot.org",
+    "featured": false
+  },
+  {
+    "id": "ea216adb91e5",
+    "name": "Collected every single \"What are you working on\" project into a website",
+    "description": "Collected every single \"What are you working on\" project into a website - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://what-are-you-working-on-62u6b.reachpad.app/",
+    "featured": false
+  },
+  {
+    "id": "214533b2de21",
+    "name": "Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+    "description": "Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+    "featured": false
+  },
+  {
+    "id": "5493fe8c5fa8",
+    "name": "Kosmic Kart – Mario Kart-style racing with friends in the browser",
+    "description": "Kosmic Kart – Mario Kart-style racing with friends in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kosmi.io/kosmic-kart/",
+    "featured": false
+  },
+  {
+    "id": "eaa5da1d344c",
+    "name": "Interakt – open-source self-hosted search and AI chat for your website",
+    "description": "Interakt – open-source self-hosted search and AI chat for your website - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/alphasolutionsrepo/interakt",
+    "featured": false
+  },
+  {
+    "id": "32e51e905081",
+    "name": "Halo 3's Guardian, playable in the browser, as my personal website",
+    "description": "Halo 3's Guardian, playable in the browser, as my personal website - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://runboli.com",
+    "featured": false
+  },
+  {
+    "id": "e13c591b61a7",
+    "name": "Pixel Agents – A pixel-art mission control for your Claude Code agents",
+    "description": "Pixel Agents – A pixel-art mission control for your Claude Code agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://mateovalle.github.io/pixel-agents/",
+    "featured": false
+  },
+  {
+    "id": "89c37c05195d",
+    "name": "YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)",
+    "description": "YOLO FPS-per-dollar numbers for edge AI boards ($75-$215) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/chorylee/edge-ai-benchmarks",
+    "featured": false
+  },
+  {
+    "id": "564d3fef9b5a",
+    "name": "Ever Beyond: Space Conquest",
+    "description": "Ever Beyond: Space Conquest - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/ever-beyond-space-conquest",
+    "featured": false
+  },
+  {
+    "id": "9604177f0d19",
+    "name": "Compute:Arena",
+    "description": "Compute:Arena - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
+    "featured": false
   }
 ]
