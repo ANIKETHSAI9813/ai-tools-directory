@@ -6190,5 +6190,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
     "featured": false
+  },
+  {
+    "id": "b6f558c3e507",
+    "name": "Snapdrop: Instantly share files between devices. No setup, no signup",
+    "description": "Snapdrop: Instantly share files between devices. No setup, no signup - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://snapdrop.me",
+    "featured": false
+  },
+  {
+    "id": "3f594670663f",
+    "name": "Share your AI Setup, Learn from others",
+    "description": "Share your AI Setup, Learn from others - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mysetup.ai/",
+    "featured": false
+  },
+  {
+    "id": "33bca50b3045",
+    "name": "Attar – Compile React apps to native machine code",
+    "description": "Attar – Compile React apps to native machine code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://attar.dev/",
+    "featured": false
+  },
+  {
+    "id": "293de04f1a0c",
+    "name": "Craigslist for agent skills, curated by a human",
+    "description": "Craigslist for agent skills, curated by a human - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://skillbay.sh/",
+    "featured": false
+  },
+  {
+    "id": "7a029f720236",
+    "name": "OJ – A drop-in replacement for Vite in Rust",
+    "description": "OJ – A drop-in replacement for Vite in Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lovablelabs/oj",
+    "featured": false
+  },
+  {
+    "id": "ead86953ae7e",
+    "name": "Free game to destroy any web page",
+    "description": "Free game to destroy any web page - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://page-rage.com/",
+    "featured": false
+  },
+  {
+    "id": "bdd92e5e32e0",
+    "name": "Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+    "description": "Aclif – Agent CLI framework: one grammar, canonical names across SaaS - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.aclif.ai/",
+    "featured": false
+  },
+  {
+    "id": "ebc1e8754e7c",
+    "name": "Navier-Stokes Visualized as 1kB i386 demos",
+    "description": "Navier-Stokes Visualized as 1kB i386 demos - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://juandecos.github.io/TurboZip/vortex.html",
+    "featured": false
+  },
+  {
+    "id": "8e89b866e77a",
+    "name": "Microsoft Office running with Wine on Linux with no virtualization",
+    "description": "Microsoft Office running with Wine on Linux with no virtualization - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Tombert/office365_flake",
+    "featured": false
+  },
+  {
+    "id": "f01c88f3a99c",
+    "name": "I built a PDF accessibility checker that is cross platform",
+    "description": "I built a PDF accessibility checker that is cross platform - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/visionably/outloud",
+    "featured": false
+  },
+  {
+    "id": "c10abe1c1722",
+    "name": "Continuity – project state your AI sessions can't silently contradict",
+    "description": "Continuity – project state your AI sessions can't silently contradict - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/vikcena01/ai-continuity-plugin",
+    "featured": false
+  },
+  {
+    "id": "4b539d96103b",
+    "name": "Free Tournament Bracket Maker and Generator",
+    "description": "Free Tournament Bracket Maker and Generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://snapbracket.com/",
+    "featured": false
+  },
+  {
+    "id": "481b295a5ab7",
+    "name": "Free GitHub Action that scans PR diffs for malicious code, not quality",
+    "description": "Free GitHub Action that scans PR diffs for malicious code, not quality - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/marketplace/actions/vigil-pr-scanner",
+    "featured": false
+  },
+  {
+    "id": "c9bd3a6e92df",
+    "name": "Concat: the open-source CapCut replacement.",
+    "description": "Concat: the open-source CapCut replacement. - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jub0t/Concat",
+    "featured": false
+  },
+  {
+    "id": "d2171ad1fe3b",
+    "name": "Jinx – a link shortener you host free on GitHub Pages",
+    "description": "Jinx – a link shortener you host free on GitHub Pages - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jinx.fyi",
+    "featured": false
   }
 ]
