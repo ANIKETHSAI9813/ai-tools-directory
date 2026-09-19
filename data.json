@@ -6310,5 +6310,125 @@
     "category": "Productivity",
     "affiliate_link": "https://jinx.fyi",
     "featured": false
+  },
+  {
+    "id": "8fe8acea9584",
+    "name": "Scry, programmable internet search w/ congestion pricing",
+    "description": "Scry, programmable internet search w/ congestion pricing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://scry.io/",
+    "featured": false
+  },
+  {
+    "id": "54d7d315df98",
+    "name": "Ax-check.com – Can agents use your product?",
+    "description": "Ax-check.com – Can agents use your product? - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.ax-check.com/",
+    "featured": false
+  },
+  {
+    "id": "6bbfb06c9f1d",
+    "name": "LiveWorld – Every 24/7 YouTube live camera on one globe",
+    "description": "LiveWorld – Every 24/7 YouTube live camera on one globe - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://liveworld.info/",
+    "featured": false
+  },
+  {
+    "id": "78a286d9e743",
+    "name": "Jeff – A read-only CLI for semantic code review using Jev",
+    "description": "Jeff – A read-only CLI for semantic code review using Jev - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Alurith/jeff",
+    "featured": false
+  },
+  {
+    "id": "b2260e32281c",
+    "name": "Procedurally Generated Mineral Gems",
+    "description": "Procedurally Generated Mineral Gems - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gems.0x0000007a.com/",
+    "featured": false
+  },
+  {
+    "id": "5e012b7866a4",
+    "name": "An OSS Python dependency scanner for exploited, unmaintained packages",
+    "description": "An OSS Python dependency scanner for exploited, unmaintained packages - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/binuka200/package-doctor",
+    "featured": false
+  },
+  {
+    "id": "49229eb5d8c9",
+    "name": "Go Implementation of Systemd Time",
+    "description": "Go Implementation of Systemd Time - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gitlab.com/allddd/go-systemd-time",
+    "featured": false
+  },
+  {
+    "id": "7aeb30bf2bea",
+    "name": "Yello. Let your agents chat with other people's agents",
+    "description": "Yello. Let your agents chat with other people's agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://yello.sh",
+    "featured": false
+  },
+  {
+    "id": "48347eed1974",
+    "name": "LingBot-World 2.0 (1.3B) running at 16 FPS on one RTX 5090",
+    "description": "LingBot-World 2.0 (1.3B) running at 16 FPS on one RTX 5090 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kaarelkaarelson/lingbot-world-v2-realtime",
+    "featured": false
+  },
+  {
+    "id": "183d3f1e776e",
+    "name": "A model index from the AI Gateways",
+    "description": "A model index from the AI Gateways - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.computesdk.com/benchmarks/ai-gateway/models",
+    "featured": false
+  },
+  {
+    "id": "903da69a4386",
+    "name": "Timeline, a team project planner with a fast canvas Gantt view",
+    "description": "Timeline, a team project planner with a fast canvas Gantt view - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/vakahnke/Timeline",
+    "featured": false
+  },
+  {
+    "id": "77fb0e5c5e4b",
+    "name": "A Prometheus exporter for Sagemcom F3896 cable modems",
+    "description": "A Prometheus exporter for Sagemcom F3896 cable modems - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/colinedwardwood/sagemcom-docsis-exporter",
+    "featured": false
+  },
+  {
+    "id": "74ff9e110a6d",
+    "name": "Jev helps you to not run malicous code",
+    "description": "Jev helps you to not run malicous code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/luantak/is-malicious",
+    "featured": false
+  },
+  {
+    "id": "c47034086b08",
+    "name": "Koi Editor Alpha",
+    "description": "Koi Editor Alpha - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://koieditor.com/",
+    "featured": false
+  },
+  {
+    "id": "eef935736bb8",
+    "name": "VoiceCap",
+    "description": "VoiceCap - AI tool launch.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.producthunt.com/products/voicecap",
+    "featured": false
   }
 ]
