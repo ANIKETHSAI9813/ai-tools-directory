@@ -6430,5 +6430,125 @@
     "category": "Video & Audio",
     "affiliate_link": "https://www.producthunt.com/products/voicecap",
     "featured": false
+  },
+  {
+    "id": "cdae731e0e4a",
+    "name": "Sigabrt.dev – cronjob monitor with an SSH TUI",
+    "description": "Sigabrt.dev – cronjob monitor with an SSH TUI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sigabrt.dev",
+    "featured": false
+  },
+  {
+    "id": "1c712cad4f64",
+    "name": "CUA-S1 – A System One Model for Computer Use",
+    "description": "CUA-S1 – A System One Model for Computer Use - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/trycua/cua",
+    "featured": false
+  },
+  {
+    "id": "3391e2dd4fb9",
+    "name": "I-server: Hide server using ICMP reflection/Destination Unreachable",
+    "description": "I-server: Hide server using ICMP reflection/Destination Unreachable - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hajoon22/i-server",
+    "featured": false
+  },
+  {
+    "id": "2320a1fbca84",
+    "name": "Fluentry – local voice-to-text dictation for Linux, Wayland included",
+    "description": "Fluentry – local voice-to-text dictation for Linux, Wayland included - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://fluentry.github.io/",
+    "featured": false
+  },
+  {
+    "id": "cd639445accb",
+    "name": "Will Jev pull the lever in the trolley problem?",
+    "description": "Will Jev pull the lever in the trolley problem? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gpu.studio/trolley",
+    "featured": false
+  },
+  {
+    "id": "438642b74064",
+    "name": "WideMelon - Nintendo DS games in widescreen and a phone touchscreen",
+    "description": "WideMelon - Nintendo DS games in widescreen and a phone touchscreen - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/pruefsumme/widemelon",
+    "featured": false
+  },
+  {
+    "id": "cb4a2df5be23",
+    "name": "Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome",
+    "description": "Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rubrol.com/",
+    "featured": false
+  },
+  {
+    "id": "1f5dfde3b0d6",
+    "name": "Frost – frosted-glass Linux icons where file types say what they are",
+    "description": "Frost – frosted-glass Linux icons where file types say what they are - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/thissayantan/frost-icon-theme",
+    "featured": false
+  },
+  {
+    "id": "14c5ef021e93",
+    "name": "Set, offline Markdown note-taking app with device-to-device sync",
+    "description": "Set, offline Markdown note-taking app with device-to-device sync - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://app.writewithset.com",
+    "featured": false
+  },
+  {
+    "id": "c6e0509d0503",
+    "name": "Architectural Guardrails for AI native development",
+    "description": "Architectural Guardrails for AI native development - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/cxgrd/cli",
+    "featured": false
+  },
+  {
+    "id": "8ec468908eb0",
+    "name": "I wrote a custom assembler for CHIP-8 in C++",
+    "description": "I wrote a custom assembler for CHIP-8 in C++ - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Tackx/c8-ass",
+    "featured": false
+  },
+  {
+    "id": "baa8f2162988",
+    "name": "Text-me: a personal agent that learns your pace",
+    "description": "Text-me: a personal agent that learns your pace - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://aiworthusing.com/agent-index/text-me",
+    "featured": false
+  },
+  {
+    "id": "9b5afa65b1c2",
+    "name": "Jev-lint – semantic linter with plain English rules",
+    "description": "Jev-lint – semantic linter with plain English rules - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zdenham/jev-lint",
+    "featured": false
+  },
+  {
+    "id": "594b4c76aca3",
+    "name": "DH Tools – 40 client-side developer and productivity tools",
+    "description": "DH Tools – 40 client-side developer and productivity tools - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://denizlihub.com/",
+    "featured": false
+  },
+  {
+    "id": "0fcc68694a97",
+    "name": "Seal – Letters and passwords that open for your family after you die",
+    "description": "Seal – Letters and passwords that open for your family after you die - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jasonepage/Seal",
+    "featured": false
   }
 ]
