@@ -6550,5 +6550,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/jasonepage/Seal",
     "featured": false
+  },
+  {
+    "id": "d1b27e26fd9f",
+    "name": "Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "description": "Mini-AGI – Dynamic continual learning model trained on 8GB VRAM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/volotat/mini-AGI/",
+    "featured": false
+  },
+  {
+    "id": "d9677bc4a02d",
+    "name": "Native compact Nix build output with full local logs, bounded diags",
+    "description": "Native compact Nix build output with full local logs, bounded diags - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ghuntley/nix-compact",
+    "featured": false
+  },
+  {
+    "id": "b3a6ebf575f9",
+    "name": "Lossless-memory – a personal AI memory that never summarizes",
+    "description": "Lossless-memory – a personal AI memory that never summarizes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aru-labs/lossless-memory",
+    "featured": false
+  },
+  {
+    "id": "9e09bed9b01a",
+    "name": "OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
+    "description": "OpenDecision – a 400M zero-shot model makes local decisions, plays Doom - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://deepanwadhwa.github.io/OpenDecision/",
+    "featured": false
+  },
+  {
+    "id": "14a7f1863644",
+    "name": "I analysed 169,123 Chess Olympiad moves and gave out 132 silly awards",
+    "description": "I analysed 169,123 Chess Olympiad moves and gave out 132 silly awards - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.olympiadstats.fun",
+    "featured": false
+  },
+  {
+    "id": "8ffd52c4087a",
+    "name": "Jev-CLI – CLI wrapper for JEV typesafe AI model",
+    "description": "Jev-CLI – CLI wrapper for JEV typesafe AI model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/joshLong145/jev-cli",
+    "featured": false
+  },
+  {
+    "id": "c01d83418786",
+    "name": "A competition for small neural networks that play strategy games",
+    "description": "A competition for small neural networks that play strategy games - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tinybrains.dev",
+    "featured": false
+  },
+  {
+    "id": "43a6f741b472",
+    "name": "Radius – A Meetup.com Alternative",
+    "description": "Radius – A Meetup.com Alternative - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://radius.to/",
+    "featured": false
+  },
+  {
+    "id": "abdb4e3c0c75",
+    "name": "Local-coder – Build a team of coding agents with local models",
+    "description": "Local-coder – Build a team of coding agents with local models - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/gmarland/local-coder",
+    "featured": false
+  },
+  {
+    "id": "19d6f3257b96",
+    "name": "jevals – replacing LLM judges with typed Jev decisions",
+    "description": "jevals – replacing LLM judges with typed Jev decisions - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/openlayer-ai/jevals",
+    "featured": false
+  },
+  {
+    "id": "184216615d97",
+    "name": "Maki, an open-source multi-agent LLM framework (local or hosted)",
+    "description": "Maki, an open-source multi-agent LLM framework (local or hosted) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/BowlOfData/maki",
+    "featured": false
+  },
+  {
+    "id": "d6728ac36824",
+    "name": "Gdocs-me-up: a high-fidelity Google Docs exporter",
+    "description": "Gdocs-me-up: a high-fidelity Google Docs exporter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/behdad/gdocs-me-up",
+    "featured": false
+  },
+  {
+    "id": "daf6c687e993",
+    "name": "A GUI for non programmers for Epic's version control system Lore",
+    "description": "A GUI for non programmers for Epic's version control system Lore - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.anchorpoint.app/lore",
+    "featured": false
+  },
+  {
+    "id": "e4ca580c4cd8",
+    "name": "Ambits – agentic grep/rg tool will history tracking",
+    "description": "Ambits – agentic grep/rg tool will history tracking - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/joshLong145/ambits",
+    "featured": false
+  },
+  {
+    "id": "db5004d9a75d",
+    "name": "Lightspeed, build real time apps the Laravel way (+asteroids demo)",
+    "description": "Lightspeed, build real time apps the Laravel way (+asteroids demo) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49781032",
+    "featured": false
   }
 ]
