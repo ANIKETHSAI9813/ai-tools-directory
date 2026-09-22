@@ -6670,5 +6670,125 @@
     "category": "Productivity",
     "affiliate_link": "https://news.ycombinator.com/item?id=49781032",
     "featured": false
+  },
+  {
+    "id": "39dc8f71592d",
+    "name": "Watch all the AI agents on your machine",
+    "description": "Watch all the AI agents on your machine - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/markwylde/all-your-agents",
+    "featured": false
+  },
+  {
+    "id": "26eecd805f08",
+    "name": "An atlas of system designs with interactive architecture diagrams",
+    "description": "An atlas of system designs with interactive architecture diagrams - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://atlas-sysdes.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "74913b77197e",
+    "name": "Foremerge – Catch intent conflicts between parallel coding agents",
+    "description": "Foremerge – Catch intent conflicts between parallel coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/naw103/foremerge",
+    "featured": false
+  },
+  {
+    "id": "4c84c3c4699c",
+    "name": "Vellum, the best diagram editor you'll ever use",
+    "description": "Vellum, the best diagram editor you'll ever use - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vellum.blueprintr.io",
+    "featured": false
+  },
+  {
+    "id": "095448be1178",
+    "name": "Jev Powered Obsidian Search",
+    "description": "Jev Powered Obsidian Search - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Emlembow/jev-graph-search",
+    "featured": false
+  },
+  {
+    "id": "09a91c153a83",
+    "name": "Blackgit – use Git to only download those cared files",
+    "description": "Blackgit – use Git to only download those cared files - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zhuzhonghua/blackgit",
+    "featured": false
+  },
+  {
+    "id": "1573395d84f5",
+    "name": "Differential – a TUI diff reviewer with semantic grouping",
+    "description": "Differential – a TUI diff reviewer with semantic grouping - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/thepartly/differential",
+    "featured": false
+  },
+  {
+    "id": "2afa83715aa0",
+    "name": "Four-Leaf MCP, open-source job search and interview prep",
+    "description": "Four-Leaf MCP, open-source job search and interview prep - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/fourleafai/clover-public",
+    "featured": false
+  },
+  {
+    "id": "94fbe56c8571",
+    "name": "Combinators in Array Languages",
+    "description": "Combinators in Array Languages - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
+    "featured": false
+  },
+  {
+    "id": "04952ed88acd",
+    "name": "Viaduct – C4 models that coding agents can read and update",
+    "description": "Viaduct – C4 models that coding agents can read and update - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://c4.quietgridlabs.com/",
+    "featured": false
+  },
+  {
+    "id": "cef585c9f434",
+    "name": "AURA – Open-source behavioral threat detection for LLMs",
+    "description": "AURA – Open-source behavioral threat detection for LLMs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kate8382/AURA",
+    "featured": false
+  },
+  {
+    "id": "b1135954fa3a",
+    "name": "Agent Chaperone – Screen AI agent tool calls and results with Jev",
+    "description": "Agent Chaperone – Screen AI agent tool calls and results with Jev - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/agent-chaperone/agent-chaperone",
+    "featured": false
+  },
+  {
+    "id": "4c442d6dfd0c",
+    "name": "Fusion-runtime – self-hosted voice agents, STT+LLM+TTS in one process",
+    "description": "Fusion-runtime – self-hosted voice agents, STT+LLM+TTS in one process - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/SamarthUrs18/fusion-runtime",
+    "featured": false
+  },
+  {
+    "id": "056b8f4ab5eb",
+    "name": "AI Changed How We Write Code. Why Hasn’t Code Review Changed?",
+    "description": "AI Changed How We Write Code. Why Hasn’t Code Review Changed? - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/otobongfp/code-graph-view",
+    "featured": false
+  },
+  {
+    "id": "4ca2cabbe579",
+    "name": "Clueso MCP",
+    "description": "Clueso MCP - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/clueso",
+    "featured": false
   }
 ]
