@@ -6790,5 +6790,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/clueso",
     "featured": false
+  },
+  {
+    "id": "8849ec80c994",
+    "name": "Ive Sent It – online courier for files, with signed proof of delivery",
+    "description": "Ive Sent It – online courier for files, with signed proof of delivery - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ivesentit.com",
+    "featured": false
+  },
+  {
+    "id": "b73fef1b8cc9",
+    "name": "RxFilm Studio–Create and edit your product videos with AI agent",
+    "description": "RxFilm Studio–Create and edit your product videos with AI agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://filmstudio.rxlab.app",
+    "featured": false
+  },
+  {
+    "id": "985569f214c9",
+    "name": "Npunlock – Run custom C kernels for Intel NPUs",
+    "description": "Npunlock – Run custom C kernels for Intel NPUs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hsfzxjy/npunlock",
+    "featured": false
+  },
+  {
+    "id": "d3942345713d",
+    "name": "Jevper – the Jev interface on top of any OpenAI-compatible model",
+    "description": "Jevper – the Jev interface on top of any OpenAI-compatible model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zhulinchng/jevper",
+    "featured": false
+  },
+  {
+    "id": "c609037466df",
+    "name": "JevBench, a reproducible benchmark for typed decision models",
+    "description": "JevBench, a reproducible benchmark for typed decision models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://benchmarkheaven.com/jev-models",
+    "featured": false
+  },
+  {
+    "id": "0f02379e34a0",
+    "name": "Drop – A rootless Linux sandbox with gVisor support",
+    "description": "Drop – A rootless Linux sandbox with gVisor support - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://droprun.sh/",
+    "featured": false
+  },
+  {
+    "id": "32d124392913",
+    "name": "Training a model to identify AI web content from structure alone",
+    "description": "Training a model to identify AI web content from structure alone - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://arxiv.org/abs/2609.15369",
+    "featured": false
+  },
+  {
+    "id": "09d21cd75db8",
+    "name": "Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4",
+    "description": "Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49813759",
+    "featured": false
+  },
+  {
+    "id": "ff407be6a090",
+    "name": "AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "description": "AI·rete·RAG – a Rete rule engine decides, RAG explains why - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ai-rete-rag.com/",
+    "featured": false
+  },
+  {
+    "id": "d2cb5b600e86",
+    "name": "Company-as-Code –> Spec and Validator",
+    "description": "Company-as-Code –> Spec and Validator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Pirol-ai/company-as-code",
+    "featured": false
+  },
+  {
+    "id": "baea5a38523a",
+    "name": "InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+    "description": "InstinctFlash – High-Performance Serving Runtime for Robotics Models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/General-Instinct/InstinctFlash",
+    "featured": false
+  },
+  {
+    "id": "dcdea1de704d",
+    "name": "Visually orchestrate Claude Code AI agents",
+    "description": "Visually orchestrate Claude Code AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/rondoflow/rondoflow",
+    "featured": false
+  },
+  {
+    "id": "812d3ab8f869",
+    "name": "OpenMCP – An open, code-first fork of the Model Context Protocol",
+    "description": "OpenMCP – An open, code-first fork of the Model Context Protocol - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/enclawed/omcp",
+    "featured": false
+  },
+  {
+    "id": "a3c54eb0205e",
+    "name": "Napkin – a scratchpad that holds texts and images for copy",
+    "description": "Napkin – a scratchpad that holds texts and images for copy - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/sudomonas/napkin",
+    "featured": false
+  },
+  {
+    "id": "8195bd87f648",
+    "name": "graf (1000x faster graphify in Rust)",
+    "description": "graf (1000x faster graphify in Rust) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ctxrs/graf",
+    "featured": false
   }
 ]
