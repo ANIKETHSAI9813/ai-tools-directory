@@ -6910,5 +6910,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/ctxrs/graf",
     "featured": false
+  },
+  {
+    "id": "2c212753efbe",
+    "name": "Minienv – remote mini environments generated from Docker Compose config",
+    "description": "Minienv – remote mini environments generated from Docker Compose config - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/robgonnella/minienv",
+    "featured": false
+  },
+  {
+    "id": "4ceb58e9a0f2",
+    "name": "Trader News – Hacker News for Finance",
+    "description": "Trader News – Hacker News for Finance - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49828019",
+    "featured": false
+  },
+  {
+    "id": "624d32049b91",
+    "name": "An open-source manufacturing ERP/MES/QMS",
+    "description": "An open-source manufacturing ERP/MES/QMS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://carbon.ms/self-hosted",
+    "featured": false
+  },
+  {
+    "id": "e95515f7f301",
+    "name": "Tachyon – Java MCP Server SDK",
+    "description": "Tachyon – Java MCP Server SDK - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tachyonmcp.dev",
+    "featured": false
+  },
+  {
+    "id": "2126d765aeb1",
+    "name": "I built a post-mortem debugger for native Windows x64/x86 crashes",
+    "description": "I built a post-mortem debugger for native Windows x64/x86 crashes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.forensicdbg.com",
+    "featured": false
+  },
+  {
+    "id": "e26e8390fe3b",
+    "name": "Wl-pick – a live window picker for Sway",
+    "description": "Wl-pick – a live window picker for Sway - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mil.ad/blog/2026/wl-pick.html",
+    "featured": false
+  },
+  {
+    "id": "9703e4efbe9c",
+    "name": "CubeLV – AI that designs your automation before building it",
+    "description": "CubeLV – AI that designs your automation before building it - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://app.cubelv.com",
+    "featured": false
+  },
+  {
+    "id": "0cf7108bc36c",
+    "name": "Air-gapped file encryption as self-decrypting HTML page",
+    "description": "Air-gapped file encryption as self-decrypting HTML page - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cms-sfx-demo.apeleg.com/",
+    "featured": false
+  },
+  {
+    "id": "931db8132ff9",
+    "name": "Conway's Game of Life in boot sector",
+    "description": "Conway's Game of Life in boot sector - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/0xAX/BootLife",
+    "featured": false
+  },
+  {
+    "id": "d5f87655d7f3",
+    "name": "A game about fake news and memes",
+    "description": "A game about fake news and memes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://unspin.app/",
+    "featured": false
+  },
+  {
+    "id": "bda2aa6e8cee",
+    "name": "QBasic 1.1 in the Browser",
+    "description": "QBasic 1.1 in the Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.vahidyousefzadeh.com/qbasic/app",
+    "featured": false
+  },
+  {
+    "id": "7f588db0fd5c",
+    "name": "Does per-step reasoning effort save money in Claude Code?",
+    "description": "Does per-step reasoning effort save money in Claude Code? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ifoster01/jev-effort",
+    "featured": false
+  },
+  {
+    "id": "7e010b7f9380",
+    "name": "ChaosTree – Cache-Aware Java NavigableMap and NavigableSet Library",
+    "description": "ChaosTree – Cache-Aware Java NavigableMap and NavigableSet Library - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Chaos-vy/ChaosTree",
+    "featured": false
+  },
+  {
+    "id": "2e8aa166044b",
+    "name": "Make cursed fonts like Times New Bastard",
+    "description": "Make cursed fonts like Times New Bastard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bastardica.mitpit.com",
+    "featured": false
+  },
+  {
+    "id": "11288b61be8d",
+    "name": "Fjordfall – Take the long way down",
+    "description": "Fjordfall – Take the long way down - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://fjordfall.fly.dev/",
+    "featured": false
   }
 ]
