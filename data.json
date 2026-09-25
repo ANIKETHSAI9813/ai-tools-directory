@@ -7030,5 +7030,125 @@
     "category": "Productivity",
     "affiliate_link": "https://fjordfall.fly.dev/",
     "featured": false
+  },
+  {
+    "id": "185ddb0abcfc",
+    "name": "Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "description": "Whiteboard (YC W26) – An open-source IDE for thoughtful software design - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/devdotfast/whiteboard",
+    "featured": false
+  },
+  {
+    "id": "bef01355a464",
+    "name": "Agentic CUDA Kernel Optimizer",
+    "description": "Agentic CUDA Kernel Optimizer - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "featured": false
+  },
+  {
+    "id": "809b413cc2e0",
+    "name": "Hard Stop: Kernel-level preemption for autonomous AI agents",
+    "description": "Hard Stop: Kernel-level preemption for autonomous AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://arxiv.org/abs/2609.29808",
+    "featured": false
+  },
+  {
+    "id": "cf78f96e1870",
+    "name": "Wave – Layered gradient wave backgrounds using Three.js and shaders",
+    "description": "Wave – Layered gradient wave backgrounds using Three.js and shaders - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wave.subworkflow.ai/",
+    "featured": false
+  },
+  {
+    "id": "11af5b57ad5c",
+    "name": "Hamilton – a no-internet Android health dashboard, named after my dog",
+    "description": "Hamilton – a no-internet Android health dashboard, named after my dog - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+    "featured": false
+  },
+  {
+    "id": "d5a86dbf4f00",
+    "name": "Tlx – E2E chat over SSH under 500 lines of code",
+    "description": "Tlx – E2E chat over SSH under 500 lines of code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/achempion/tlx",
+    "featured": false
+  },
+  {
+    "id": "6a77c3e51947",
+    "name": "Koi.rest – watch some fish and regain your balance",
+    "description": "Koi.rest – watch some fish and regain your balance - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://koi.rest",
+    "featured": false
+  },
+  {
+    "id": "9aac0f7231c3",
+    "name": "AgentRun: DSL to turn agents into workflows",
+    "description": "AgentRun: DSL to turn agents into workflows - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Parcha-ai/agentrun",
+    "featured": false
+  },
+  {
+    "id": "231e49990919",
+    "name": "Treepeat – Code similarity detection using Tree-sitter",
+    "description": "Treepeat – Code similarity detection using Tree-sitter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dsummersl/treepeat",
+    "featured": false
+  },
+  {
+    "id": "f82ea602588f",
+    "name": "Avoid smooth spinners, use low-FPS spinners",
+    "description": "Avoid smooth spinners, use low-FPS spinners - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nh2.me/low-fps-spinners/low-fps-spinners.html",
+    "featured": false
+  },
+  {
+    "id": "f80a696782d9",
+    "name": "Can an AI agent bypass a post-quantum signed authorization policy?",
+    "description": "Can an AI agent bypass a post-quantum signed authorization policy? - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX",
+    "featured": false
+  },
+  {
+    "id": "379f145a2441",
+    "name": "TiddlyInstall – Single HTML file that makes cross-platform installers",
+    "description": "TiddlyInstall – Single HTML file that makes cross-platform installers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+    "featured": false
+  },
+  {
+    "id": "9a7adda233b2",
+    "name": "Most Hated Tools",
+    "description": "Most Hated Tools - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.mosthatedtools.app/",
+    "featured": false
+  },
+  {
+    "id": "b8b61acb1add",
+    "name": "Reteach – AI tutor that feels human",
+    "description": "Reteach – AI tutor that feels human - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.reteach.study/",
+    "featured": false
+  },
+  {
+    "id": "7fcc330fb0be",
+    "name": "Critic – Review code with the agent that wrote it",
+    "description": "Critic – Review code with the agent that wrote it - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.critic.run/",
+    "featured": false
   }
 ]
