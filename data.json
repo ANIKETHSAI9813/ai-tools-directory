@@ -7150,5 +7150,125 @@
     "category": "Automation",
     "affiliate_link": "https://www.critic.run/",
     "featured": false
+  },
+  {
+    "id": "88351a4a7db5",
+    "name": "Jev Plays Pokémon Red",
+    "description": "Jev Plays Pokémon Red - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jev-pokemon.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "d8566cfc779b",
+    "name": "Hacker Atlas - A map of what Hacker News talks about",
+    "description": "Hacker Atlas - A map of what Hacker News talks about - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hackeratlas.com/",
+    "featured": false
+  },
+  {
+    "id": "416e81eab24f",
+    "name": "Make math automatic with Mathy",
+    "description": "Make math automatic with Mathy - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://gmays.com/making-math-automatic-with-mathy/",
+    "featured": false
+  },
+  {
+    "id": "9405c0a94e37",
+    "name": "Ekselio – Loveable for finance workflows (local first)",
+    "description": "Ekselio – Loveable for finance workflows (local first) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.gptbeyond.com/try?home=1",
+    "featured": false
+  },
+  {
+    "id": "abbf99b464eb",
+    "name": "Print Graph Paper",
+    "description": "Print Graph Paper - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://printgraphpaper.app/",
+    "featured": false
+  },
+  {
+    "id": "da4a2ad925c0",
+    "name": "Jevgpt – reinventing the wheel with another wheel",
+    "description": "Jevgpt – reinventing the wheel with another wheel - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49823332",
+    "featured": false
+  },
+  {
+    "id": "08255bb25692",
+    "name": "Gutcheck, grep for meaning with a local CPU model",
+    "description": "Gutcheck, grep for meaning with a local CPU model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sfmqrb/gutcheck",
+    "featured": false
+  },
+  {
+    "id": "dd26c9a7d43c",
+    "name": "Recurse – Develop and deploy specialist agents faster",
+    "description": "Recurse – Develop and deploy specialist agents faster - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://recurse.run",
+    "featured": false
+  },
+  {
+    "id": "ba25fe9c52fb",
+    "name": "I discovered roads in the US across > 1000 themes",
+    "description": "I discovered roads in the US across > 1000 themes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://road-about-a-theme.pinedesk.biz/",
+    "featured": false
+  },
+  {
+    "id": "6bfaf26cce77",
+    "name": "Jevlang. delegate every if/while condition to Jev",
+    "description": "Jevlang. delegate every if/while condition to Jev - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/RoyWiggins/jevlang",
+    "featured": false
+  },
+  {
+    "id": "44d7a3ecf654",
+    "name": "Doom or Bloom, map your AI worldview",
+    "description": "Doom or Bloom, map your AI worldview - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.doom-or-bloom.com",
+    "featured": false
+  },
+  {
+    "id": "1fa3a82b9989",
+    "name": "Tenjin – A Jev based x402 tool router for Claude Code",
+    "description": "Tenjin – A Jev based x402 tool router for Claude Code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/BackTrackCo/tenjin-agent",
+    "featured": false
+  },
+  {
+    "id": "77c05afbe0fe",
+    "name": "Paper-docx – agent-native Python-docx fork with 78% fewer DOCX failures",
+    "description": "Paper-docx – agent-native Python-docx fork with 78% fewer DOCX failures - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/paper-instruments/paper-docx",
+    "featured": false
+  },
+  {
+    "id": "113f9ec9fb1f",
+    "name": "BuyerCue – Find potential customer by paid-placement evidence",
+    "description": "BuyerCue – Find potential customer by paid-placement evidence - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.buyercue.io",
+    "featured": false
+  },
+  {
+    "id": "cc2cc448e572",
+    "name": "Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs",
+    "description": "Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/AcaysiaChem/aslmp",
+    "featured": false
   }
 ]
