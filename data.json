@@ -7270,5 +7270,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/AcaysiaChem/aslmp",
     "featured": false
+  },
+  {
+    "id": "36075cbc8c0c",
+    "name": "Reladraw – A diagram language where you decide where to place things",
+    "description": "Reladraw – A diagram language where you decide where to place things - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/reladraw/reladraw",
+    "featured": false
+  },
+  {
+    "id": "4f618b250630",
+    "name": "Interactive Phaistos Disc workbench, rotation ergonomics, null models",
+    "description": "Interactive Phaistos Disc workbench, rotation ergonomics, null models - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lessthanzero.github.io/phaistos-disk/",
+    "featured": false
+  },
+  {
+    "id": "5df65fbe9048",
+    "name": "Aldine. Self-hosted Overleaf alternative. Every paper = 1 Git Repo",
+    "description": "Aldine. Self-hosted Overleaf alternative. Every paper = 1 Git Repo - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/trahloff/Aldine",
+    "featured": false
+  },
+  {
+    "id": "e76a8f51cec0",
+    "name": "An OpenAI-compatible, model-agnostic agent API",
+    "description": "An OpenAI-compatible, model-agnostic agent API - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://rebyte.ai/docs/agents-api/overview",
+    "featured": false
+  },
+  {
+    "id": "e1618a05941e",
+    "name": "Peekaboolean – image and jev-like typed questions in typed anwers out",
+    "description": "Peekaboolean – image and jev-like typed questions in typed anwers out - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://github.com/bykof/peekaboolean",
+    "featured": false
+  },
+  {
+    "id": "90fb33af7b7f",
+    "name": "Afterlife Vault – a virtual dead man's switch",
+    "description": "Afterlife Vault – a virtual dead man's switch - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://afterlife-vault.com",
+    "featured": false
+  },
+  {
+    "id": "df775be9538b",
+    "name": "I built an AR App that overlays makeup tutorials live on your face",
+    "description": "I built an AR App that overlays makeup tutorials live on your face - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://urartist.app/",
+    "featured": false
+  },
+  {
+    "id": "683cfebc0115",
+    "name": "An interactive debugger for the Mornington Crescent esolang",
+    "description": "An interactive debugger for the Mornington Crescent esolang - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://codeberg.org/Two9A/mcresc",
+    "featured": false
+  },
+  {
+    "id": "e58f3509f379",
+    "name": "Ppgrid – Rasterising points in minutes, not hours",
+    "description": "Ppgrid – Rasterising points in minutes, not hours - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
+    "featured": false
+  },
+  {
+    "id": "ff8adc1786ff",
+    "name": "Trail – new kind of logic game",
+    "description": "Trail – new kind of logic game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://trail.franzai.com/",
+    "featured": false
+  },
+  {
+    "id": "47647ffc73f8",
+    "name": "Shipwithmuse.live – a catalog of things people built with Muse",
+    "description": "Shipwithmuse.live – a catalog of things people built with Muse - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://shipwithmuse.live/",
+    "featured": false
+  },
+  {
+    "id": "caed07195524",
+    "name": "Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+    "description": "Spivak's Calculus formalized in Lean 4 – every theorem, every problem - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stormj-UH/spivak-lean",
+    "featured": false
+  },
+  {
+    "id": "48a4a9c4535a",
+    "name": "A Claude Code skill to analyze your chess games",
+    "description": "A Claude Code skill to analyze your chess games - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/brumar/chess-postmortem-skills",
+    "featured": false
+  },
+  {
+    "id": "d151c9c255aa",
+    "name": "I checked 1M free proxies – 1 in 5 working ones injected scripts",
+    "description": "I checked 1M free proxies – 1 in 5 working ones injected scripts - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/maximilianfeix/proxy-scraper",
+    "featured": false
+  },
+  {
+    "id": "f00682357732",
+    "name": "CaughtShipping – curfew app for developers, enforced by a public wall",
+    "description": "CaughtShipping – curfew app for developers, enforced by a public wall - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://caughtshipping.com/",
+    "featured": false
   }
 ]
