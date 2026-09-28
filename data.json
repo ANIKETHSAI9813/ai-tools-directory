@@ -7390,5 +7390,125 @@
     "category": "Productivity",
     "affiliate_link": "https://caughtshipping.com/",
     "featured": false
+  },
+  {
+    "id": "a84c480767b3",
+    "name": "PaperMono, e-ink fridge magnet shopping list with mobile web page",
+    "description": "PaperMono, e-ink fridge magnet shopping list with mobile web page - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/seamusc/papermono-shopping-list",
+    "featured": false
+  },
+  {
+    "id": "8843f947eb42",
+    "name": "Hntui – A TUI for Hacker News",
+    "description": "Hntui – A TUI for Hacker News - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ahmd-sh/hntui",
+    "featured": false
+  },
+  {
+    "id": "d0efba49f270",
+    "name": "I built an idle game that rewards you for doomscrolling less",
+    "description": "I built an idle game that rewards you for doomscrolling less - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getisland.app/",
+    "featured": false
+  },
+  {
+    "id": "0e2a7da8e92c",
+    "name": "Free alternative to graphics design giants",
+    "description": "Free alternative to graphics design giants - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://scissor.studio/",
+    "featured": false
+  },
+  {
+    "id": "fa7e14330936",
+    "name": "Agentic Engineered Social Connections and Travel App",
+    "description": "Agentic Engineered Social Connections and Travel App - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.viamour.app",
+    "featured": false
+  },
+  {
+    "id": "b2347ef1dee2",
+    "name": "Android-on-Device Harness – N8N Meets Tasker Meets AI",
+    "description": "Android-on-Device Harness – N8N Meets Tasker Meets AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ankurCES/Mahout",
+    "featured": false
+  },
+  {
+    "id": "a80d747caeb6",
+    "name": "Enterprise Postgres for AI and more, from prototype to production",
+    "description": "Enterprise Postgres for AI and more, from prototype to production - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.pgedge.com/products/starfleet",
+    "featured": false
+  },
+  {
+    "id": "e7cec350da66",
+    "name": "Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "description": "Lofi Cities – Pixel-art city nights with browser-generated lofi - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://loficities.com/",
+    "featured": false
+  },
+  {
+    "id": "554f0a739f88",
+    "name": "OpenAPPA – open-source deterministic guardrails that don't break agents",
+    "description": "OpenAPPA – open-source deterministic guardrails that don't break agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.openappa.com/",
+    "featured": false
+  },
+  {
+    "id": "67d8d67583b9",
+    "name": "Kern Sandbox, run LLM-generated code locally, no cloud, no daemon",
+    "description": "Kern Sandbox, run LLM-generated code locally, no cloud, no daemon - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getkern.dev/guide/sandbox.html",
+    "featured": false
+  },
+  {
+    "id": "2d3f253796fe",
+    "name": "Durable Actor Session Protocol",
+    "description": "Durable Actor Session Protocol - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dasp-protocol.github.io/dasp/",
+    "featured": false
+  },
+  {
+    "id": "6352c31fe11c",
+    "name": "TinyAIArena watch AI agents battle it out",
+    "description": "TinyAIArena watch AI agents battle it out - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://tinyaiarena.com/",
+    "featured": false
+  },
+  {
+    "id": "a1cff01d3357",
+    "name": "Redthread – autonomous LLM pentesting with proof-of-concept exploits",
+    "description": "Redthread – autonomous LLM pentesting with proof-of-concept exploits - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://millenniums.ai/docs",
+    "featured": false
+  },
+  {
+    "id": "cb92765bb4fc",
+    "name": "Impressive hand detection AI algorithm",
+    "description": "Impressive hand detection AI algorithm - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aryafarkhondeh/cp_hand_demo",
+    "featured": false
+  },
+  {
+    "id": "d8c68920a0d6",
+    "name": "Cartopolis, interactive globe-sized 3D world",
+    "description": "Cartopolis, interactive globe-sized 3D world - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://code.garage44.eu/jeroen/cartopolis",
+    "featured": false
   }
 ]
