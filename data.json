@@ -7510,5 +7510,125 @@
     "category": "Productivity",
     "affiliate_link": "https://code.garage44.eu/jeroen/cartopolis",
     "featured": false
+  },
+  {
+    "id": "20b2b1beccb5",
+    "name": "Ctxfw – AST context firewall that cuts agent prompt tokens by 67%",
+    "description": "Ctxfw – AST context firewall that cuts agent prompt tokens by 67% - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/heuristicolab/ctxfw",
+    "featured": false
+  },
+  {
+    "id": "334cb1f894d2",
+    "name": "Raven – The harness of harnesses, built for RSI",
+    "description": "Raven – The harness of harnesses, built for RSI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/EverMind-AI/Raven",
+    "featured": false
+  },
+  {
+    "id": "7ff308c2b534",
+    "name": "We built a way for web apps to message users' phones without SMS",
+    "description": "We built a way for web apps to message users' phones without SMS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://thenotifier.app/developers/",
+    "featured": false
+  },
+  {
+    "id": "c11db1f66b18",
+    "name": "Jevstiller – Distill Jev into a local model, with a disagreement bound",
+    "description": "Jevstiller – Distill Jev into a local model, with a disagreement bound - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jevstiller.pages.dev/posts/the-guarantee/",
+    "featured": false
+  },
+  {
+    "id": "0f87b2bb6410",
+    "name": "Misanthropic – an AI that's honest about how it feels about you",
+    "description": "Misanthropic – an AI that's honest about how it feels about you - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://misanthropic.chat",
+    "featured": false
+  },
+  {
+    "id": "22cf5996ba47",
+    "name": "NetWasm – Independent .NET Compiler/Runtime (82.5 KB Hello World in C#)",
+    "description": "NetWasm – Independent .NET Compiler/Runtime (82.5 KB Hello World in C#) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://playground.netwasm.com/",
+    "featured": false
+  },
+  {
+    "id": "aae1d6f2f1ab",
+    "name": "HN.watch – Videos of all Hacker News posts",
+    "description": "HN.watch – Videos of all Hacker News posts - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://hn.watch/",
+    "featured": false
+  },
+  {
+    "id": "275972840f0b",
+    "name": "CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+    "description": "CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ivankovic/codediff",
+    "featured": false
+  },
+  {
+    "id": "9a5ed8adcb29",
+    "name": "Bough, Visualize your vibe coded project: progress, time, cost and more",
+    "description": "Bough, Visualize your vibe coded project: progress, time, cost and more - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nickelsec/bough",
+    "featured": false
+  },
+  {
+    "id": "b2411ac6b508",
+    "name": "Destroy Any Website with Stickman",
+    "description": "Destroy Any Website with Stickman - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://destroy.spritefusion.com/",
+    "featured": false
+  },
+  {
+    "id": "a560b1cffb14",
+    "name": "Pac-Bench – How well can models one-shot a Pac-Man game?",
+    "description": "Pac-Bench – How well can models one-shot a Pac-Man game? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jonclegg.github.io/pacman-bakeoff/",
+    "featured": false
+  },
+  {
+    "id": "3bf9849831bc",
+    "name": "Museum of Numbers",
+    "description": "Museum of Numbers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://numbermuseum.com/2147483647",
+    "featured": false
+  },
+  {
+    "id": "faddfbaef0e0",
+    "name": "A goal tracker that looks like a 1983 terminal, drawn in Swift",
+    "description": "A goal tracker that looks like a 1983 terminal, drawn in Swift - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://apps.apple.com/us/app/thrive-habit-goal-tracker/id6768297854",
+    "featured": false
+  },
+  {
+    "id": "d7ecc30bdfed",
+    "name": "Open-source skills for end-to-end video ad campaigns",
+    "description": "Open-source skills for end-to-end video ad campaigns - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/SupercmoHQ/superCMO-skills",
+    "featured": false
+  },
+  {
+    "id": "94e99428e232",
+    "name": "Interactive Diesel Price Forecaster",
+    "description": "Interactive Diesel Price Forecaster - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sightspinner.ai/blog/diesel-prices-are-high-here-s-why-they-might-go-higher-2026-09-29.html",
+    "featured": false
   }
 ]
