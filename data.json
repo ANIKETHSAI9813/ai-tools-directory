@@ -7630,5 +7630,125 @@
     "category": "Productivity",
     "affiliate_link": "https://sightspinner.ai/blog/diesel-prices-are-high-here-s-why-they-might-go-higher-2026-09-29.html",
     "featured": false
+  },
+  {
+    "id": "cf3d0c091bb6",
+    "name": "JBR-001 – An open-source 3D printable desktop robot",
+    "description": "JBR-001 – An open-source 3D printable desktop robot - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+    "featured": false
+  },
+  {
+    "id": "21009051c68b",
+    "name": "Real-time Solar System with 526k asteroids and all tracked satellites",
+    "description": "Real-time Solar System with 526k asteroids and all tracked satellites - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://space.bl2.net/",
+    "featured": false
+  },
+  {
+    "id": "845f25dd769d",
+    "name": "NSL – WSL for Linux",
+    "description": "NSL – WSL for Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://frostyard.github.io/nsl/",
+    "featured": false
+  },
+  {
+    "id": "6e39dc1b2d9d",
+    "name": "A working 3D model of an Enigma machine",
+    "description": "A working 3D model of an Enigma machine - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://enigma.design",
+    "featured": false
+  },
+  {
+    "id": "8abf9ed4bc81",
+    "name": "TurboGPT: train 22KiB transformer in 13s",
+    "description": "TurboGPT: train 22KiB transformer in 13s - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lostmsu/TurboGPT",
+    "featured": false
+  },
+  {
+    "id": "53cef37fa613",
+    "name": "Layout – Order food anywhere with AI",
+    "description": "Layout – Order food anywhere with AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://layout.link/",
+    "featured": false
+  },
+  {
+    "id": "c6fa71193eb0",
+    "name": "Ledge.sh – Runnable Markdown Notes",
+    "description": "Ledge.sh – Runnable Markdown Notes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ledge.sh",
+    "featured": false
+  },
+  {
+    "id": "a086c4093d85",
+    "name": "A small side project for even colour scales",
+    "description": "A small side project for even colour scales - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://colours.viesual.net/",
+    "featured": false
+  },
+  {
+    "id": "8385f27319a0",
+    "name": "Sarala – An open-source WYSIWYG Markdown editor",
+    "description": "Sarala – An open-source WYSIWYG Markdown editor - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sarala.solancer.com/",
+    "featured": false
+  },
+  {
+    "id": "c54aa2a039c0",
+    "name": "Kasora – Simulate your finances month by month, in-browser, no sign-up",
+    "description": "Kasora – Simulate your finances month by month, in-browser, no sign-up - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kasora.app",
+    "featured": false
+  },
+  {
+    "id": "51349a7498d8",
+    "name": "Sezwhere – Ask any document \"where does it say that?\" (built on Jev)",
+    "description": "Sezwhere – Ask any document \"where does it say that?\" (built on Jev) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sezwhere.com/",
+    "featured": false
+  },
+  {
+    "id": "59900ac50893",
+    "name": "I created a BGP-based blackhole system that you can set up in minutes",
+    "description": "I created a BGP-based blackhole system that you can set up in minutes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://setecastronomyinc.com/shield",
+    "featured": false
+  },
+  {
+    "id": "6e9e59ff1a56",
+    "name": "Social news aggregator, RSS feed tracker, and publishing platform",
+    "description": "Social news aggregator, RSS feed tracker, and publishing platform - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rsscal.com/",
+    "featured": false
+  },
+  {
+    "id": "c49269cfa686",
+    "name": "The Activity Monitor for the AI Era",
+    "description": "The Activity Monitor for the AI Era - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cortexformac.com/",
+    "featured": false
+  },
+  {
+    "id": "8edbf1515fcd",
+    "name": "Phyics-Based Dice Roller",
+    "description": "Phyics-Based Dice Roller - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dice.jswidler.com/",
+    "featured": false
   }
 ]
