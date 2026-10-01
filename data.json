@@ -7750,5 +7750,125 @@
     "category": "Productivity",
     "affiliate_link": "https://dice.jswidler.com/",
     "featured": false
+  },
+  {
+    "id": "965c28936816",
+    "name": "OpenC6 v2.0 – Bare-metal BIOS and RISC-V microkernel for ESP32-C6",
+    "description": "OpenC6 v2.0 – Bare-metal BIOS and RISC-V microkernel for ESP32-C6 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Rompass/openc6-bios",
+    "featured": false
+  },
+  {
+    "id": "01c5ad5dc769",
+    "name": "Q-DeflateRFC1951 compatible hyper-density compression SaaS",
+    "description": "Q-DeflateRFC1951 compatible hyper-density compression SaaS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://microforce.dev",
+    "featured": false
+  },
+  {
+    "id": "5eac36b021c9",
+    "name": "CoIsland – Your whole engineering stack in a notch",
+    "description": "CoIsland – Your whole engineering stack in a notch - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://coisland.app/",
+    "featured": false
+  },
+  {
+    "id": "556d5a8e658a",
+    "name": "The Kio Programming Language",
+    "description": "The Kio Programming Language - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jdevuyst.github.io/kio/",
+    "featured": false
+  },
+  {
+    "id": "e6b1017bdfc1",
+    "name": "Yantra – an LALR(1) parser generator for C++",
+    "description": "Yantra – an LALR(1) parser generator for C++ - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/TantrixAuto/yantra",
+    "featured": false
+  },
+  {
+    "id": "d993917bed13",
+    "name": "Dental Scope – Interactive 3D dental anatomy",
+    "description": "Dental Scope – Interactive 3D dental anatomy - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dental-scope.com/",
+    "featured": false
+  },
+  {
+    "id": "9eda5614ff1d",
+    "name": "Walk the Endless Dungeon",
+    "description": "Walk the Endless Dungeon - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://the-endless.pages.dev/",
+    "featured": false
+  },
+  {
+    "id": "3d6a9f8585b6",
+    "name": "Perspica – A semantic diff for reviewing code",
+    "description": "Perspica – A semantic diff for reviewing code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sshah03/perspica",
+    "featured": false
+  },
+  {
+    "id": "269bec5a8e0a",
+    "name": "Classican, listen + watch Classical music in a fun way",
+    "description": "Classican, listen + watch Classical music in a fun way - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://classican.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "452c9884b8b9",
+    "name": "Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+    "description": "Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://openparrot.app",
+    "featured": false
+  },
+  {
+    "id": "529609f63e56",
+    "name": "Strata – an expressive semantic layer that can say no to your LLM",
+    "description": "Strata – an expressive semantic layer that can say no to your LLM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://strata.do/",
+    "featured": false
+  },
+  {
+    "id": "2732fee73e83",
+    "name": "Vectorless, Reasoning-Based RAG",
+    "description": "Vectorless, Reasoning-Based RAG - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/VectifyAI/PageIndex",
+    "featured": false
+  },
+  {
+    "id": "1af93e70466d",
+    "name": "DragomanD – local language translator for Linux",
+    "description": "DragomanD – local language translator for Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dragomand.l10n-bg.dev/",
+    "featured": false
+  },
+  {
+    "id": "9368f3241724",
+    "name": "Lathoa, a math app for kids where the AI is wrong on purpose",
+    "description": "Lathoa, a math app for kids where the AI is wrong on purpose - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lathoa.ai/en",
+    "featured": false
+  },
+  {
+    "id": "71446daae0b3",
+    "name": "ASM Bots – Core War in real 8086 machine code",
+    "description": "ASM Bots – Core War in real 8086 machine code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://asmbots.io/",
+    "featured": false
   }
 ]
