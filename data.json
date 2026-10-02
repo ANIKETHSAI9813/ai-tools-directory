@@ -7870,5 +7870,125 @@
     "category": "Productivity",
     "affiliate_link": "https://asmbots.io/",
     "featured": false
+  },
+  {
+    "id": "64aa6d3efaea",
+    "name": "Audionaut – an open-source cross-platform multitrack audio editor",
+    "description": "Audionaut – an open-source cross-platform multitrack audio editor - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/kvoltmer/Audionaut",
+    "featured": false
+  },
+  {
+    "id": "d5a0652d1cfd",
+    "name": "Bise – a multi-agent harness, made for humans",
+    "description": "Bise – a multi-agent harness, made for humans - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://bise.dev/",
+    "featured": false
+  },
+  {
+    "id": "fa462a41bd72",
+    "name": "UtilsDock – 200 free tools that run in the browser",
+    "description": "UtilsDock – 200 free tools that run in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://utilsdock.com/",
+    "featured": false
+  },
+  {
+    "id": "14ff7162edc9",
+    "name": "Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "description": "Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Vibra-Ingenn/Janus",
+    "featured": false
+  },
+  {
+    "id": "b75b2c4e7bd2",
+    "name": "Open-source model routing for coding agents at Astra-level performance",
+    "description": "Open-source model routing for coding agents at Astra-level performance - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://news.ycombinator.com/item?id=49911500",
+    "featured": false
+  },
+  {
+    "id": "0f3fe93daa5c",
+    "name": "Rhun, an open-source code editor written in assembly",
+    "description": "Rhun, an open-source code editor written in assembly - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://rhun.app/",
+    "featured": false
+  },
+  {
+    "id": "50e657037ed5",
+    "name": "AilaFlow – A Self-Hosted AI Workspace for Teams",
+    "description": "AilaFlow – A Self-Hosted AI Workspace for Teams - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ailaflow.com/",
+    "featured": false
+  },
+  {
+    "id": "100c612e903f",
+    "name": "Kodama – a multi-agent pack for Kiro",
+    "description": "Kodama – a multi-agent pack for Kiro - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/amergrgic/kodama",
+    "featured": false
+  },
+  {
+    "id": "f7114bca7c80",
+    "name": "Giving Opus 5.5 a simulated paint canvas",
+    "description": "Giving Opus 5.5 a simulated paint canvas - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://stillwet.art/",
+    "featured": false
+  },
+  {
+    "id": "78cdc8bb573c",
+    "name": "Go++, an Aspiring Go Superset",
+    "description": "Go++, an Aspiring Go Superset - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/telgatech/gpp",
+    "featured": false
+  },
+  {
+    "id": "a088176f0003",
+    "name": "What 482 hospitals charge vs. what insurers pay, from their own files",
+    "description": "What 482 hospitals charge vs. what insurers pay, from their own files - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.billmender.com/hospital-prices",
+    "featured": false
+  },
+  {
+    "id": "7b90913aa87d",
+    "name": "Webdesk – a Linux desktop in the browser over SSH",
+    "description": "Webdesk – a Linux desktop in the browser over SSH - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/rmegi/webdesk",
+    "featured": false
+  },
+  {
+    "id": "b56b04287f4d",
+    "name": "Mixdog – open-source coding agent for Windows desktop",
+    "description": "Mixdog – open-source coding agent for Windows desktop - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/tribgames/mixdog",
+    "featured": false
+  },
+  {
+    "id": "dc63ba754e22",
+    "name": "PhreshOS – OS for Web Apps",
+    "description": "PhreshOS – OS for Web Apps - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/PhreshOS/system",
+    "featured": false
+  },
+  {
+    "id": "a649c6d891a1",
+    "name": "Use all Codex Plugins inside Pi",
+    "description": "Use all Codex Plugins inside Pi - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/wileai/pi-codex-connectors",
+    "featured": false
   }
 ]
