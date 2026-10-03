@@ -7990,5 +7990,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/wileai/pi-codex-connectors",
     "featured": false
+  },
+  {
+    "id": "9a14422b82b9",
+    "name": "Germany's new sovereign AI model Kolibri",
+    "description": "Germany's new sovereign AI model Kolibri - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tej.as/blog/aleph-alpha-kolibri",
+    "featured": false
+  },
+  {
+    "id": "115c53d07cd9",
+    "name": "Offrun – manage every coding agent from one workspace",
+    "description": "Offrun – manage every coding agent from one workspace - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://offrun.dev/",
+    "featured": false
+  },
+  {
+    "id": "e35138269f8b",
+    "name": "Made an open-source Lego AI generator",
+    "description": "Made an open-source Lego AI generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/anteloc/ldraw-nova",
+    "featured": false
+  },
+  {
+    "id": "4162ea366537",
+    "name": "Pyxel – A Python retro game engine with built-in art and sound editors",
+    "description": "Pyxel – A Python retro game engine with built-in art and sound editors - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kitao/pyxel",
+    "featured": false
+  },
+  {
+    "id": "c5f519b200e8",
+    "name": "Timeline of the Far Future",
+    "description": "Timeline of the Far Future - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rivendell.dmitrybrant.com/farfuture/",
+    "featured": false
+  },
+  {
+    "id": "ed858f7a5620",
+    "name": "Zebu - time tracking/invoicing for freelancers and small teams",
+    "description": "Zebu - time tracking/invoicing for freelancers and small teams - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zebu.work/",
+    "featured": false
+  },
+  {
+    "id": "852313903c0c",
+    "name": "Our space game has a built-in RISC-V emulator that runs Linux",
+    "description": "Our space game has a built-in RISC-V emulator that runs Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://againstallodds.games/",
+    "featured": false
+  },
+  {
+    "id": "09cc2e8aeb9f",
+    "name": "Breadcrumb, record everything on your mac + context manager for AI",
+    "description": "Breadcrumb, record everything on your mac + context manager for AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://innerloop.works/breadcrumb",
+    "featured": false
+  },
+  {
+    "id": "3e67350226d0",
+    "name": "Rank every HN \"Who is hiring?\" post against your resume, locally",
+    "description": "Rank every HN \"Who is hiring?\" post against your resume, locally - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/MaxwellVolz/hn_whos_hiring",
+    "featured": false
+  },
+  {
+    "id": "89506a36bd4f",
+    "name": "Graphene – Data analysis toolkit for your coding agent",
+    "description": "Graphene – Data analysis toolkit for your coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/graphene-data/graphene",
+    "featured": false
+  },
+  {
+    "id": "504a15bc4272",
+    "name": "80s Choplifter game ported to Vision Pro as an agent eval (WIP)",
+    "description": "80s Choplifter game ported to Vision Pro as an agent eval (WIP) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/",
+    "featured": false
+  },
+  {
+    "id": "884bedec0123",
+    "name": "Pi pod – run your pi coding agent in sandboxes on your own server",
+    "description": "Pi pod – run your pi coding agent in sandboxes on your own server - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://pipod.dev/",
+    "featured": false
+  },
+  {
+    "id": "0bcf916a12e7",
+    "name": "S3-Accelerator",
+    "description": "S3-Accelerator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/danthegoodman1/s3-accelerator",
+    "featured": false
+  },
+  {
+    "id": "f7a5abd45bd7",
+    "name": "Television – an open source GUI for your agent harness",
+    "description": "Television – an open source GUI for your agent harness - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://television.run/",
+    "featured": false
+  },
+  {
+    "id": "5cecf3dce9b7",
+    "name": "Premortem – AI agents that red-team your startup idea",
+    "description": "Premortem – AI agents that red-team your startup idea - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://premortem.site",
+    "featured": false
   }
 ]
