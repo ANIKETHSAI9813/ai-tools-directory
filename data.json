@@ -1865,8 +1865,8 @@
   },
   {
     "id": "e51dc4b117e0",
-    "name": "The self-improving QA agent for software teams",
-    "description": "The self-improving QA agent for software teams - AI software and productivity tool.",
+    "name": "Agent QA",
+    "description": "AI-driven YAML regression tests for web, Android and iOS apps, run through a CLI/local dashboard. Free software; configured model, browser or device services may incur costs.",
     "category": "Automation",
     "affiliate_link": "https://vostride.com",
     "featured": false
