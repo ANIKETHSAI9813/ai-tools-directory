@@ -8110,5 +8110,125 @@
     "category": "Automation",
     "affiliate_link": "https://premortem.site",
     "featured": false
+  },
+  {
+    "id": "da2e85b54b47",
+    "name": "Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "description": "Thoreau BASIC – What if BASIC hadn't gone out of fashion? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://thoreaubasic.com/",
+    "featured": false
+  },
+  {
+    "id": "8df81a9c4031",
+    "name": "Random Word Generator",
+    "description": "Random Word Generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://arandomword.com/",
+    "featured": false
+  },
+  {
+    "id": "6e3863410687",
+    "name": "SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+    "description": "SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\" - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://arxiv.org/abs/2608.08253",
+    "featured": false
+  },
+  {
+    "id": "1483fad74c64",
+    "name": "Wazn-2B – decision model with separate encoding and competition",
+    "description": "Wazn-2B – decision model with separate encoding and competition - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://huggingface.co/numidlabs/wazn-2b-v0.1",
+    "featured": false
+  },
+  {
+    "id": "af703e600f37",
+    "name": "NetworkX and pyarrow = 6-7x memory savings",
+    "description": "NetworkX and pyarrow = 6-7x memory savings - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/networkx/networkx/discussions/8933",
+    "featured": false
+  },
+  {
+    "id": "acbe0755598d",
+    "name": "Second Strike, a 200-player world war on a 3D globe in the browser",
+    "description": "Second Strike, a 200-player world war on a 3D globe in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://secondstrike.io/",
+    "featured": false
+  },
+  {
+    "id": "b68128e2f1a0",
+    "name": "jpm – a JavaScript package manager in Rust, every line by Claude Code",
+    "description": "jpm – a JavaScript package manager in Rust, every line by Claude Code - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://getjpm.sh/",
+    "featured": false
+  },
+  {
+    "id": "271f5e1bd302",
+    "name": "Four LLMs play 20 questions for real money, live",
+    "description": "Four LLMs play 20 questions for real money, live - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://aquarium.money/twenty",
+    "featured": false
+  },
+  {
+    "id": "b0942dc27653",
+    "name": "KubeZap – Declarative workflow automation for Kubernetes",
+    "description": "KubeZap – Declarative workflow automation for Kubernetes - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/kubezap/kubezap-operator",
+    "featured": false
+  },
+  {
+    "id": "4b63f9374f0e",
+    "name": "Valet – Self-Hosted Cloud Agents with Computers",
+    "description": "Valet – Self-Hosted Cloud Agents with Computers - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/dropalltables/valet",
+    "featured": false
+  },
+  {
+    "id": "50f358c3006b",
+    "name": "Pass Designer",
+    "description": "Pass Designer - AI tool launch.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.producthunt.com/products/apple",
+    "featured": false
+  },
+  {
+    "id": "3bb7c48f62fc",
+    "name": "Octri.dev",
+    "description": "Octri.dev - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/octri",
+    "featured": false
+  },
+  {
+    "id": "fef1bf727b0a",
+    "name": "ChatGPT Space",
+    "description": "ChatGPT Space - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/chatgpt-space",
+    "featured": false
+  },
+  {
+    "id": "1d6b7e4ca4cd",
+    "name": "Gemini 4 Argon",
+    "description": "Gemini 4 Argon - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/gemini-4-argon",
+    "featured": false
+  },
+  {
+    "id": "abe568b59c48",
+    "name": "CoreSpeed",
+    "description": "CoreSpeed - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/corespeed",
+    "featured": false
   }
 ]
