@@ -8230,5 +8230,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/corespeed",
     "featured": false
+  },
+  {
+    "id": "4b88703d5d18",
+    "name": "SoldStack – sold prices API for secondhand clothes",
+    "description": "SoldStack – sold prices API for secondhand clothes - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://soldstack.fly.dev/",
+    "featured": false
+  },
+  {
+    "id": "fff31110f9ea",
+    "name": "Minigraf – An embedded, bi-temporal graph database in Rust",
+    "description": "Minigraf – An embedded, bi-temporal graph database in Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/project-minigraf/minigraf",
+    "featured": false
+  },
+  {
+    "id": "29936a98bd50",
+    "name": "I finetuned 1.5B Qwen to near GPT-4o level bash generation perf",
+    "description": "I finetuned 1.5B Qwen to near GPT-4o level bash generation perf - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dirac.run/posts/easycommand",
+    "featured": false
+  },
+  {
+    "id": "f57cc01e13d4",
+    "name": "DevBoard – a simpler ClickUp for small dev teams, native apps and MCP",
+    "description": "DevBoard – a simpler ClickUp for small dev teams, native apps and MCP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getdevboard.app/",
+    "featured": false
+  },
+  {
+    "id": "d05f91ea98dd",
+    "name": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+    "description": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://niklasroy.com/gtc/",
+    "featured": false
+  },
+  {
+    "id": "973e23a6b24c",
+    "name": "Vibivibi – End-to-end encrypted sharing of Coding Agent sessions",
+    "description": "Vibivibi – End-to-end encrypted sharing of Coding Agent sessions - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://vibivibi.com/",
+    "featured": false
+  },
+  {
+    "id": "386d0bbc8f3c",
+    "name": "EtherPK – an Obsidian and Logseq alternative with prose and blocks",
+    "description": "EtherPK – an Obsidian and Logseq alternative with prose and blocks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/appsoftwareltd/etherpk-client",
+    "featured": false
+  },
+  {
+    "id": "c5e55de20f96",
+    "name": "Approvegate – Deploy approvals enforced in your pipeline, not in Jira",
+    "description": "Approvegate – Deploy approvals enforced in your pipeline, not in Jira - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.approvegate.io/",
+    "featured": false
+  },
+  {
+    "id": "d83c871c037a",
+    "name": "Native Port of Super Smash Bros. Melee",
+    "description": "Native Port of Super Smash Bros. Melee - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nikhilunni/melee",
+    "featured": false
+  },
+  {
+    "id": "62fc30e448a7",
+    "name": "Steve Jobs died 15 years ago today. I built an interactive tribute",
+    "description": "Steve Jobs died 15 years ago today. I built an interactive tribute - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://thankyousteve.org/",
+    "featured": false
+  },
+  {
+    "id": "4705c7ca280a",
+    "name": "Abliterated LLM provider for cyber tasks",
+    "description": "Abliterated LLM provider for cyber tasks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://refuseless.com",
+    "featured": false
+  },
+  {
+    "id": "d01be69c334d",
+    "name": "A Walkable O'Neill Cylinder in the Browser",
+    "description": "A Walkable O'Neill Cylinder in the Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://islandthree.world",
+    "featured": false
+  },
+  {
+    "id": "025aa73f337c",
+    "name": "Build with Python – a beginner course where your code draws",
+    "description": "Build with Python – a beginner course where your code draws - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+    "featured": false
+  },
+  {
+    "id": "b24efecee2aa",
+    "name": "I measured the MCP registry nightly for 37 days",
+    "description": "I measured the MCP registry nightly for 37 days - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yassinht/mcp-transparency-log",
+    "featured": false
+  },
+  {
+    "id": "c5dd5bc215a8",
+    "name": "A live chat on a 3D globe that you can join from any IRC client",
+    "description": "A live chat on a 3D globe that you can join from any IRC client - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bubblerumble.net/?from=hn&irc",
+    "featured": false
   }
 ]
