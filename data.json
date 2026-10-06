@@ -8350,5 +8350,125 @@
     "category": "Productivity",
     "affiliate_link": "https://bubblerumble.net/?from=hn&irc",
     "featured": false
+  },
+  {
+    "id": "388f9a01c957",
+    "name": "Parseable, an open observability datalake, handles 100M time-series/min",
+    "description": "Parseable, an open observability datalake, handles 100M time-series/min - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.parseable.com",
+    "featured": false
+  },
+  {
+    "id": "7c9be23d8351",
+    "name": "Jotbus – a shared encrypted scratchpad for coding agents",
+    "description": "Jotbus – a shared encrypted scratchpad for coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://jotbus.com/",
+    "featured": false
+  },
+  {
+    "id": "1cffef787b7f",
+    "name": "I turned my iPhone and a $20 smart plug into an f-stop timer",
+    "description": "I turned my iPhone and a $20 smart plug into an f-stop timer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://peterszentkiralyi.eu/darkplug/",
+    "featured": false
+  },
+  {
+    "id": "c01be3edbd84",
+    "name": "Frutjam – Accessible UI components in pure CSS, no JavaScript",
+    "description": "Frutjam – Accessible UI components in pure CSS, no JavaScript - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://frutjam.com",
+    "featured": false
+  },
+  {
+    "id": "17be784f973c",
+    "name": "Kahawai – An open source, modular media system",
+    "description": "Kahawai – An open source, modular media system - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kahawai.net/",
+    "featured": false
+  },
+  {
+    "id": "f8f24fb09808",
+    "name": "Vev – Ask questions about a screenshot, get a probability per answer",
+    "description": "Vev – Ask questions about a screenshot, get a probability per answer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Xiaooolong/vev",
+    "featured": false
+  },
+  {
+    "id": "c8ae2d153a22",
+    "name": "Azurade, image and video generation with MCP, credits never expire",
+    "description": "Azurade, image and video generation with MCP, credits never expire - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://azurade.com/developers/",
+    "featured": false
+  },
+  {
+    "id": "87590157cbc5",
+    "name": "Connect-it, a browser node canvas with timers, logic gates, and music",
+    "description": "Connect-it, a browser node canvas with timers, logic gates, and music - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://connect-it-app.pages.dev/",
+    "featured": false
+  },
+  {
+    "id": "4fc6b2cad37b",
+    "name": "A replacement motherboard for the iPod mini, 3G and 4G",
+    "description": "A replacement motherboard for the iPod mini, 3G and 4G - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://certainthings.studio/sprout/",
+    "featured": false
+  },
+  {
+    "id": "ef34e9526c72",
+    "name": "OpenScreen 2.0 – open-source Screen Studio alternative (Win/Mac/Linux)",
+    "description": "OpenScreen 2.0 – open-source Screen Studio alternative (Win/Mac/Linux) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getopenscreen.com/",
+    "featured": false
+  },
+  {
+    "id": "f573eccbb2d2",
+    "name": "Aldo Coach, a workout log with an AI coach that sees every set",
+    "description": "Aldo Coach, a workout log with an AI coach that sees every set - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://aldo-coach.app/?ct=hackernews",
+    "featured": false
+  },
+  {
+    "id": "a109d669d38d",
+    "name": "Bio ML Tools in the Browser",
+    "description": "Bio ML Tools in the Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://athanortools.com/",
+    "featured": false
+  },
+  {
+    "id": "53c221a4e77b",
+    "name": "Entombed in a Raycaster",
+    "description": "Entombed in a Raycaster - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.stelabouras.com/blog/entombed-raycaster/",
+    "featured": false
+  },
+  {
+    "id": "65e8b1691a9c",
+    "name": "Paganel – Data migration with a receipt you can verify later",
+    "description": "Paganel – Data migration with a receipt you can verify later - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stanstork/paganel",
+    "featured": false
+  },
+  {
+    "id": "f770295a87d7",
+    "name": "ChatGPT answers calls on a normal SIM. No Twilio, just a $6 ESP32",
+    "description": "ChatGPT answers calls on a normal SIM. No Twilio, just a $6 ESP32 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+    "featured": false
   }
 ]
