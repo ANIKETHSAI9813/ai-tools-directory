@@ -8470,5 +8470,125 @@
     "category": "Productivity",
     "affiliate_link": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
     "featured": false
+  },
+  {
+    "id": "4e989aa95889",
+    "name": "A walkable 3D art history museum built from Wikipedia",
+    "description": "A walkable 3D art history museum built from Wikipedia - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://artmuseum.artfrompixels.com/",
+    "featured": false
+  },
+  {
+    "id": "48cfbc528893",
+    "name": "AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+    "description": "AstroHelm – Use your phone camera to aim a telescope or telephoto lens - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://astrohelm.app/",
+    "featured": false
+  },
+  {
+    "id": "cdcd0ee4c492",
+    "name": "Procinsh – A 3D Linux process inspector",
+    "description": "Procinsh – A 3D Linux process inspector - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/akawashiro/procinsh",
+    "featured": false
+  },
+  {
+    "id": "5f8e09723b51",
+    "name": "I made a TV for old cartoons",
+    "description": "I made a TV for old cartoons - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cartoontv.xyz/",
+    "featured": false
+  },
+  {
+    "id": "96ce82b253d2",
+    "name": "ProofFlick, Grammarly meets Wispr Flow for Windows, pay once",
+    "description": "ProofFlick, Grammarly meets Wispr Flow for Windows, pay once - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://proofflick.com/",
+    "featured": false
+  },
+  {
+    "id": "8b98fafc638c",
+    "name": "Pawl – Hooks that stop coding agents from deleting your home dir",
+    "description": "Pawl – Hooks that stop coding agents from deleting your home dir - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/ulukaya/pawl",
+    "featured": false
+  },
+  {
+    "id": "55aab705db47",
+    "name": "Chelis, a tensor language agents can write and prove",
+    "description": "Chelis, a tensor language agents can write and prove - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Chelis-Lang/chelis",
+    "featured": false
+  },
+  {
+    "id": "58df322f46a9",
+    "name": "NanoMuse – An open-source AI agent for your phone and computer",
+    "description": "NanoMuse – An open-source AI agent for your phone and computer - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/nano-muse/nanoMuse",
+    "featured": false
+  },
+  {
+    "id": "5117c7b4f465",
+    "name": "Arcadeia – A self-hosted media library with animated video previews",
+    "description": "Arcadeia – A self-hosted media library with animated video previews - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/travelonium/arcadeia",
+    "featured": false
+  },
+  {
+    "id": "1cbbccac7d24",
+    "name": "Schema – Visual Git Diffs for Postgres, MySQL and SQLite Schemas",
+    "description": "Schema – Visual Git Diffs for Postgres, MySQL and SQLite Schemas - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dobrinov/schema",
+    "featured": false
+  },
+  {
+    "id": "148fac2ac500",
+    "name": "CloudGrip – Open-source AI proxy to cap LLM API budgets",
+    "description": "CloudGrip – Open-source AI proxy to cap LLM API budgets - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Aliyunazeer/cloudgrip-backend",
+    "featured": false
+  },
+  {
+    "id": "ea20a0a104a7",
+    "name": "Cellula Humana – 3D interactive exploration of a human cell",
+    "description": "Cellula Humana – 3D interactive exploration of a human cell - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://cellulahumana.com/",
+    "featured": false
+  },
+  {
+    "id": "ec590bed4a2d",
+    "name": "Every number in a tiny GPT, from one forward pass to one step of RLHF",
+    "description": "Every number in a tiny GPT, from one forward pass to one step of RLHF - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://llm.manogya.dev",
+    "featured": false
+  },
+  {
+    "id": "1a6b774c308f",
+    "name": "800M AI harness to beat 7B [video]",
+    "description": "800M AI harness to beat 7B [video] - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.youtube.com/watch?v=PEi7hVju3ds",
+    "featured": false
+  },
+  {
+    "id": "432a054057d4",
+    "name": "I had 100 tabs open, so I built Daysift with AI powered by Proton",
+    "description": "I had 100 tabs open, so I built Daysift with AI powered by Proton - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chromewebstore.google.com/detail/daysift-â-find-any-tab-in/llnlmmjddpfmjjkhpbjkdpcclgncajag",
+    "featured": false
   }
 ]
