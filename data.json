@@ -8590,5 +8590,125 @@
     "category": "Productivity",
     "affiliate_link": "https://chromewebstore.google.com/detail/daysift-â-find-any-tab-in/llnlmmjddpfmjjkhpbjkdpcclgncajag",
     "featured": false
+  },
+  {
+    "id": "be0fe66fcf9d",
+    "name": "I've been paying for a rural Tanzanian's education for 10 years",
+    "description": "I've been paying for a rural Tanzanian's education for 10 years - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tanzaniaeducationproject.org/",
+    "featured": false
+  },
+  {
+    "id": "1b33d1f1add5",
+    "name": "Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
+    "description": "Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pivotlake.io/",
+    "featured": false
+  },
+  {
+    "id": "cd564b444297",
+    "name": "Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "description": "Bigwords.page – Turn any screen into a sign. The URL is the app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bigwords.page/",
+    "featured": false
+  },
+  {
+    "id": "5a5982e0d6f6",
+    "name": "I Put an AI Agent on a Nokia 110",
+    "description": "I Put an AI Agent on a Nokia 110 - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+    "featured": false
+  },
+  {
+    "id": "433bb0dbd925",
+    "name": "Wordminos – Crosswords Meet Dominos",
+    "description": "Wordminos – Crosswords Meet Dominos - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wordminos.com/play-en.html",
+    "featured": false
+  },
+  {
+    "id": "65c75f24c642",
+    "name": "Agent.reviews – Where AI agents read and write reviews on tools",
+    "description": "Agent.reviews – Where AI agents read and write reviews on tools - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://agent.reviews/",
+    "featured": false
+  },
+  {
+    "id": "4f198c432f75",
+    "name": "Singularity – memory that makes coding agents cheaper on repeat work",
+    "description": "Singularity – memory that makes coding agents cheaper on repeat work - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/pandacover/singularity",
+    "featured": false
+  },
+  {
+    "id": "a16a4be4e15c",
+    "name": "Coding Agent with Cost Saving Built-In",
+    "description": "Coding Agent with Cost Saving Built-In - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.wiyomi.com/",
+    "featured": false
+  },
+  {
+    "id": "4485f8c79986",
+    "name": "Durable Actors – OSS Durable Objects with configurable compute",
+    "description": "Durable Actors – OSS Durable Objects with configurable compute - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/TerseAI/durable-actors",
+    "featured": false
+  },
+  {
+    "id": "a9e1b223ddb8",
+    "name": "SVG Spark – 10 client-side SVG design and dev tools",
+    "description": "SVG Spark – 10 client-side SVG design and dev tools - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://svg-spark.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "8499fb849c94",
+    "name": "Opposable – Computer Use for iPhone and Android",
+    "description": "Opposable – Computer Use for iPhone and Android - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getopposable.com",
+    "featured": false
+  },
+  {
+    "id": "4760f6c34aba",
+    "name": "Pacer – will your AI coding subscription last until the reset?",
+    "description": "Pacer – will your AI coding subscription last until the reset? - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/dkremsa/claude-pacer",
+    "featured": false
+  },
+  {
+    "id": "50a77b24644d",
+    "name": "Terse, a Claude Code plugin that halves reply length by cutting filler",
+    "description": "Terse, a Claude Code plugin that halves reply length by cutting filler - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/lowenbjer/claude-terse",
+    "featured": false
+  },
+  {
+    "id": "e53ef0ec162e",
+    "name": "Pinrail – A desktop inbox where coding agents wait for your review",
+    "description": "Pinrail – A desktop inbox where coding agents wait for your review - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/forgeplane/pinrail",
+    "featured": false
+  },
+  {
+    "id": "3f99d52d0651",
+    "name": "I indexed 166,000 AI agent setups on GitHub",
+    "description": "I indexed 166,000 AI agent setups on GitHub - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://favz.co/",
+    "featured": false
   }
 ]
