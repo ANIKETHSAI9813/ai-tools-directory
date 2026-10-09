@@ -8710,5 +8710,125 @@
     "category": "Automation",
     "affiliate_link": "https://favz.co/",
     "featured": false
+  },
+  {
+    "id": "cae1588a5971",
+    "name": "Liquid Inference – auto-routing to competitive LLM marketplace",
+    "description": "Liquid Inference – auto-routing to competitive LLM marketplace - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://liquidinference.ai/",
+    "featured": false
+  },
+  {
+    "id": "f161d236cfab",
+    "name": "Making a flexible \"neon\" t-shirt with LED filaments",
+    "description": "Making a flexible \"neon\" t-shirt with LED filaments - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+    "featured": false
+  },
+  {
+    "id": "331922c0f7b3",
+    "name": "UserAlertX – let your AI agent text you (only you)",
+    "description": "UserAlertX – let your AI agent text you (only you) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://useralertx.com",
+    "featured": false
+  },
+  {
+    "id": "8d9f1e3e567c",
+    "name": "Quake ported to safe Rust, playable in browser",
+    "description": "Quake ported to safe Rust, playable in browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://quake-srp.pages.dev/",
+    "featured": false
+  },
+  {
+    "id": "40d84c5f67bb",
+    "name": "Jevman – AI decision models play Pac-Man",
+    "description": "Jevman – AI decision models play Pac-Man - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://opper.ai/jevman-benchmark/",
+    "featured": false
+  },
+  {
+    "id": "64f9c6473924",
+    "name": "OldRoll, a free vintage photo editor for the browser",
+    "description": "OldRoll, a free vintage photo editor for the browser - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.oldroll.io/",
+    "featured": false
+  },
+  {
+    "id": "ef4ef19443f7",
+    "name": "A Piet interpreter compiled to a Piet image, running a Piet program",
+    "description": "A Piet interpreter compiled to a Piet image, running a Piet program - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://bobbby.online/piet",
+    "featured": false
+  },
+  {
+    "id": "4c2304084534",
+    "name": "All Things Banana – banana news, prices, and a daily Wikipedia game",
+    "description": "All Things Banana – banana news, prices, and a daily Wikipedia game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://allthingsbanana.com/",
+    "featured": false
+  },
+  {
+    "id": "47c42bb7f9df",
+    "name": "TerrainSR – fast, realistic heightmap upscaling model",
+    "description": "TerrainSR – fast, realistic heightmap upscaling model - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://huggingface.co/joe-gibbs/terrainsr",
+    "featured": false
+  },
+  {
+    "id": "997fc3b807f3",
+    "name": "Spectra – A drop-in optimizer that cuts LLM training VRAM by 50%",
+    "description": "Spectra – A drop-in optimizer that cuts LLM training VRAM by 50% - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/SpectraSI/SpectraAdamw",
+    "featured": false
+  },
+  {
+    "id": "bc645e50c62e",
+    "name": "Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+    "description": "Edi Life OS – self-hosted life dashboard with an MCP server for AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/edrisranjbar/lifeos",
+    "featured": false
+  },
+  {
+    "id": "54c449e743c6",
+    "name": "I've release the demo of my FTL-inspired autobattler game – Cosmo Cargo",
+    "description": "I've release the demo of my FTL-inspired autobattler game – Cosmo Cargo - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pixelnest.itch.io/cosmo-cargo",
+    "featured": false
+  },
+  {
+    "id": "ff4abefec338",
+    "name": "Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+    "description": "Pocketty – iPhone SSH terminal that pings you when an agent is blocked - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://pocketty.app/",
+    "featured": false
+  },
+  {
+    "id": "b12c610e632d",
+    "name": "K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+    "description": "K10s – A Clickable Kubernetes TUI (Go, Bubble Tea) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/p10node/k10s",
+    "featured": false
+  },
+  {
+    "id": "86538ce1338f",
+    "name": "I built a fast spreadsheet engine for the web in Rust/WASM",
+    "description": "I built a fast spreadsheet engine for the web in Rust/WASM - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/podraven/titan-engine",
+    "featured": false
   }
 ]
