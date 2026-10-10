@@ -8830,5 +8830,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/podraven/titan-engine",
     "featured": false
+  },
+  {
+    "id": "40715e86e2b1",
+    "name": "World Watcher – a map to seamlessly watch public webcam streams",
+    "description": "World Watcher – a map to seamlessly watch public webcam streams - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://worldwatcher.live/",
+    "featured": false
+  },
+  {
+    "id": "623cc6d82885",
+    "name": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "description": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://carrierexplode.com/",
+    "featured": false
+  },
+  {
+    "id": "dd8d703f5b14",
+    "name": "Academic Ancestry",
+    "description": "Academic Ancestry - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://academicancestry.org/",
+    "featured": false
+  },
+  {
+    "id": "fddd0abab44b",
+    "name": "OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+    "description": "OpenWants – A Simulated City Where AI Agents Handle Residents Needs - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://maplehill.openwants.com/",
+    "featured": false
+  },
+  {
+    "id": "c16275af740e",
+    "name": "Proton Drive for Linux",
+    "description": "Proton Drive for Linux - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "featured": false
+  },
+  {
+    "id": "2c9c6835429b",
+    "name": "The rarest tech books and docs you've probably never read",
+    "description": "The rarest tech books and docs you've probably never read - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://readrare.com/",
+    "featured": false
+  },
+  {
+    "id": "595085953aee",
+    "name": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "description": "Let your AI agents paint big arrows, boxes and text on your screen - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "featured": false
+  },
+  {
+    "id": "6ee4ee0350cc",
+    "name": "Open Components – UI Components standard for people, devs and AI agents",
+    "description": "Open Components – UI Components standard for people, devs and AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://opencomponents.dev/",
+    "featured": false
+  },
+  {
+    "id": "8e2ff18bca59",
+    "name": "A simple to-do app for iPhone, Mac, and your agent",
+    "description": "A simple to-do app for iPhone, Mac, and your agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://ilia.page/writing/introducing-nagare",
+    "featured": false
+  },
+  {
+    "id": "4934525c36c3",
+    "name": "The safe-choice tax – what the vendor nobody gets fired for costs",
+    "description": "The safe-choice tax – what the vendor nobody gets fired for costs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://svpremium.dev/",
+    "featured": false
+  },
+  {
+    "id": "71b5c0c81e2a",
+    "name": "Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+    "description": "Apogee: Rebuilding Mozilla's Orbit, fully local and private - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/darshi1337/apogee",
+    "featured": false
+  },
+  {
+    "id": "3b1ec424de2e",
+    "name": "Rutter – shared decision memory across AI tools",
+    "description": "Rutter – shared decision memory across AI tools - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ruttermemory.com/",
+    "featured": false
+  },
+  {
+    "id": "9845c3a4c864",
+    "name": "Iimos – an AI app that ships as one chat box and rewrites itself",
+    "description": "Iimos – an AI app that ships as one chat box and rewrites itself - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/yanglongyun/iimos",
+    "featured": false
+  },
+  {
+    "id": "d2515d55003a",
+    "name": "Babytalk: Offline speech to text and text to speech on ESP32",
+    "description": "Babytalk: Offline speech to text and text to speech on ESP32 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/tlack/babytalk",
+    "featured": false
+  },
+  {
+    "id": "50a8942187b0",
+    "name": "tgv: Genome viewer for you and your agents",
+    "description": "tgv: Genome viewer for you and your agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/zeqianli/tgv",
+    "featured": false
   }
 ]
