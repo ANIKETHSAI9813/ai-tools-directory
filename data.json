@@ -8950,5 +8950,125 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/zeqianli/tgv",
     "featured": false
+  },
+  {
+    "id": "14dc79e232b7",
+    "name": "GrogLog, a Free Drink Tracker",
+    "description": "GrogLog, a Free Drink Tracker - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://groglog.io",
+    "featured": false
+  },
+  {
+    "id": "85ad31b787b8",
+    "name": "Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+    "description": "Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://hangul.ink/blog/hangul-day",
+    "featured": false
+  },
+  {
+    "id": "afb5f53f7bd1",
+    "name": "BetterWispr – Free, open-source dictation for Mac",
+    "description": "BetterWispr – Free, open-source dictation for Mac - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://betterwispr.com/",
+    "featured": false
+  },
+  {
+    "id": "49f716717bd3",
+    "name": "I'm a 14-year-old building my first startup, Titan",
+    "description": "I'm a 14-year-old building my first startup, Titan - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://titan-ai.co/",
+    "featured": false
+  },
+  {
+    "id": "16d032ec6b86",
+    "name": "Diffle, a keyboard-centric diff viewer with LSP support",
+    "description": "Diffle, a keyboard-centric diff viewer with LSP support - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/moritzwilksch/diffle",
+    "featured": false
+  },
+  {
+    "id": "c6c94e5dc0bc",
+    "name": "Rezoom – one chat list for all your Claude Code sessions",
+    "description": "Rezoom – one chat list for all your Claude Code sessions - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/BEX-Robotics/rezoom",
+    "featured": false
+  },
+  {
+    "id": "b83398ccd69f",
+    "name": "Krashout, multiplayer car soccer in the browser",
+    "description": "Krashout, multiplayer car soccer in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ball.krashout.io",
+    "featured": false
+  },
+  {
+    "id": "5cdedd8f55a0",
+    "name": "Free website speed audit with real Lighthouse metrics",
+    "description": "Free website speed audit with real Lighthouse metrics - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sazm.in/audit",
+    "featured": false
+  },
+  {
+    "id": "b7af4faddbdb",
+    "name": "WallHop – 12ft.io is gone, so I built a replacement",
+    "description": "WallHop – 12ft.io is gone, so I built a replacement - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wallhop.io/",
+    "featured": false
+  },
+  {
+    "id": "baaa70f428db",
+    "name": "Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+    "description": "Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://littleguys.hervalicio.us",
+    "featured": false
+  },
+  {
+    "id": "d52f0c77d738",
+    "name": "Free LED pixel-pitch and display-size calculators (open source)",
+    "description": "Free LED pixel-pitch and display-size calculators (open source) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://boardsy.co.uk/free-exhibition-display-tools/",
+    "featured": false
+  },
+  {
+    "id": "ca9dc1735b1f",
+    "name": "TruthBeacon – Open-source Discord moderation app in Tauri and Rust",
+    "description": "TruthBeacon – Open-source Discord moderation app in Tauri and Rust - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/boredpolymath/truth-beacon",
+    "featured": false
+  },
+  {
+    "id": "5e8d610128bb",
+    "name": "Try Free Long-Term Memory for AI 50M-Token Window",
+    "description": "Try Free Long-Term Memory for AI 50M-Token Window - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/corbenicai/galahad",
+    "featured": false
+  },
+  {
+    "id": "ffb4f99e3cf7",
+    "name": "Throw Alice and Bob into Sagittarius A*",
+    "description": "Throw Alice and Bob into Sagittarius A* - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/steveking-gh/black-hole-lab",
+    "featured": false
+  },
+  {
+    "id": "05753777d854",
+    "name": "A functioning Celery Man computer",
+    "description": "A functioning Celery Man computer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://celeryman.fun/",
+    "featured": false
   }
 ]
