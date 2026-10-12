@@ -9070,5 +9070,125 @@
     "category": "Productivity",
     "affiliate_link": "https://celeryman.fun/",
     "featured": false
+  },
+  {
+    "id": "6672e99a5764",
+    "name": "PS2 games statically recompiled to WebAssembly",
+    "description": "PS2 games statically recompiled to WebAssembly - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/snuri00/ps2-web-recomp",
+    "featured": false
+  },
+  {
+    "id": "0ce99fe41e23",
+    "name": "IHMT – Infinite Hierarchical Memory Tree for AI Agents",
+    "description": "IHMT – Infinite Hierarchical Memory Tree for AI Agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/gonzaroman/IHMT-MEMORY",
+    "featured": false
+  },
+  {
+    "id": "b8e5697b8168",
+    "name": "Mastro – Turn the browser session into a CLI for any web app",
+    "description": "Mastro – Turn the browser session into a CLI for any web app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mastro-hq/mastro-connect",
+    "featured": false
+  },
+  {
+    "id": "6a5fb3395342",
+    "name": "An Atlas of Applied AI",
+    "description": "An Atlas of Applied AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gravitypersists.github.io/atlas-of-applied-ai/",
+    "featured": false
+  },
+  {
+    "id": "e5fd7317ab70",
+    "name": "Remove AI Metadata Offline in Browser",
+    "description": "Remove AI Metadata Offline in Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://freeaiwiper.com/",
+    "featured": false
+  },
+  {
+    "id": "5c15177586e5",
+    "name": "Nitro – a Python static site generator",
+    "description": "Nitro – a Python static site generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nitro.sh",
+    "featured": false
+  },
+  {
+    "id": "5667497af7c4",
+    "name": "NabuSQL – Rust Database GUI for MySQL/MariaDB, Postgres, SQLite, Mssql",
+    "description": "NabuSQL – Rust Database GUI for MySQL/MariaDB, Postgres, SQLite, Mssql - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nabusql.nabu.work/",
+    "featured": false
+  },
+  {
+    "id": "231cdb901d72",
+    "name": "BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+    "description": "BraiNOTES, handwritten notes on your lecture PDFs in a browser tab - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/swimmingbrain/brainotes",
+    "featured": false
+  },
+  {
+    "id": "19a0a81eb16d",
+    "name": "GeoRadios – Spin a globe, hear what's on the radio there",
+    "description": "GeoRadios – Spin a globe, hear what's on the radio there - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://georadios.com/",
+    "featured": false
+  },
+  {
+    "id": "430781c37c8b",
+    "name": "Expose – Self-hosted ngrok alternative in Go",
+    "description": "Expose – Self-hosted ngrok alternative in Go - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kernelshard/expose",
+    "featured": false
+  },
+  {
+    "id": "517d26282ac3",
+    "name": "Preloop – GitHub Actions locally in microvms and SSH/pause failures",
+    "description": "Preloop – GitHub Actions locally in microvms and SSH/pause failures - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/preloopdev/preloop",
+    "featured": false
+  },
+  {
+    "id": "b04125043b38",
+    "name": "LLMxRay an open-source observability tool for LLMs",
+    "description": "LLMxRay an open-source observability tool for LLMs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/LogneBudo/llmxray",
+    "featured": false
+  },
+  {
+    "id": "71b7c786c689",
+    "name": "WriteNative – correct, natural English in any Mac app",
+    "description": "WriteNative – correct, natural English in any Mac app - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://writenative.app/",
+    "featured": false
+  },
+  {
+    "id": "da11a19c3b2f",
+    "name": "Skills Hub, a desktop app for managing AI agent skills",
+    "description": "Skills Hub, a desktop app for managing AI agent skills - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/qufei1993/skills-hub",
+    "featured": false
+  },
+  {
+    "id": "3384cc731055",
+    "name": "If MIT OCW Was Like Cable TV",
+    "description": "If MIT OCW Was Like Cable TV - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rahulch.site/mitocwtv/",
+    "featured": false
   }
 ]
