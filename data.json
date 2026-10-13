@@ -9190,5 +9190,125 @@
     "category": "Productivity",
     "affiliate_link": "https://rahulch.site/mitocwtv/",
     "featured": false
+  },
+  {
+    "id": "d4771f1d949e",
+    "name": "Use your OpenAI subscription to create audiobooks",
+    "description": "Use your OpenAI subscription to create audiobooks - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://pdftomp3.com/connect-ai/",
+    "featured": false
+  },
+  {
+    "id": "4411695d6c8b",
+    "name": "What to Wear in NYC Today",
+    "description": "What to Wear in NYC Today - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wearing.nyc/",
+    "featured": false
+  },
+  {
+    "id": "68185f838dbf",
+    "name": "SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+    "description": "SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/bherbruck/solidcraft",
+    "featured": false
+  },
+  {
+    "id": "fbedea5898f8",
+    "name": "RooQL – A semantic layer with no server (Ossie models to SQL)",
+    "description": "RooQL – A semantic layer with no server (Ossie models to SQL) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rooql.com/play/",
+    "featured": false
+  },
+  {
+    "id": "8a465f85258e",
+    "name": "An experimental pattern-first DAW that supports MCP",
+    "description": "An experimental pattern-first DAW that supports MCP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/andrewfader/blokkily",
+    "featured": false
+  },
+  {
+    "id": "090e5e5c3a1b",
+    "name": "A coloring book where your drawings come alive and walks into a world",
+    "description": "A coloring book where your drawings come alive and walks into a world - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://www.livecoloringbook.com/",
+    "featured": false
+  },
+  {
+    "id": "cc43c2f04cc1",
+    "name": "Vaguely Right, a Jev-based daily game – submit a clue to hit the target",
+    "description": "Vaguely Right, a Jev-based daily game – submit a clue to hit the target - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://minisani.com/vaguely-right/",
+    "featured": false
+  },
+  {
+    "id": "c6d8f9c07c60",
+    "name": "Glossdex – semantic search that returns nothing when nothing matches",
+    "description": "Glossdex – semantic search that returns nothing when nothing matches - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/miranpoor/glossdex",
+    "featured": false
+  },
+  {
+    "id": "4100bdcd7719",
+    "name": "VM Explorer – Self-hosted Linux web UI (free for standalone nodes)",
+    "description": "VM Explorer – Self-hosted Linux web UI (free for standalone nodes) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vm-explorer.com/",
+    "featured": false
+  },
+  {
+    "id": "d45b82b8730b",
+    "name": "Sota-anchor – check what was shipped since cut-off before rebuilding it",
+    "description": "Sota-anchor – check what was shipped since cut-off before rebuilding it - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/luckmanqasim/sota-anchor",
+    "featured": false
+  },
+  {
+    "id": "c2545b1ac60e",
+    "name": "A release-management playbook for regulated engineering teams",
+    "description": "A release-management playbook for regulated engineering teams - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://runbooks.clxi.ch/",
+    "featured": false
+  },
+  {
+    "id": "0be2319b35f7",
+    "name": "Pure State Compile – one requirement sentence to C, C++ or Ada source",
+    "description": "Pure State Compile – one requirement sentence to C, C++ or Ada source - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://compile.purestatelabs.com/#try",
+    "featured": false
+  },
+  {
+    "id": "c0ad569488a7",
+    "name": "Oxynote – Self-hosted wiki with live Prometheus/SQL charts and reviews",
+    "description": "Oxynote – Self-hosted wiki with live Prometheus/SQL charts and reviews - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/oxynote/oxynote",
+    "featured": false
+  },
+  {
+    "id": "e9bf500cfabd",
+    "name": "Opensidian",
+    "description": "Opensidian - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://opensidian.org/",
+    "featured": false
+  },
+  {
+    "id": "2d51028263f4",
+    "name": "FM-1 synth emulator with a reverse-engineered CPU and WebAssembly JIT",
+    "description": "FM-1 synth emulator with a reverse-engineered CPU and WebAssembly JIT - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://joakimeriksson.github.io/fm1-emu/",
+    "featured": false
   }
 ]
