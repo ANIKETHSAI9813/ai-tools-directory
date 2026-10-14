@@ -9310,5 +9310,125 @@
     "category": "Productivity",
     "affiliate_link": "https://joakimeriksson.github.io/fm1-emu/",
     "featured": false
+  },
+  {
+    "id": "99c6e4f147d8",
+    "name": "A guided 3D Leonardo da Vinci museum, built in code",
+    "description": "A guided 3D Leonardo da Vinci museum, built in code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://museumofages.org/w/vinci",
+    "featured": false
+  },
+  {
+    "id": "01b0fbae59fa",
+    "name": "Guitoro, a virtual guitar you strum with your keyboard",
+    "description": "Guitoro, a virtual guitar you strum with your keyboard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://guitoro.com/",
+    "featured": false
+  },
+  {
+    "id": "186670dc3300",
+    "name": "How random are you?",
+    "description": "How random are you? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lab.specr.net/rigged-draw/",
+    "featured": false
+  },
+  {
+    "id": "be9ce576739f",
+    "name": "XY Music Notation",
+    "description": "XY Music Notation - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://music.xy.dev/",
+    "featured": false
+  },
+  {
+    "id": "0a248ec43515",
+    "name": "Parsimony – an open-source benchmark for how much code AI models add",
+    "description": "Parsimony – an open-source benchmark for how much code AI models add - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://parsimony.lasu.dev/",
+    "featured": false
+  },
+  {
+    "id": "4a4d21f2bb0d",
+    "name": "Spotatui, a Spotify TUI/GUI without web API rate limits",
+    "description": "Spotatui, a Spotify TUI/GUI without web API rate limits - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/LargeModGames/spotatui",
+    "featured": false
+  },
+  {
+    "id": "98f0c8902c4b",
+    "name": "Building an LLM from Scratch in TypeScript",
+    "description": "Building an LLM from Scratch in TypeScript - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://book.humanexperiences.io/",
+    "featured": false
+  },
+  {
+    "id": "8499e5245393",
+    "name": "I built a tool to track what AI leaders say and how their views change",
+    "description": "I built a tool to track what AI leaders say and how their views change - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://blumify.io/people",
+    "featured": false
+  },
+  {
+    "id": "8f7f45924de2",
+    "name": "Fakenamegenerator – free browser based mock data generator",
+    "description": "Fakenamegenerator – free browser based mock data generator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.fakenamegenerator.online/",
+    "featured": false
+  },
+  {
+    "id": "f9f73f1d9d33",
+    "name": "Graft – open-source source control for agent-scale monorepos",
+    "description": "Graft – open-source source control for agent-scale monorepos - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/VishiATChoudhary/graft",
+    "featured": false
+  },
+  {
+    "id": "283b0886e43a",
+    "name": "Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+    "description": "Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/RayenMlayeh/jevcrawl",
+    "featured": false
+  },
+  {
+    "id": "b56c81e22933",
+    "name": "Chiplab - Give your AI agent access to virtual hardware",
+    "description": "Chiplab - Give your AI agent access to virtual hardware - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://veecle.ai/chiplab",
+    "featured": false
+  },
+  {
+    "id": "6bfaaf873eeb",
+    "name": "Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "description": "Pulse Local, a Mac budgeting app whose AI models run on your machine - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pulseos.finance",
+    "featured": false
+  },
+  {
+    "id": "06ae7f50f75f",
+    "name": "Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support",
+    "description": "Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Arunjay4213/mosh-rs",
+    "featured": false
+  },
+  {
+    "id": "3b86f6776160",
+    "name": "Stream live open data in two commands",
+    "description": "Stream live open data in two commands - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://docs.hypermass.io/docs/cli/",
+    "featured": false
   }
 ]
