@@ -9430,5 +9430,125 @@
     "category": "Productivity",
     "affiliate_link": "https://docs.hypermass.io/docs/cli/",
     "featured": false
+  },
+  {
+    "id": "8dd9369695f5",
+    "name": "Unfenced – Land for sale that borders public land",
+    "description": "Unfenced – Land for sale that borders public land - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://unfenced.land/",
+    "featured": false
+  },
+  {
+    "id": "c23fd5b9db08",
+    "name": "Indigene – Native plants for where you stand",
+    "description": "Indigene – Native plants for where you stand - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://indigene.app/",
+    "featured": false
+  },
+  {
+    "id": "50eea077e872",
+    "name": "Ito – Build Terminal UIs in Lua",
+    "description": "Ito – Build Terminal UIs in Lua - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://uji.sh/ito/",
+    "featured": false
+  },
+  {
+    "id": "062d3c09e92b",
+    "name": "Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "description": "Flipflop, Iroh-powered persistent tunnels for filesharing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/andunieee/flipflop",
+    "featured": false
+  },
+  {
+    "id": "9bf5ebea18ef",
+    "name": "Petal, open-source CoScreen/ScreenHero finally free",
+    "description": "Petal, open-source CoScreen/ScreenHero finally free - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://petal.live/",
+    "featured": false
+  },
+  {
+    "id": "615bf9448035",
+    "name": "BookPress, a WordPress core in C/C++ (Live Demo)",
+    "description": "BookPress, a WordPress core in C/C++ (Live Demo) - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://bookpress.io/",
+    "featured": false
+  },
+  {
+    "id": "7c746699df02",
+    "name": "server-noonien – conflict-free agent memory across machines, no server",
+    "description": "server-noonien – conflict-free agent memory across machines, no server - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/sequico/server-noonien",
+    "featured": false
+  },
+  {
+    "id": "69b61d15869a",
+    "name": "Rails-preflight, a static check of what blocks your next Rails upgrade",
+    "description": "Rails-preflight, a static check of what blocks your next Rails upgrade - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aslam/rails-preflight",
+    "featured": false
+  },
+  {
+    "id": "3de9789adcc3",
+    "name": "Custom Firmware for Insta360 Wave",
+    "description": "Custom Firmware for Insta360 Wave - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://xaviergeerinck.github.io/insta360-custom-firmware/",
+    "featured": false
+  },
+  {
+    "id": "8dbcf82369ca",
+    "name": "I wrote an email app that accepts only one sender per inbox",
+    "description": "I wrote an email app that accepts only one sender per inbox - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://clova.email/",
+    "featured": false
+  },
+  {
+    "id": "f218d6f8dd9a",
+    "name": "Netlumi – Cloud and AI agent security with auto-remediation PRs",
+    "description": "Netlumi – Cloud and AI agent security with auto-remediation PRs - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://app.netlumi.com",
+    "featured": false
+  },
+  {
+    "id": "451a38caac9e",
+    "name": "Theorem – Offline PDF/ePub reader that writes highlights to Local Vault",
+    "description": "Theorem – Offline PDF/ePub reader that writes highlights to Local Vault - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://theorem.fundaments.work/",
+    "featured": false
+  },
+  {
+    "id": "244f3e3321ed",
+    "name": "My Terminal Themes Web App",
+    "description": "My Terminal Themes Web App - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=50098454",
+    "featured": false
+  },
+  {
+    "id": "c39031477f53",
+    "name": "Graphicle, a Rust port of Graphify with memory for coding agents",
+    "description": "Graphicle, a Rust port of Graphify with memory for coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/graphicle-ai/graphicle",
+    "featured": false
+  },
+  {
+    "id": "4a089a145c6f",
+    "name": "Ask a technical question, get an animated explainer you can interrupt",
+    "description": "Ask a technical question, get an animated explainer you can interrupt - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
+    "featured": false
   }
 ]
