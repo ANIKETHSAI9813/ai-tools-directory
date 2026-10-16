@@ -9550,5 +9550,125 @@
     "category": "Productivity",
     "affiliate_link": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
     "featured": false
+  },
+  {
+    "id": "279730a4fa86",
+    "name": "Cr34te.it – a website anyone can rewrite one turn at a time with AI",
+    "description": "Cr34te.it – a website anyone can rewrite one turn at a time with AI - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://cr34te.it/",
+    "featured": false
+  },
+  {
+    "id": "d55cb84aae47",
+    "name": "A Music-Reading Trainer",
+    "description": "A Music-Reading Trainer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://parkscomputing.com/page/sight-reader",
+    "featured": false
+  },
+  {
+    "id": "c0174e8976d1",
+    "name": "Proa – A Rust web framework with fast SSR and multi-target rendering",
+    "description": "Proa – A Rust web framework with fast SSR and multi-target rendering - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://proa.so/",
+    "featured": false
+  },
+  {
+    "id": "885fbf934eda",
+    "name": "Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+    "description": "Sygal – Convert PDFs, scans and web pages to Markdown, locally - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sygal.app",
+    "featured": false
+  },
+  {
+    "id": "57a11331f3bd",
+    "name": "Gitsu.app – A Linear-alternative built on GitHub Projects",
+    "description": "Gitsu.app – A Linear-alternative built on GitHub Projects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gitsu.app/",
+    "featured": false
+  },
+  {
+    "id": "14f6fc900e79",
+    "name": "Continuous Trunk Builds of Network Ups Tools (Nut) for Fedora/EL",
+    "description": "Continuous Trunk Builds of Network Ups Tools (Nut) for Fedora/EL - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://copr.fedorainfracloud.org/coprs/karellen/nut-next/",
+    "featured": false
+  },
+  {
+    "id": "06fee9df4867",
+    "name": "Chickadee Bandit – Build private apps for your family",
+    "description": "Chickadee Bandit – Build private apps for your family - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.chickadeebandit.com/gallery",
+    "featured": false
+  },
+  {
+    "id": "29771baf8762",
+    "name": "Endo – A Higher-Order Harness",
+    "description": "Endo – A Higher-Order Harness - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/longsurf-ai/endo",
+    "featured": false
+  },
+  {
+    "id": "8dfd1b5a9470",
+    "name": "Lobby Domains: Find Domains with Chrome's On-Device AI",
+    "description": "Lobby Domains: Find Domains with Chrome's On-Device AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://lobby.domains/",
+    "featured": false
+  },
+  {
+    "id": "92a370b9553b",
+    "name": "Kitaphone – Call mobile phones and landlines directly from the browser",
+    "description": "Kitaphone – Call mobile phones and landlines directly from the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kitaphone.com",
+    "featured": false
+  },
+  {
+    "id": "a518a67fbae7",
+    "name": "BlastLoop, a structure-first coding method for AI agents",
+    "description": "BlastLoop, a structure-first coding method for AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/rlshaw-ml/BlastLoop",
+    "featured": false
+  },
+  {
+    "id": "a248e2c2bf65",
+    "name": "Beeline Multiplayer Agent Harness",
+    "description": "Beeline Multiplayer Agent Harness - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://usebeeline.app",
+    "featured": false
+  },
+  {
+    "id": "5321b1d11ed0",
+    "name": "Firmenza – An AI employee for SAM.gov",
+    "description": "Firmenza – An AI employee for SAM.gov - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://firmenza.com",
+    "featured": false
+  },
+  {
+    "id": "eff982346963",
+    "name": "Weatheristic.com to answer questions other weather sites don't",
+    "description": "Weatheristic.com to answer questions other weather sites don't - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://weatheristic.com/",
+    "featured": false
+  },
+  {
+    "id": "e588a28c3916",
+    "name": "MadMoon Shield – single-server DDoS defense, no CDN. Round 3 live",
+    "description": "MadMoon Shield – single-server DDoS defense, no CDN. Round 3 live - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://challenge.madmoonsecurity.com",
+    "featured": false
   }
 ]
