@@ -9670,5 +9670,125 @@
     "category": "Productivity",
     "affiliate_link": "https://challenge.madmoonsecurity.com",
     "featured": false
+  },
+  {
+    "id": "0913988ccbed",
+    "name": "Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "description": "Llmspeed – feel how fast a local LLM runs before you buy the hardware - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://llmspeed.dev/",
+    "featured": false
+  },
+  {
+    "id": "33d0e39045f0",
+    "name": "I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "description": "I got tired of btop not seeing my Mac's chip, so I built siltop - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/CLoaKY233/siltop",
+    "featured": false
+  },
+  {
+    "id": "22d04cd04ff7",
+    "name": "Gemini 4 Argon plays StarCraft",
+    "description": "Gemini 4 Argon plays StarCraft - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://starskirmish.com/bench/v0-2/",
+    "featured": false
+  },
+  {
+    "id": "825d4c36a0f1",
+    "name": "Wonderhop – A daily game: guess what most people say, or what none do",
+    "description": "Wonderhop – A daily game: guess what most people say, or what none do - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wonderhop.io/en/",
+    "featured": false
+  },
+  {
+    "id": "7e9a3d93d90f",
+    "name": "Club Pigeon – A multiplayer pigeon park with SNES-style minigames",
+    "description": "Club Pigeon – A multiplayer pigeon park with SNES-style minigames - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://clubpigeon.lol",
+    "featured": false
+  },
+  {
+    "id": "8a9e51c78ada",
+    "name": "Right-click any log line to see its call stack in VS Code",
+    "description": "Right-click any log line to see its call stack in VS Code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://marketplace.visualstudio.com/items?itemName=Suwapat.logcallstack",
+    "featured": false
+  },
+  {
+    "id": "42461126ca37",
+    "name": "Fakeipedia – Wikipedia for worlds that don't exist",
+    "description": "Fakeipedia – Wikipedia for worlds that don't exist - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://fakeipedia.org",
+    "featured": false
+  },
+  {
+    "id": "9f6914e1599a",
+    "name": "Online Piano – Play a Free Virtual Piano Keyboard",
+    "description": "Online Piano – Play a Free Virtual Piano Keyboard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://urpiano.com/",
+    "featured": false
+  },
+  {
+    "id": "40223f2d7408",
+    "name": "rStation – A shared research lab for your AI agents",
+    "description": "rStation – A shared research lab for your AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://rstation.ai/",
+    "featured": false
+  },
+  {
+    "id": "2f04e01d625b",
+    "name": "Biblio Times, your RSS feeds, typeset as a morning newspaper (Mac/iOS)",
+    "description": "Biblio Times, your RSS feeds, typeset as a morning newspaper (Mac/iOS) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://biblio.ink/times",
+    "featured": false
+  },
+  {
+    "id": "4a21b55e02b2",
+    "name": "Stoke Money – Personal finance app built around a cash flow forecast",
+    "description": "Stoke Money – Personal finance app built around a cash flow forecast - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://stoke.money",
+    "featured": false
+  },
+  {
+    "id": "4b1771cd5165",
+    "name": "Calcy – unit-aware, uncertainty-propagating math",
+    "description": "Calcy – unit-aware, uncertainty-propagating math - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://habitathq.github.io/calcy/",
+    "featured": false
+  },
+  {
+    "id": "c0ec3a77fab3",
+    "name": "OneDeploy – Managed open-source apps with nightly backups and TLS",
+    "description": "OneDeploy – Managed open-source apps with nightly backups and TLS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://onedeploy.co",
+    "featured": false
+  },
+  {
+    "id": "fd1429d0dc41",
+    "name": "Camera Controls and Motion for AI Video Prompts",
+    "description": "Camera Controls and Motion for AI Video Prompts - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.kapwing.com/ai/prompt-generator/camera",
+    "featured": false
+  },
+  {
+    "id": "19adbcc5636f",
+    "name": "Weatherdeck – a read-only status board for AI coding agent lanes",
+    "description": "Weatherdeck – a read-only status board for AI coding agent lanes - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Moshik21/weatherdeck",
+    "featured": false
   }
 ]
