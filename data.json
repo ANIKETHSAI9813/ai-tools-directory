@@ -9790,5 +9790,125 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/Moshik21/weatherdeck",
     "featured": false
+  },
+  {
+    "id": "d3c35db34ec3",
+    "name": "Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "description": "Sphinx – A hook that quizzes you on your AI's code before shipping - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sphinx-six-theta.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "bc1a864fe5b6",
+    "name": "A forest's wildlife, synthesized live in Rust, playable in the browser",
+    "description": "A forest's wildlife, synthesized live in Rust, playable in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zaghaghi.github.io/spore-and-skog-dev-log/",
+    "featured": false
+  },
+  {
+    "id": "b24b9e103f3c",
+    "name": "High-quality duck audio synthesizer",
+    "description": "High-quality duck audio synthesizer - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://celphase.github.io/duck-pond/",
+    "featured": false
+  },
+  {
+    "id": "19eb13d3d942",
+    "name": "Esp32sim – Run ESP32 firmware in the browser",
+    "description": "Esp32sim – Run ESP32 firmware in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mikroverk/esp32sim",
+    "featured": false
+  },
+  {
+    "id": "abd4a48c06f3",
+    "name": "Parin – A 2D game engine between raylib and Godot, written in Dlang",
+    "description": "Parin – A 2D game engine between raylib and Godot, written in Dlang - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Kapendev/parin",
+    "featured": false
+  },
+  {
+    "id": "3f21368f1587",
+    "name": "Things to Do API",
+    "description": "Things to Do API - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://thingstodoapi.com/",
+    "featured": false
+  },
+  {
+    "id": "e560670f6aa2",
+    "name": "Fast, secure JSON Formatter with side-by-side JSON diffing",
+    "description": "Fast, secure JSON Formatter with side-by-side JSON diffing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://instantjsonformatter.com",
+    "featured": false
+  },
+  {
+    "id": "9fc42ad30e2e",
+    "name": "500 clocks in one 6.3 MB HTML file by Opus 5.5",
+    "description": "500 clocks in one 6.3 MB HTML file by Opus 5.5 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tkgally.github.io/500-clocks/",
+    "featured": false
+  },
+  {
+    "id": "5abd72deb051",
+    "name": "JSynth – Visual Programming Editor for Julia",
+    "description": "JSynth – Visual Programming Editor for Julia - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ozanbora/JSynth",
+    "featured": false
+  },
+  {
+    "id": "c355f8d3ad7a",
+    "name": "Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+    "description": "Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "featured": false
+  },
+  {
+    "id": "19f5c655df03",
+    "name": "Cosplay as a tech lead, using gVisor to sandbox agents",
+    "description": "Cosplay as a tech lead, using gVisor to sandbox agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/SoftwareRenderer/MIKE",
+    "featured": false
+  },
+  {
+    "id": "a3cd8834704f",
+    "name": "MCPX – MCP server directory scanning for tool poisoning, leaked keys",
+    "description": "MCPX – MCP server directory scanning for tool poisoning, leaked keys - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.mcpx.digital/",
+    "featured": false
+  },
+  {
+    "id": "208527c229d2",
+    "name": "MoroccoAPI: An open source API for Moroccan public data",
+    "description": "MoroccoAPI: An open source API for Moroccan public data - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://moroccoapi.dev/",
+    "featured": false
+  },
+  {
+    "id": "7e86c818d2ff",
+    "name": "PrimerKit, financial market work at agent speed",
+    "description": "PrimerKit, financial market work at agent speed - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://primerkit.ai/",
+    "featured": false
+  },
+  {
+    "id": "63dd579e7951",
+    "name": "Photos to Gaussian Splat inside your browser using DA3 Small",
+    "description": "Photos to Gaussian Splat inside your browser using DA3 Small - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://antoinemopa.github.io/splatting-rs/",
+    "featured": false
   }
 ]
