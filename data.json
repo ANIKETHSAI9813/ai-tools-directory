@@ -9910,5 +9910,125 @@
     "category": "Image & Design",
     "affiliate_link": "https://antoinemopa.github.io/splatting-rs/",
     "featured": false
+  },
+  {
+    "id": "370144937ab2",
+    "name": "KiviDB, a faster Redis-compatible memory database and vector cache",
+    "description": "KiviDB, a faster Redis-compatible memory database and vector cache - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kividbio/kividb",
+    "featured": false
+  },
+  {
+    "id": "a59b2acc8c62",
+    "name": "Qwen3-4B with the AI writing tics trained out",
+    "description": "Qwen3-4B with the AI writing tics trained out - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://100toolkit.com/blog/deslop-model/",
+    "featured": false
+  },
+  {
+    "id": "6f2aca72a3fc",
+    "name": "WhatsApp MCP running free on Cloudflare",
+    "description": "WhatsApp MCP running free on Cloudflare - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/finereli/whatsapp-mcp",
+    "featured": false
+  },
+  {
+    "id": "b8b19479b2a7",
+    "name": "Semantics to SQL in Rust, ~70µs per query",
+    "description": "Semantics to SQL in Rust, ~70µs per query - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/stratasite/0sql",
+    "featured": false
+  },
+  {
+    "id": "e0863ca20939",
+    "name": "I built a task system to handle the drudgery so I could focus on tasks",
+    "description": "I built a task system to handle the drudgery so I could focus on tasks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://3anddoneapp.com/try",
+    "featured": false
+  },
+  {
+    "id": "e5e3293dcc13",
+    "name": "Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+    "description": "Ranet3 – High performance policy routed IPsec mesh SD-WAN - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ranet3.com/",
+    "featured": false
+  },
+  {
+    "id": "e9bd6e2a8f74",
+    "name": "The Zelda timeline to catch up before the Ocarina of Time remake",
+    "description": "The Zelda timeline to catch up before the Ocarina of Time remake - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://legendofhyrule.com/",
+    "featured": false
+  },
+  {
+    "id": "b869b3ee03ca",
+    "name": "A biotech catalyst calendar that links every date to the SEC sentence",
+    "description": "A biotech catalyst calendar that links every date to the SEC sentence - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.orionbiotechai.com/",
+    "featured": false
+  },
+  {
+    "id": "32a1f2e2db51",
+    "name": "Yila – A Codex for Scientific Research",
+    "description": "Yila – A Codex for Scientific Research - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://yila.ai",
+    "featured": false
+  },
+  {
+    "id": "58c1cea25299",
+    "name": "The Lion King (SNES, 1994), running as a native PC program",
+    "description": "The Lion King (SNES, 1994), running as a native PC program - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kinduff/TLKRecomp",
+    "featured": false
+  },
+  {
+    "id": "af7d2dabd3fd",
+    "name": "Roadkill – a zombie car game inspired by the original GTA's driving",
+    "description": "Roadkill – a zombie car game inspired by the original GTA's driving - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://games.zabaca.com/games/roadkill/",
+    "featured": false
+  },
+  {
+    "id": "7185e285e971",
+    "name": "Trmnl-cards – Turn an XTEINK X4 into a tiny frame for rare cards",
+    "description": "Trmnl-cards – Turn an XTEINK X4 into a tiny frame for rare cards - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mdnahian/trmnl-cards",
+    "featured": false
+  },
+  {
+    "id": "119c2f0303cf",
+    "name": "CallSitter – bot that answers my calls and wastes scammers' time",
+    "description": "CallSitter – bot that answers my calls and wastes scammers' time - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/szerintedmi/callsitter",
+    "featured": false
+  },
+  {
+    "id": "5f1a0d7cfbdf",
+    "name": "Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+    "description": "Pi-cowboy – use Codex, Claude Code, OpenCode as subagents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/electric-dragon-80000v/pi-cowboy",
+    "featured": false
+  },
+  {
+    "id": "7c4e6394585f",
+    "name": "Neuron, agents that set themselves up from your GitHub repo",
+    "description": "Neuron, agents that set themselves up from your GitHub repo - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://www.neuronbot.in",
+    "featured": false
   }
 ]
