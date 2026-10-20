@@ -10030,5 +10030,125 @@
     "category": "Automation",
     "affiliate_link": "https://www.neuronbot.in",
     "featured": false
+  },
+  {
+    "id": "3e394be7057c",
+    "name": "Vibe Prospecting – B2B Prospecting from Claude and Claude Code via MCP",
+    "description": "Vibe Prospecting – B2B Prospecting from Claude and Claude Code via MCP - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/explorium-ai/vibeprospecting-mcp",
+    "featured": false
+  },
+  {
+    "id": "8dfba6f6d2ce",
+    "name": "Snitch – my Mac talked to 347 servers in one idle hour, so I built this",
+    "description": "Snitch – my Mac talked to 347 servers in one idle hour, so I built this - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/aixisstudio/Snitch",
+    "featured": false
+  },
+  {
+    "id": "bbd000d6a6e0",
+    "name": "Proxium – Self-hosted HTTP/SOCKS5 proxy with a web admin UI",
+    "description": "Proxium – Self-hosted HTTP/SOCKS5 proxy with a web admin UI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/koldakov/proxium",
+    "featured": false
+  },
+  {
+    "id": "b2b1dd20f81f",
+    "name": "Cliqqe – Meet 4 new people over a video call every week",
+    "description": "Cliqqe – Meet 4 new people over a video call every week - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://cliqqe.com/",
+    "featured": false
+  },
+  {
+    "id": "e4980aa15f21",
+    "name": "Death Plan Switch, a self-hosted dead man's switch for solo devs",
+    "description": "Death Plan Switch, a self-hosted dead man's switch for solo devs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://deathplanswitch.com/",
+    "featured": false
+  },
+  {
+    "id": "44e4ab21e40d",
+    "name": "Axes Test – Client-side multi-axis political spectrum mapper",
+    "description": "Axes Test – Client-side multi-axis political spectrum mapper - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://12axestest.org",
+    "featured": false
+  },
+  {
+    "id": "d92393c9d260",
+    "name": "Shazam but for AI Slop Music",
+    "description": "Shazam but for AI Slop Music - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
+    "featured": false
+  },
+  {
+    "id": "f444363128d6",
+    "name": "Family quality-of-life score for every US county (108 indicators)",
+    "description": "Family quality-of-life score for every US county (108 indicators) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tryanalisa.com/explore",
+    "featured": false
+  },
+  {
+    "id": "8b547a2f6ce1",
+    "name": "I built an AI tool that turns two photos into a dance video",
+    "description": "I built an AI tool that turns two photos into a dance video - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://a2oliteai.com/",
+    "featured": false
+  },
+  {
+    "id": "b896b52b5522",
+    "name": "Lights-on software factory boilerplate for Claude Code",
+    "description": "Lights-on software factory boilerplate for Claude Code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gojko/lights-on-software-factory",
+    "featured": false
+  },
+  {
+    "id": "8985bca01dff",
+    "name": "Civ 1 period accurate decompilation",
+    "description": "Civ 1 period accurate decompilation - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/sjmelia/civd",
+    "featured": false
+  },
+  {
+    "id": "5269e5eb28cc",
+    "name": "FlexChords – chords for any YouTube song, from a model I trained",
+    "description": "FlexChords – chords for any YouTube song, from a model I trained - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.flexchords.com/",
+    "featured": false
+  },
+  {
+    "id": "9e28583591f9",
+    "name": "Ruralcheck.eu – geospatial property analyis in rural Europe",
+    "description": "Ruralcheck.eu – geospatial property analyis in rural Europe - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ruralcheck.eu/",
+    "featured": false
+  },
+  {
+    "id": "719b4b339ce5",
+    "name": "RoadRash ported to Three.js to run in the browser",
+    "description": "RoadRash ported to Three.js to run in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://roadrash.pages.dev",
+    "featured": false
+  },
+  {
+    "id": "7272d6627938",
+    "name": "Open-source early-reading reader with phonics help",
+    "description": "Open-source early-reading reader with phonics help - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/finereli/yarareads",
+    "featured": false
   }
 ]
