@@ -10150,5 +10150,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/finereli/yarareads",
     "featured": false
+  },
+  {
+    "id": "3e2f34074954",
+    "name": "SimCity, but with Permits",
+    "description": "SimCity, but with Permits - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://permit.petercai.com/",
+    "featured": false
+  },
+  {
+    "id": "d9e9a40efbd8",
+    "name": "Computer use on the phone itself: a 2B model that operates Android apps",
+    "description": "Computer use on the phone itself: a 2B model that operates Android apps - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getopposable.com/blog/computer-use-on-the-phone",
+    "featured": false
+  },
+  {
+    "id": "eb40d45d68e1",
+    "name": "Sumi.css – CSS Framework",
+    "description": "Sumi.css – CSS Framework - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/vladocar/Sumi.css",
+    "featured": false
+  },
+  {
+    "id": "c27ebfe467a7",
+    "name": "Timeminator – Self-hosted open-source time tracker (PHP, Docker)",
+    "description": "Timeminator – Self-hosted open-source time tracker (PHP, Docker) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/freshNfunky/Timeminator-Community",
+    "featured": false
+  },
+  {
+    "id": "5a7766675450",
+    "name": "Self-hosted Omnivore-fully self-hosted, open-source Read-it-Later app",
+    "description": "Self-hosted Omnivore-fully self-hosted, open-source Read-it-Later app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/omnivore-app/omnivore/blob/main/docs/SELF-HOST-UPDATE.md",
+    "featured": false
+  },
+  {
+    "id": "97b3bd18bf01",
+    "name": "Dovepass – can I legally fly a drone along this exact path in SF?",
+    "description": "Dovepass – can I legally fly a drone along this exact path in SF? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dovepass.com",
+    "featured": false
+  },
+  {
+    "id": "97a7882af8d3",
+    "name": "Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+    "description": "Rouler – Steer Windows traffic per app or IP across multiple interfaces - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rouler.io/",
+    "featured": false
+  },
+  {
+    "id": "967a44fdf4a0",
+    "name": "Penmentor – Claude marks up your handwritten math like a teacher",
+    "description": "Penmentor – Claude marks up your handwritten math like a teacher - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/AbdullahAlhariri/penmentor",
+    "featured": false
+  },
+  {
+    "id": "6e64464d4eae",
+    "name": "Jev Cards, Can you beat a vision model at a picture quiz?",
+    "description": "Jev Cards, Can you beat a vision model at a picture quiz? - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://jevcards.com",
+    "featured": false
+  },
+  {
+    "id": "31fbee563804",
+    "name": "A retro arcade style tower climber where your only weapon is a shield",
+    "description": "A retro arcade style tower climber where your only weapon is a shield - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://the-last-word.ca/return-to-sender/",
+    "featured": false
+  },
+  {
+    "id": "5d77587e3a2c",
+    "name": "Clerkenwell – A Handwritten Clojure Notebook",
+    "description": "Clerkenwell – A Handwritten Clojure Notebook - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html",
+    "featured": false
+  },
+  {
+    "id": "1cd3d6999ced",
+    "name": "Inca – a free, open-source 3D app that works like Maya 2020",
+    "description": "Inca – a free, open-source 3D app that works like Maya 2020 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://incacad.com/",
+    "featured": false
+  },
+  {
+    "id": "d13b635b648e",
+    "name": "VoidAccess – open-source dark web OSINT, from query to a graph",
+    "description": "VoidAccess – open-source dark web OSINT, from query to a graph - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/KatrielMoses/voidaccess",
+    "featured": false
+  },
+  {
+    "id": "2f8658de7fd9",
+    "name": "RawLink – Building a VPN protocol from scratch",
+    "description": "RawLink – Building a VPN protocol from scratch - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zolagonano/RawLink",
+    "featured": false
+  },
+  {
+    "id": "92a36afa0ffb",
+    "name": "Another Blog Search Engine",
+    "description": "Another Blog Search Engine - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://outerweb.org/",
+    "featured": false
   }
 ]
