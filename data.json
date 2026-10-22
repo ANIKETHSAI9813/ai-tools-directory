@@ -10270,5 +10270,125 @@
     "category": "Text & Writing",
     "affiliate_link": "https://outerweb.org/",
     "featured": false
+  },
+  {
+    "id": "b3f58ce44136",
+    "name": "App Factory – 42 Claude Code skills to ship apps to App Store and Play",
+    "description": "App Factory – 42 Claude Code skills to ship apps to App Store and Play - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/yybd/app-factory",
+    "featured": false
+  },
+  {
+    "id": "b328ea6101eb",
+    "name": "Omnara – Open-source alternative to Claude Managed Agents",
+    "description": "Omnara – Open-source alternative to Claude Managed Agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/omnara-ai/omnara",
+    "featured": false
+  },
+  {
+    "id": "fd3b1c2e88d3",
+    "name": "Tinytowns, a small model to generate realistic sounding town names",
+    "description": "Tinytowns, a small model to generate realistic sounding town names - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://quirkyagents.com/wizard/projects/tinytowns/",
+    "featured": false
+  },
+  {
+    "id": "e8049824b1e0",
+    "name": "AI-built browser games, collected in one place",
+    "description": "AI-built browser games, collected in one place - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://playgroundarcade.com/",
+    "featured": false
+  },
+  {
+    "id": "db2c78ded939",
+    "name": "I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+    "description": "I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://bloffy.co/en",
+    "featured": false
+  },
+  {
+    "id": "f3d3b909736c",
+    "name": "ULDA – Client-side encryption with a simple JavaScript API",
+    "description": "ULDA – Client-side encryption with a simple JavaScript API - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://demo.ulda.io/",
+    "featured": false
+  },
+  {
+    "id": "3a696fd5d564",
+    "name": "Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+    "description": "Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/MvikManners/aw1-circuit-breaker",
+    "featured": false
+  },
+  {
+    "id": "e7e814218785",
+    "name": "Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports",
+    "description": "Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://oddorbit.app/",
+    "featured": false
+  },
+  {
+    "id": "3d14f8029eeb",
+    "name": "Twine is a meta-harness with workflows, cross-agent memories and traces",
+    "description": "Twine is a meta-harness with workflows, cross-agent memories and traces - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/standing-desks/twine",
+    "featured": false
+  },
+  {
+    "id": "961a9a0dbb8f",
+    "name": "Cathode, a Gtk4 YouTube player based on mpv and yt-dlp",
+    "description": "Cathode, a Gtk4 YouTube player based on mpv and yt-dlp - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/andunieee/cathode",
+    "featured": false
+  },
+  {
+    "id": "41d4ac9c3cef",
+    "name": "HN Sieve – every Show HN scored and summarized by AI",
+    "description": "HN Sieve – every Show HN scored and summarized by AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hnsieve.com",
+    "featured": false
+  },
+  {
+    "id": "b62cc03eae06",
+    "name": "Overdesigned Simple Solitaire",
+    "description": "Overdesigned Simple Solitaire - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://defaultsolitaire.app/",
+    "featured": false
+  },
+  {
+    "id": "577fa27d60c5",
+    "name": "CertAvert – Free SSL/TLS tools and certificate expiry alerts",
+    "description": "CertAvert – Free SSL/TLS tools and certificate expiry alerts - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://certavert.com",
+    "featured": false
+  },
+  {
+    "id": "00b7c383f387",
+    "name": "ZeGrapher v4: modern math plotter",
+    "description": "ZeGrapher v4: modern math plotter - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zegrapher.com/en/",
+    "featured": false
+  },
+  {
+    "id": "b0c1a6714aad",
+    "name": "Embodsi – Embodied Super Intelligence",
+    "description": "Embodsi – Embodied Super Intelligence - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://embodsi.com/",
+    "featured": false
   }
 ]
