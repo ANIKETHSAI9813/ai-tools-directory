@@ -10390,5 +10390,125 @@
     "category": "Productivity",
     "affiliate_link": "https://embodsi.com/",
     "featured": false
+  },
+  {
+    "id": "111f1c3f741e",
+    "name": "OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "description": "OnKey – I'm a bad singer, so I built an app to show where I'm off-key - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dsmurrell/onkey",
+    "featured": false
+  },
+  {
+    "id": "a406e7659f49",
+    "name": "Making a smart TV dumb and then smart",
+    "description": "Making a smart TV dumb and then smart - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "featured": false
+  },
+  {
+    "id": "901dc42363c4",
+    "name": "We had AI write a wiki from 45k Enron emails, every fact cited",
+    "description": "We had AI write a wiki from 45k Enron emails, every fact cited - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://www.thisandthat.chat/enron/",
+    "featured": false
+  },
+  {
+    "id": "2ee1c0f22315",
+    "name": "MegaKey (standardization and extension of the Hyper and Meh keys)",
+    "description": "MegaKey (standardization and extension of the Hyper and Meh keys) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://leftium.github.io/megakey/",
+    "featured": false
+  },
+  {
+    "id": "9f1aa8a238bc",
+    "name": "A billing ledger on Postgres, tested with randomized invariants",
+    "description": "A billing ledger on Postgres, tested with randomized invariants - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/alt-f6/edtech-billing-core",
+    "featured": false
+  },
+  {
+    "id": "63e40048aa09",
+    "name": "Uberblok – an interactive museum of ZFS internals",
+    "description": "Uberblok – an interactive museum of ZFS internals - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://uberblok.storagebits.workers.dev/",
+    "featured": false
+  },
+  {
+    "id": "478f82ce40da",
+    "name": "Cryptex Vault – A password manager designed to outlive its creator",
+    "description": "Cryptex Vault – A password manager designed to outlive its creator - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.cryptex-vault.com/",
+    "featured": false
+  },
+  {
+    "id": "b28795d930b5",
+    "name": "KronLSTM Walkthrough",
+    "description": "KronLSTM Walkthrough - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kron-lstm.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "2a3cbf9f1012",
+    "name": "Turn regular JavaScript into a neural net",
+    "description": "Turn regular JavaScript into a neural net - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://chenglou.me/handwired/",
+    "featured": false
+  },
+  {
+    "id": "2d02eab26592",
+    "name": "agent-usage-guard – a Claude Code mod to protect your usage window",
+    "description": "agent-usage-guard – a Claude Code mod to protect your usage window - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/rbartoli/agent-usage-guard",
+    "featured": false
+  },
+  {
+    "id": "5521316bcdc5",
+    "name": "UI micro interactions prompts for AI",
+    "description": "UI micro interactions prompts for AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.typeui.sh/micro-interactions",
+    "featured": false
+  },
+  {
+    "id": "51d8b58d52c9",
+    "name": "Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+    "description": "Replacing CAPTCHAs with adaptive proof-of-work in WordPress - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+    "featured": false
+  },
+  {
+    "id": "ffbb1d89f882",
+    "name": "Build a world on your phone, explore it in XR on Vision Pro and Quest",
+    "description": "Build a world on your phone, explore it in XR on Vision Pro and Quest - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://3d.camilleworld.com/play/",
+    "featured": false
+  },
+  {
+    "id": "5d6c7c0acd4e",
+    "name": "CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "description": "CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "featured": false
+  },
+  {
+    "id": "c2d5dc1b6bf9",
+    "name": "Pristine – an agent skill that critiques and polishes web UI",
+    "description": "Pristine – an agent skill that critiques and polishes web UI - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/maddhruv/pristine",
+    "featured": false
   }
 ]
