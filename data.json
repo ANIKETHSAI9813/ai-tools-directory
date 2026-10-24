@@ -10510,5 +10510,13 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/maddhruv/pristine",
     "featured": false
+  },
+  {
+    "id": "xquik",
+    "name": "Xquik",
+    "description": "Xquik is the world's fastest and cheapest X Twitter scraper service with the most complete X data. Search tweets, export followers & replies, and retrieve profiles through REST, MCP & SDKs. Analyze post sentiment with AI. Connect AI agents through MCP. Build account monitoring workflows with signed webhooks. Most other Apify Actors charge before filtering or deduplication. Xquik charges only for delivered, unique, filter-matching results and never pads rows. Xquik has paid plans & usage-based billing. Xquik is an independent third-party service. Not affiliated with X Corp. \"Twitter\" and \"X\" are trademarks of X Corp.",
+    "category": "Automation",
+    "affiliate_link": "https://xquik.com/en",
+    "featured": false
   }
 ]
