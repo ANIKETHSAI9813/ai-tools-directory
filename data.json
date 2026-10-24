@@ -10510,5 +10510,125 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/maddhruv/pristine",
     "featured": false
+  },
+  {
+    "id": "716e7f32932f",
+    "name": "BulkTextKit – 15 free text tools that run entirely in your browser",
+    "description": "BulkTextKit – 15 free text tools that run entirely in your browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bulktextkit.gt.tc",
+    "featured": false
+  },
+  {
+    "id": "000984af5b78",
+    "name": "Autonomous root for Tcl Android TV via CVE-2022-22706",
+    "description": "Autonomous root for Tcl Android TV via CVE-2022-22706 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+    "featured": false
+  },
+  {
+    "id": "4c6660ff4e2a",
+    "name": "AI text detector that never sees your text (runs 100% in-browser)",
+    "description": "AI text detector that never sees your text (runs 100% in-browser) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kouh.me/ai-text-detector",
+    "featured": false
+  },
+  {
+    "id": "c94050b89bca",
+    "name": "Corgi, a helpful {agent, terminal} multiplexer",
+    "description": "Corgi, a helpful {agent, terminal} multiplexer - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://corgi.computer/",
+    "featured": false
+  },
+  {
+    "id": "d43305f832f7",
+    "name": "Impossible Machines: declaratively program the physical world",
+    "description": "Impossible Machines: declaratively program the physical world - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.impossiblemachines.xyz",
+    "featured": false
+  },
+  {
+    "id": "f9a8ffb1d681",
+    "name": "Swurf – Swipe through the real web",
+    "description": "Swurf – Swipe through the real web - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://swurf.org/",
+    "featured": false
+  },
+  {
+    "id": "884069e9b39f",
+    "name": "How religions evolved? Charts, Maps, Citations",
+    "description": "How religions evolved? Charts, Maps, Citations - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://howitevolved.com/chart/",
+    "featured": false
+  },
+  {
+    "id": "a589658e4c81",
+    "name": "Encarta 95 Web",
+    "description": "Encarta 95 Web - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+    "featured": false
+  },
+  {
+    "id": "7a2c01255566",
+    "name": "Inference Cooperative, user-governed AI",
+    "description": "Inference Cooperative, user-governed AI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://inference.coop/",
+    "featured": false
+  },
+  {
+    "id": "102b6e54d760",
+    "name": "Searching for optimal strategies in a puzzle game with chance (Drop7)",
+    "description": "Searching for optimal strategies in a puzzle game with chance (Drop7) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://drop7.dev",
+    "featured": false
+  },
+  {
+    "id": "4b99b7273e86",
+    "name": "libfpv - Modding FPV Drone into Any Game",
+    "description": "libfpv - Modding FPV Drone into Any Game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hammerill.com/en/blog/libfpv",
+    "featured": false
+  },
+  {
+    "id": "4298750fc65d",
+    "name": "Dánwò – Open-source E2E testing with emulators and fault injection",
+    "description": "Dánwò – Open-source E2E testing with emulators and fault injection - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/carbonmeai/danwo",
+    "featured": false
+  },
+  {
+    "id": "81dbab99a4de",
+    "name": "Apple-design-hig agent skill, DocC updater CLI, and MCP server",
+    "description": "Apple-design-hig agent skill, DocC updater CLI, and MCP server - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/mr8lu/apple-design-hig",
+    "featured": false
+  },
+  {
+    "id": "c441c1822a11",
+    "name": "ObsidianYouTubeSync – Sync YouTube History into Obsidian",
+    "description": "ObsidianYouTubeSync – Sync YouTube History into Obsidian - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mr8lu/ObsidianYouTubeSync",
+    "featured": false
+  },
+  {
+    "id": "a048b00d70d8",
+    "name": "MXValidation – Send an email and get an authentication and DNS report",
+    "description": "MXValidation – Send an email and get an authentication and DNS report - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mxvalidation.com/",
+    "featured": false
   }
 ]
