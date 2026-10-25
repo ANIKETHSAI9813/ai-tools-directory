@@ -10630,5 +10630,125 @@
     "category": "Productivity",
     "affiliate_link": "https://mxvalidation.com/",
     "featured": false
+  },
+  {
+    "id": "031828a0b81e",
+    "name": "Steal My Bitcoin",
+    "description": "Steal My Bitcoin - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://stealmybitcoin.com/",
+    "featured": false
+  },
+  {
+    "id": "992374d24516",
+    "name": "Independent Vet – Find locally owned vets (and corporate ones) near you",
+    "description": "Independent Vet – Find locally owned vets (and corporate ones) near you - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://independentvet.com/",
+    "featured": false
+  },
+  {
+    "id": "0ebb7a0aebf4",
+    "name": "Agentsh – A Decentralized, Scalable Multiagent Harness",
+    "description": "Agentsh – A Decentralized, Scalable Multiagent Harness - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/microsoft/Agensh",
+    "featured": false
+  },
+  {
+    "id": "68e16cd5b49c",
+    "name": "A Truly Modular Keyboard",
+    "description": "A Truly Modular Keyboard - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/notaroomba/keybytes",
+    "featured": false
+  },
+  {
+    "id": "fa54e0739aa3",
+    "name": "AI Heat Map Sourced from over 140 News Feeds",
+    "description": "AI Heat Map Sourced from over 140 News Feeds - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://ai.jagular.io",
+    "featured": false
+  },
+  {
+    "id": "b1a758d9eb3e",
+    "name": "Call4me – a ChatGPT plugin that lets it make phone calls on your behalf",
+    "description": "Call4me – a ChatGPT plugin that lets it make phone calls on your behalf - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chatgpt.com/plugins/plugin_asdk_app_6abdec89d46c81919cda058ca9f62cb8?search=call4me",
+    "featured": false
+  },
+  {
+    "id": "1ddd7c11808b",
+    "name": "Tributary – Discover who influenced your favorite musicians",
+    "description": "Tributary – Discover who influenced your favorite musicians - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tributary.music/",
+    "featured": false
+  },
+  {
+    "id": "f401edcfd851",
+    "name": "WhatsApp Bridge for those with their own VPS",
+    "description": "WhatsApp Bridge for those with their own VPS - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/vid-t/whatsapp-bridge",
+    "featured": false
+  },
+  {
+    "id": "c330e62501a9",
+    "name": "Duls – A bit of du, a bit of ls. Best of both",
+    "description": "Duls – A bit of du, a bit of ls. Best of both - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/baalimago/duls",
+    "featured": false
+  },
+  {
+    "id": "dc83e89fce6b",
+    "name": "A phone lock I can't undo on impulse because I never learn the code",
+    "description": "A phone lock I can't undo on impulse because I never learn the code - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tryscreenfasting.com/",
+    "featured": false
+  },
+  {
+    "id": "c80e311e6cdf",
+    "name": "Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+    "description": "Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Aldyernesto/shotstash",
+    "featured": false
+  },
+  {
+    "id": "115c9074fbde",
+    "name": "Specsight",
+    "description": "Specsight - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/specsight",
+    "featured": false
+  },
+  {
+    "id": "364a104be9b3",
+    "name": "AgentGrid.io",
+    "description": "AgentGrid.io - AI tool launch.",
+    "category": "Automation",
+    "affiliate_link": "https://www.producthunt.com/products/agentgrid-io",
+    "featured": false
+  },
+  {
+    "id": "d273d27ff2aa",
+    "name": "Llama Windows",
+    "description": "Llama Windows - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/llama-windows",
+    "featured": false
+  },
+  {
+    "id": "6f1b320a2b44",
+    "name": "pawl",
+    "description": "pawl - AI tool launch.",
+    "category": "AI & Tech",
+    "affiliate_link": "https://www.producthunt.com/products/pawl",
+    "featured": false
   }
 ]
