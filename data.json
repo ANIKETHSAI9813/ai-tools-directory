@@ -10750,5 +10750,125 @@
     "category": "AI & Tech",
     "affiliate_link": "https://www.producthunt.com/products/pawl",
     "featured": false
+  },
+  {
+    "id": "a2181227bfa3",
+    "name": "TitleArt – Make text like it's 1997",
+    "description": "TitleArt – Make text like it's 1997 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://titleart.dvy.io/",
+    "featured": false
+  },
+  {
+    "id": "b7868761f7e0",
+    "name": "Printable Calendar Maker",
+    "description": "Printable Calendar Maker - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://makecalendars.com/",
+    "featured": false
+  },
+  {
+    "id": "e66601c5b3c1",
+    "name": "ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "description": "ADRs for AI – Deliberation records for human–AI work, versioned in Git - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://adrs.systems",
+    "featured": false
+  },
+  {
+    "id": "f7bd9c2343af",
+    "name": "Rostr – Give your agents names, remember who's working on what",
+    "description": "Rostr – Give your agents names, remember who's working on what - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://getrostr.sh/",
+    "featured": false
+  },
+  {
+    "id": "1543a3e16906",
+    "name": "Freehire, open-source search 3M+ tech jobs from company career boards",
+    "description": "Freehire, open-source search 3M+ tech jobs from company career boards - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://freehire.me/",
+    "featured": false
+  },
+  {
+    "id": "a9e08b18c9f8",
+    "name": "Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "description": "Hurston-1 open source TTS that speak Southern American and Afro-English - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://huggingface.co/destined/hurston-1",
+    "featured": false
+  },
+  {
+    "id": "046df82267c1",
+    "name": "Ultimidi – piano learning web game",
+    "description": "Ultimidi – piano learning web game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://game.ultimidi.com/",
+    "featured": false
+  },
+  {
+    "id": "33befcf22756",
+    "name": "Proc-CLI – An agent-friendly CLI tool for process and port management",
+    "description": "Proc-CLI – An agent-friendly CLI tool for process and port management - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://proc-cli.com/",
+    "featured": false
+  },
+  {
+    "id": "13363bfcb83d",
+    "name": "RainbowSay – Learn, teach, research languages live with shows you love",
+    "description": "RainbowSay – Learn, teach, research languages live with shows you love - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rainbowsay.ai/",
+    "featured": false
+  },
+  {
+    "id": "879dc233392a",
+    "name": "AgentTrust – Zero-trust security and human approvals for AI agents",
+    "description": "AgentTrust – Zero-trust security and human approvals for AI agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/SRN0129/Agenttrust",
+    "featured": false
+  },
+  {
+    "id": "d950770f5a79",
+    "name": "I put employees inside S&P 500 market-cap bubbles",
+    "description": "I put employees inside S&P 500 market-cap bubbles - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bigwhalehunting.com/workforce/",
+    "featured": false
+  },
+  {
+    "id": "1e1e25aa6b5e",
+    "name": "Nodecode, open-source living agent in Lisp that rewrites itself for you",
+    "description": "Nodecode, open-source living agent in Lisp that rewrites itself for you - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/nodecode-ai/nodecode",
+    "featured": false
+  },
+  {
+    "id": "7dcec55bda24",
+    "name": "Visualization of Top News Stories",
+    "description": "Visualization of Top News Stories - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.topaztee.com/digglabs/",
+    "featured": false
+  },
+  {
+    "id": "444e94ad7f15",
+    "name": "Drint – packaging dielines and 3D box mockups as an MCP server",
+    "description": "Drint – packaging dielines and 3D box mockups as an MCP server - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://drint.io/help/mcp",
+    "featured": false
+  },
+  {
+    "id": "eecc2696f819",
+    "name": "God – real-time control room for LLM agent societies (EMNLP 2026 demo)",
+    "description": "God – real-time control room for LLM agent societies (EMNLP 2026 demo) - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/XiaoLuoLYG/GOD",
+    "featured": false
   }
 ]
