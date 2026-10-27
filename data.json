@@ -10870,5 +10870,125 @@
     "category": "Automation",
     "affiliate_link": "https://github.com/XiaoLuoLYG/GOD",
     "featured": false
+  },
+  {
+    "id": "a25866314b37",
+    "name": "Tiny Tube – A self hosted video sharing server in a single Go binary",
+    "description": "Tiny Tube – A self hosted video sharing server in a single Go binary - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/spapas/tiny-tube",
+    "featured": false
+  },
+  {
+    "id": "ba3918af24a8",
+    "name": "Diagonals (Diago) – a chess variation where the pieces stay diagonally",
+    "description": "Diagonals (Diago) – a chess variation where the pieces stay diagonally - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://diagonals.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "8cfee209e93b",
+    "name": "Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "description": "Hob - Open-source, on device alternative to Claude Cowork and ChatGPT - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/FrigadeHQ/hob",
+    "featured": false
+  },
+  {
+    "id": "71bf83a8b7c1",
+    "name": "Software Hate Index (real-time ranking of SaaS complaints)",
+    "description": "Software Hate Index (real-time ranking of SaaS complaints) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hissingkitty.com/predictions",
+    "featured": false
+  },
+  {
+    "id": "9a1432369d69",
+    "name": "Glider 4.0 Unofficial Web Edition (Mac game port)",
+    "description": "Glider 4.0 Unofficial Web Edition (Mac game port) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://dbohdan.github.io/glider/",
+    "featured": false
+  },
+  {
+    "id": "e4d372c13193",
+    "name": "ESP-Watchtower – $3 ESP8266 Home Network Sentinel and Canary Honeypot",
+    "description": "ESP-Watchtower – $3 ESP8266 Home Network Sentinel and Canary Honeypot - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/prasadabhishek/esp-watchtower",
+    "featured": false
+  },
+  {
+    "id": "3dacd9567da5",
+    "name": "Live speech-to-text on an ESP32-P4 microcontroller, no cloud",
+    "description": "Live speech-to-text on an ESP32-P4 microcontroller, no cloud - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/BoumedineBillal/esp32-pie-asr",
+    "featured": false
+  },
+  {
+    "id": "c9743051dec8",
+    "name": "Shittyscreenshares.com",
+    "description": "Shittyscreenshares.com - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://shittyscreenshare.com/",
+    "featured": false
+  },
+  {
+    "id": "fe20c206bf52",
+    "name": "Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
+    "description": "Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/sam-mfb/kashkeshet",
+    "featured": false
+  },
+  {
+    "id": "58bea207f1a3",
+    "name": "GradientDeck – a design skill for coding agents",
+    "description": "GradientDeck – a design skill for coding agents - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/VenoM9078/gradientdeck-skill",
+    "featured": false
+  },
+  {
+    "id": "bc501567d583",
+    "name": "Manage BOMs for multi-board PCB projects",
+    "description": "Manage BOMs for multi-board PCB projects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.bomanager.app",
+    "featured": false
+  },
+  {
+    "id": "2b2931912158",
+    "name": "Autorouter Benchmark on Various PCBs",
+    "description": "Autorouter Benchmark on Various PCBs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Koppar-AI/autorouter-bench",
+    "featured": false
+  },
+  {
+    "id": "44515837ce1c",
+    "name": "Local project organizer with optional self-hosted public showcasing",
+    "description": "Local project organizer with optional self-hosted public showcasing - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/skorotkiewicz/localist",
+    "featured": false
+  },
+  {
+    "id": "406097231d61",
+    "name": "A client for free speech recognition, starting with Doubao",
+    "description": "A client for free speech recognition, starting with Doubao - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nomoat/free-asr",
+    "featured": false
+  },
+  {
+    "id": "f1da78ec98f7",
+    "name": "Claude Plays the Piano from Braille",
+    "description": "Claude Plays the Piano from Braille - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/chris-mccoy/gottschalk-tarantelle",
+    "featured": false
   }
 ]
