@@ -10990,5 +10990,125 @@
     "category": "Productivity",
     "affiliate_link": "https://github.com/chris-mccoy/gottschalk-tarantelle",
     "featured": false
+  },
+  {
+    "id": "83ad499ededa",
+    "name": "Nasscad – local-first 3D CAD for browser and Windows",
+    "description": "Nasscad – local-first 3D CAD for browser and Windows - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
+    "featured": false
+  },
+  {
+    "id": "91484fb3d6af",
+    "name": "I made an interactive Sakura tree that runs in the browser",
+    "description": "I made an interactive Sakura tree that runs in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://nozomi-xi.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "016d9fab5b41",
+    "name": "Chopstick – Mac notch widgets built by your coding agent",
+    "description": "Chopstick – Mac notch widgets built by your coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://chopstick.sh/",
+    "featured": false
+  },
+  {
+    "id": "8421482e7322",
+    "name": "Parley – coding-agent sessions that collaborate over IRC",
+    "description": "Parley – coding-agent sessions that collaborate over IRC - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/colinsurprenant/parley",
+    "featured": false
+  },
+  {
+    "id": "214dcace5feb",
+    "name": "Achive – 12y/O built commitment app, 95% of failed stakes to hospice",
+    "description": "Achive – 12y/O built commitment app, 95% of failed stakes to hospice - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://achive-app.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "af5073a6fa25",
+    "name": "Yavashark: I've Built a JavaScript Engine Every Day for 950 Days",
+    "description": "Yavashark: I've Built a JavaScript Engine Every Day for 950 Days - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://yavashark.dev/blog/announcing-yavashark/",
+    "featured": false
+  },
+  {
+    "id": "81112db0f9d9",
+    "name": "Convoy – Easiest way to get paid for sharing your knowledge",
+    "description": "Convoy – Easiest way to get paid for sharing your knowledge - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://convoy.so",
+    "featured": false
+  },
+  {
+    "id": "66826b111075",
+    "name": "Peregrine – Integrated Terminal and File Browser",
+    "description": "Peregrine – Integrated Terminal and File Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/David-OConnor/peregrine",
+    "featured": false
+  },
+  {
+    "id": "3de97624363f",
+    "name": "Popkern – open-source CAD kernel with G2 corner blends, browser IDE",
+    "description": "Popkern – open-source CAD kernel with G2 corner blends, browser IDE - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://popkern.dev/",
+    "featured": false
+  },
+  {
+    "id": "a060f79084c0",
+    "name": "I worked at an ATS, so I built Recruiter BFF for Claude and ChatGPT",
+    "description": "I worked at an ATS, so I built Recruiter BFF for Claude and ChatGPT - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kevinmmiddleton/recruiter-bff",
+    "featured": false
+  },
+  {
+    "id": "7f55586eae40",
+    "name": "Squishy 3D helpers powered by Three.js",
+    "description": "Squishy 3D helpers powered by Three.js - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://prathje.github.io/plushies/",
+    "featured": false
+  },
+  {
+    "id": "fa0a3c35861a",
+    "name": "A Lego-like composable Framework for RSI",
+    "description": "A Lego-like composable Framework for RSI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://rsi-gear.github.io/",
+    "featured": false
+  },
+  {
+    "id": "086783978db1",
+    "name": "Curate. free, no ADS, with AI, private photo cleaner for iPhone",
+    "description": "Curate. free, no ADS, with AI, private photo cleaner for iPhone - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://apps.apple.com/us/app/curate-photo/id6825514911",
+    "featured": false
+  },
+  {
+    "id": "b54837d87805",
+    "name": "Specification First Agentic Development Plugin and Prove",
+    "description": "Specification First Agentic Development Plugin and Prove - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://spec-first.dev/",
+    "featured": false
+  },
+  {
+    "id": "716403e32e86",
+    "name": "The New Way to Make AI UGC Ads in 2026",
+    "description": "The New Way to Make AI UGC Ads in 2026 - AI software and productivity tool.",
+    "category": "Marketing & Social",
+    "affiliate_link": "https://www.aivideosugc.com/ai-video-generation",
+    "featured": false
   }
 ]
