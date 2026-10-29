@@ -11110,5 +11110,125 @@
     "category": "Marketing & Social",
     "affiliate_link": "https://www.aivideosugc.com/ai-video-generation",
     "featured": false
+  },
+  {
+    "id": "3652df4e822f",
+    "name": "I got tired of travel spreadsheets so I made a travel planner app",
+    "description": "I got tired of travel spreadsheets so I made a travel planner app - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.wherewhen.cc",
+    "featured": false
+  },
+  {
+    "id": "9b21feb75bde",
+    "name": "SlideBySide – Present slides without sharing your screen",
+    "description": "SlideBySide – Present slides without sharing your screen - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://slidebyside.com/",
+    "featured": false
+  },
+  {
+    "id": "160c9c48756f",
+    "name": "UK Farming Simulator",
+    "description": "UK Farming Simulator - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://butterbean.farm/",
+    "featured": false
+  },
+  {
+    "id": "76a61e59c7b6",
+    "name": "Pure Particles, an open source art particle toy built with Three.js",
+    "description": "Pure Particles, an open source art particle toy built with Three.js - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pureart-xyz.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": "a70ce4ce0e64",
+    "name": "A Cursor-like workspace for your LaTeX papers",
+    "description": "A Cursor-like workspace for your LaTeX papers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/cu1ch3n/papilot",
+    "featured": false
+  },
+  {
+    "id": "eb396f9cd33d",
+    "name": "Fabivo – Furniture design from a photo to a numbered cut list",
+    "description": "Fabivo – Furniture design from a photo to a numbered cut list - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://www.fabivo.app/en",
+    "featured": false
+  },
+  {
+    "id": "771d2563c7b6",
+    "name": "Full Python 3.15 Implemented in 25k LoC C11",
+    "description": "Full Python 3.15 Implemented in 25k LoC C11 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=50281226",
+    "featured": false
+  },
+  {
+    "id": "58efc7076212",
+    "name": "Studio 3e8: Mesa 1, affordable Metal 3D Printer",
+    "description": "Studio 3e8: Mesa 1, affordable Metal 3D Printer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.studio3e8.com/post/studio-3e8-launch",
+    "featured": false
+  },
+  {
+    "id": "d77b709b1cfa",
+    "name": "A visual map of related food dishes from around the world",
+    "description": "A visual map of related food dishes from around the world - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tangledtaste.com/",
+    "featured": false
+  },
+  {
+    "id": "80a1dcb18f17",
+    "name": "I built a map of billboards and banners in Poland (gpy.pl)",
+    "description": "I built a map of billboards and banners in Poland (gpy.pl) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://gpy.pl/",
+    "featured": false
+  },
+  {
+    "id": "2b2c7e4e1e9a",
+    "name": "Measuring how much of an AI-assisted design is yours",
+    "description": "Measuring how much of an AI-assisted design is yours - AI software and productivity tool.",
+    "category": "Image & Design",
+    "affiliate_link": "https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH",
+    "featured": false
+  },
+  {
+    "id": "51e0a738c0e8",
+    "name": "A proof-of-concept formalization of the IRS federal tax forms",
+    "description": "A proof-of-concept formalization of the IRS federal tax forms - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/emmilco/us-tax-model",
+    "featured": false
+  },
+  {
+    "id": "03a4b834f178",
+    "name": "OpenTaxRate – open-source US sales tax rates by street address",
+    "description": "OpenTaxRate – open-source US sales tax rates by street address - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/equated-org/opentaxrate",
+    "featured": false
+  },
+  {
+    "id": "35dbf923aeda",
+    "name": "Native gnome markdown viewer with mermaid support",
+    "description": "Native gnome markdown viewer with mermaid support - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/jefersondaniel/markdown-viewer",
+    "featured": false
+  },
+  {
+    "id": "b0a24c179949",
+    "name": "Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
+    "description": "Homi, open decision model for audio, near Flash on MMSU and 50x cheaper - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/egma-ai/homi/",
+    "featured": false
   }
 ]
