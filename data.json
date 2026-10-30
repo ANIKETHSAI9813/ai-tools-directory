@@ -11230,5 +11230,125 @@
     "category": "Video & Audio",
     "affiliate_link": "https://github.com/egma-ai/homi/",
     "featured": false
+  },
+  {
+    "id": "c8776eb352e9",
+    "name": "I Turned DOOM into a Transformer",
+    "description": "I Turned DOOM into a Transformer - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mottopanikeiku/doomformer",
+    "featured": false
+  },
+  {
+    "id": "bb183e85f33b",
+    "name": "Fraktur, a DJ mixing app in the browser",
+    "description": "Fraktur, a DJ mixing app in the browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://greenvitriol.com/posts/fraktur",
+    "featured": false
+  },
+  {
+    "id": "aefa25e8fb23",
+    "name": "PicoPlayer – A tiny, open-source website for playing quality webgames",
+    "description": "PicoPlayer – A tiny, open-source website for playing quality webgames - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://picoplayer.net/",
+    "featured": false
+  },
+  {
+    "id": "3a4a43611a79",
+    "name": "Showbuild – Hacker News but only for builders",
+    "description": "Showbuild – Hacker News but only for builders - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://showbuild.co/",
+    "featured": false
+  },
+  {
+    "id": "3fc7476dc764",
+    "name": "Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+    "description": "Auto Dismiss Mac OS \"Allow to find devices on local networks?\" - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/johncassil/dontallow",
+    "featured": false
+  },
+  {
+    "id": "f3e49f6f9523",
+    "name": "Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+    "description": "Lasm – Write formally verified webapps in Lean for Node/serverless/edge - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/Millillion/lasm",
+    "featured": false
+  },
+  {
+    "id": "645f50181da0",
+    "name": "Overtone – Transcribe, correct and cut captions for any screen shape",
+    "description": "Overtone – Transcribe, correct and cut captions for any screen shape - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/lonthq/overtone-captions",
+    "featured": false
+  },
+  {
+    "id": "55d7a9151bb7",
+    "name": "Arken – Passwordless auth middleware using secp256k1 keys",
+    "description": "Arken – Passwordless auth middleware using secp256k1 keys - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/zacharybenson/arken-protocol",
+    "featured": false
+  },
+  {
+    "id": "5c9a9b5fa311",
+    "name": "Tyrtulia, a headless forum with no passwords, made for the terminal",
+    "description": "Tyrtulia, a headless forum with no passwords, made for the terminal - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
+    "featured": false
+  },
+  {
+    "id": "6441aa179014",
+    "name": "Typebook.lol read books by typing the letters only",
+    "description": "Typebook.lol read books by typing the letters only - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://typebook.lol/",
+    "featured": false
+  },
+  {
+    "id": "2a31cfde69d5",
+    "name": "DistractFree-Chrome extension and web app to stop doomscrolling",
+    "description": "DistractFree-Chrome extension and web app to stop doomscrolling - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://distractfree.site/",
+    "featured": false
+  },
+  {
+    "id": "6e7376ce3864",
+    "name": "phpClaw – AI agent runtime for PHP with tools, memory and guards",
+    "description": "phpClaw – AI agent runtime for PHP with tools, memory and guards - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/phpclaw-php/phpclaw-monorepo",
+    "featured": false
+  },
+  {
+    "id": "60ad864f04d1",
+    "name": "OpenArcanum – An End-to-End Encrypted Alternative to Discord",
+    "description": "OpenArcanum – An End-to-End Encrypted Alternative to Discord - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hyperkubeorg/openarcanum/",
+    "featured": false
+  },
+  {
+    "id": "5502b32de81d",
+    "name": "Fitness Functions for Dbt Projects",
+    "description": "Fitness Functions for Dbt Projects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/tjirab/tff",
+    "featured": false
+  },
+  {
+    "id": "21783415ac2b",
+    "name": "Capo-S3 – a typed, async-first S3 client for Python",
+    "description": "Capo-S3 – a typed, async-first S3 client for Python - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pypi.org/project/capo-s3/",
+    "featured": false
   }
 ]
