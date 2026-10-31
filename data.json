@@ -11350,5 +11350,125 @@
     "category": "Productivity",
     "affiliate_link": "https://pypi.org/project/capo-s3/",
     "featured": false
+  },
+  {
+    "id": "21a8e83e6b8c",
+    "name": "Marelleo, an open-source story box I built for my kids using ESP32",
+    "description": "Marelleo, an open-source story box I built for my kids using ESP32 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://zebra.rodeo/en/blog/marelleo/",
+    "featured": false
+  },
+  {
+    "id": "58bdc6b4d610",
+    "name": "A working Nintendo in ~1GB of Qwen weights",
+    "description": "A working Nintendo in ~1GB of Qwen weights - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/dbreunig/nesformer",
+    "featured": false
+  },
+  {
+    "id": "3eb119a10a05",
+    "name": "Mullvad as a rotating connect proxy",
+    "description": "Mullvad as a rotating connect proxy - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/nicorobinreal/molehill",
+    "featured": false
+  },
+  {
+    "id": "9f4589b36190",
+    "name": "To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "description": "To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://tng.episodle.com/",
+    "featured": false
+  },
+  {
+    "id": "496ef087d581",
+    "name": "UPC Label Maker – 1:1 PostScript point barcode imposition for Avery/FBA",
+    "description": "UPC Label Maker – 1:1 PostScript point barcode imposition for Avery/FBA - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://upclabelmaker.com/",
+    "featured": false
+  },
+  {
+    "id": "7a584d72ccfc",
+    "name": "Million Piece Puzzle",
+    "description": "Million Piece Puzzle - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://puzzle.io27.com/",
+    "featured": false
+  },
+  {
+    "id": "7cfa1e882e4d",
+    "name": "I rebuilt Kubernetes for ESP32 microcontrollers",
+    "description": "I rebuilt Kubernetes for ESP32 microcontrollers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/arterialist/kube32",
+    "featured": false
+  },
+  {
+    "id": "e9848ef70320",
+    "name": "Sketch Stadium – watch your agent play Pictionary",
+    "description": "Sketch Stadium – watch your agent play Pictionary - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://sketch.wakeshift.ai/games/q5ucru",
+    "featured": false
+  },
+  {
+    "id": "19772064dbf3",
+    "name": "Readeck sync for Kobo's stock reader",
+    "description": "Readeck sync for Kobo's stock reader - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/fkaduk/kobodeck",
+    "featured": false
+  },
+  {
+    "id": "1484de67be9d",
+    "name": "Agent-arcade – Terminal games that pause when Claude Code/Codex is done",
+    "description": "Agent-arcade – Terminal games that pause when Claude Code/Codex is done - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/Kuldeep-045/agent-arcade",
+    "featured": false
+  },
+  {
+    "id": "becaca49bba4",
+    "name": "Spinf-serve – inference server for bulk scoring and decisions",
+    "description": "Spinf-serve – inference server for bulk scoring and decisions - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/spinfinc/spinf-serve",
+    "featured": false
+  },
+  {
+    "id": "23db93d72fb1",
+    "name": "I built a multiplayer game where you're an aerial fighter cat",
+    "description": "I built a multiplayer game where you're an aerial fighter cat - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://catcopter.com",
+    "featured": false
+  },
+  {
+    "id": "062f7a3ac3f6",
+    "name": "Deckdrill – Pimsleur-style audio drills from Anki decks, in your voice",
+    "description": "Deckdrill – Pimsleur-style audio drills from Anki decks, in your voice - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://www.deckdrill.app",
+    "featured": false
+  },
+  {
+    "id": "bd37168ccde5",
+    "name": "Balk – A Baseball Game",
+    "description": "Balk – A Baseball Game - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://balk.club",
+    "featured": false
+  },
+  {
+    "id": "ae2462b496bc",
+    "name": "News article bias detector tool",
+    "description": "News article bias detector tool - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://aethelgard.news/",
+    "featured": false
   }
 ]
