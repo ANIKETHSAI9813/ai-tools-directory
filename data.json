@@ -11470,5 +11470,125 @@
     "category": "Productivity",
     "affiliate_link": "https://aethelgard.news/",
     "featured": false
+  },
+  {
+    "id": "db5832f49e4a",
+    "name": "I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+    "description": "I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kevs3d.co.uk/phoria2/",
+    "featured": false
+  },
+  {
+    "id": "5293b8f5a649",
+    "name": "Point your camera at a landscape to learn about its geology",
+    "description": "Point your camera at a landscape to learn about its geology - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://outcrop.rocks/",
+    "featured": false
+  },
+  {
+    "id": "f08fbf115216",
+    "name": "When a CEO buys their stock, does it beat the S&P 500? Check any trade",
+    "description": "When a CEO buys their stock, does it beat the S&P 500? Check any trade - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.insiderprint.com/spy-mode",
+    "featured": false
+  },
+  {
+    "id": "89307f734cfd",
+    "name": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "description": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/ivankovic/omnidiff",
+    "featured": false
+  },
+  {
+    "id": "2b639ec43620",
+    "name": "BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "description": "BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "featured": false
+  },
+  {
+    "id": "14074b4203bb",
+    "name": "A language model that lives in a boot sector",
+    "description": "A language model that lives in a boot sector - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/kerlenton/bootgpt",
+    "featured": false
+  },
+  {
+    "id": "e3b2ad07e2a5",
+    "name": "Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+    "description": "Ghostman – A fast, keyboard-driven TUI API client and webhook inspector - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/4yk5/Ghostman",
+    "featured": false
+  },
+  {
+    "id": "355dc2072972",
+    "name": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "description": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://epoyraz.github.io/nes-contra-us/",
+    "featured": false
+  },
+  {
+    "id": "2e58988f93d7",
+    "name": "A USB-C LTE modem that gives my computer a phone line",
+    "description": "A USB-C LTE modem that gives my computer a phone line - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Koppar-AI/koppar-lte-modem",
+    "featured": false
+  },
+  {
+    "id": "95dcf9913440",
+    "name": "Multi-Layer ASCII Art",
+    "description": "Multi-Layer ASCII Art - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://typeart.mitpit.com/",
+    "featured": false
+  },
+  {
+    "id": "8e75ef2dddf0",
+    "name": "Jointter – A daily word puzzle using dots and lines",
+    "description": "Jointter – A daily word puzzle using dots and lines - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://www.jointter.com/",
+    "featured": false
+  },
+  {
+    "id": "96ce21537b1b",
+    "name": "Create a Dumbphone on Android",
+    "description": "Create a Dumbphone on Android - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://beeswax.getflourish.org/",
+    "featured": false
+  },
+  {
+    "id": "4fbed848964a",
+    "name": "Winch – App Store optimization run by your own coding agent",
+    "description": "Winch – App Store optimization run by your own coding agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://getwinch.app/",
+    "featured": false
+  },
+  {
+    "id": "1ca6f6410452",
+    "name": "Fix 1.0 – Ruby tests written as RFC 2119 specifications",
+    "description": "Fix 1.0 – Ruby tests written as RFC 2119 specifications - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://fixrb.dev/framework/release/2026/10/31/fix-1.html",
+    "featured": false
+  },
+  {
+    "id": "5a935f1b85d6",
+    "name": "Othismo, a Runtime for Sandboxed Objects",
+    "description": "Othismo, a Runtime for Sandboxed Objects - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://othismo.com",
+    "featured": false
   }
 ]
