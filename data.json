@@ -11590,5 +11590,125 @@
     "category": "Productivity",
     "affiliate_link": "https://othismo.com",
     "featured": false
+  },
+  {
+    "id": "de6b8c769daf",
+    "name": "Subvocal – Talk to your computer without making noise",
+    "description": "Subvocal – Talk to your computer without making noise - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://subvocal.company/",
+    "featured": false
+  },
+  {
+    "id": "2b77847709fd",
+    "name": "Warsaw in voxels – an interactive 3D map of the city centre",
+    "description": "Warsaw in voxels – an interactive 3D map of the city centre - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+    "featured": false
+  },
+  {
+    "id": "096aac5ab955",
+    "name": "I've updated my Linux System Call website and API",
+    "description": "I've updated my Linux System Call website and API - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://syscall.sh/",
+    "featured": false
+  },
+  {
+    "id": "f04d650009c9",
+    "name": "Modern CSS Quiz",
+    "description": "Modern CSS Quiz - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://modern-css.com/quiz/",
+    "featured": false
+  },
+  {
+    "id": "664224e893fc",
+    "name": "HackerBooks – HackerTube, but for books mentioned on HN",
+    "description": "HackerBooks – HackerTube, but for books mentioned on HN - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://hackerbooks.org",
+    "featured": false
+  },
+  {
+    "id": "7ff65b1f83e7",
+    "name": "My Mac wouldn't switch to my USB-C earbuds, so I made an app that does",
+    "description": "My Mac wouldn't switch to my USB-C earbuds, so I made an app that does - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ishanray/AudioAutoSwitch",
+    "featured": false
+  },
+  {
+    "id": "bd0c2e6be3a9",
+    "name": "Wrapped – your neighborhood's year in complaints",
+    "description": "Wrapped – your neighborhood's year in complaints - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://311wrapped.com/",
+    "featured": false
+  },
+  {
+    "id": "2531ebdbce2e",
+    "name": "3D pixel-art basketball game – no deps, no build step",
+    "description": "3D pixel-art basketball game – no deps, no build step - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://vladsez.github.io/iso-hoops/",
+    "featured": false
+  },
+  {
+    "id": "22030db87747",
+    "name": "PyWolf3D, a wolfenstein3D clone written from scratch in Python",
+    "description": "PyWolf3D, a wolfenstein3D clone written from scratch in Python - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/atifcodesalot/pyWolf3D",
+    "featured": false
+  },
+  {
+    "id": "833e544e2b9b",
+    "name": "ClickBench inspired leaderboard for multiple database benchmarks",
+    "description": "ClickBench inspired leaderboard for multiple database benchmarks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://benchmark.pivotlake.io/",
+    "featured": false
+  },
+  {
+    "id": "b281814e6d45",
+    "name": "Deedglass – An agent said it updated 1 row; Postgres changed 301",
+    "description": "Deedglass – An agent said it updated 1 row; Postgres changed 301 - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/deedglass/deedglass",
+    "featured": false
+  },
+  {
+    "id": "5fd3f7977fa4",
+    "name": "A SQL parser and type checker written in TypeScript types",
+    "description": "A SQL parser and type checker written in TypeScript types - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/ismailkarsli/TypeSQL",
+    "featured": false
+  },
+  {
+    "id": "2a7373389ba2",
+    "name": "Vaire, Self-Hosting Postgres Through the One Glorious CLI",
+    "description": "Vaire, Self-Hosting Postgres Through the One Glorious CLI - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/mbvlabs/vaire",
+    "featured": false
+  },
+  {
+    "id": "19685f0a02ce",
+    "name": "Blorgle – a word game with a community-driven word bank",
+    "description": "Blorgle – a word game with a community-driven word bank - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://blorgle.com/daily",
+    "featured": false
+  },
+  {
+    "id": "7c1be47de2b9",
+    "name": "AgentTrafficCop – Stop AI agents from looping and burning money",
+    "description": "AgentTrafficCop – Stop AI agents from looping and burning money - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://agenttrafficcop.com",
+    "featured": false
   }
 ]
