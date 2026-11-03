@@ -11710,5 +11710,125 @@
     "category": "Automation",
     "affiliate_link": "https://agenttrafficcop.com",
     "featured": false
+  },
+  {
+    "id": "4b34d08fc9c1",
+    "name": "Interactive notes on RLHF, attention, LoRA and LLM evals",
+    "description": "Interactive notes on RLHF, attention, LoRA and LLM evals - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://concepts.laxmena.com/",
+    "featured": false
+  },
+  {
+    "id": "01025415992b",
+    "name": "Hacker Times, a New York Times-inspired version of Hacker News",
+    "description": "Hacker Times, a New York Times-inspired version of Hacker News - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hackertimes.ca/",
+    "featured": false
+  },
+  {
+    "id": "a686433e39f2",
+    "name": "Bema: Work messaging built for humans",
+    "description": "Bema: Work messaging built for humans - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://getbema.app/",
+    "featured": false
+  },
+  {
+    "id": "680c37f0e49d",
+    "name": "HackerChurn – which SaaS tools HN wants to cancel",
+    "description": "HackerChurn – which SaaS tools HN wants to cancel - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hissingkitty.com/hacker-churn",
+    "featured": false
+  },
+  {
+    "id": "4d58dcbdb4f0",
+    "name": "Kiri – an open-source container runtime in Rust, Docker run in 18 ms",
+    "description": "Kiri – an open-source container runtime in Rust, Docker run in 18 ms - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=50353261",
+    "featured": false
+  },
+  {
+    "id": "9b33880502a7",
+    "name": "Election.run – election night in one window",
+    "description": "Election.run – election night in one window - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://election.run/",
+    "featured": false
+  },
+  {
+    "id": "c8bd0380396f",
+    "name": "Kvittas, an Expense Splitting App",
+    "description": "Kvittas, an Expense Splitting App - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://kvittas.app",
+    "featured": false
+  },
+  {
+    "id": "8ad29e065548",
+    "name": "Rigorix, Execution governance for AI agents, open-source engine",
+    "description": "Rigorix, Execution governance for AI agents, open-source engine - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://rigorix.eu/",
+    "featured": false
+  },
+  {
+    "id": "94117cd906a6",
+    "name": "Diogenes – Account-less MCP Gateway to 45 Gemini models and guardrails",
+    "description": "Diogenes – Account-less MCP Gateway to 45 Gemini models and guardrails - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://diogenesgateway.com/",
+    "featured": false
+  },
+  {
+    "id": "2a5062f64a71",
+    "name": "Open-Source Searchable Job Board for HN's Hiring Threads",
+    "description": "Open-Source Searchable Job Board for HN's Hiring Threads - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://flaviaouyang.github.io/hackerjobs/hiring/",
+    "featured": false
+  },
+  {
+    "id": "ad9892460718",
+    "name": "I built a little browser game to practice Vim commands",
+    "description": "I built a little browser game to practice Vim commands - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hjkl.duy.run",
+    "featured": false
+  },
+  {
+    "id": "bc2b42f74828",
+    "name": "Zuno – a native, keyboard-driven API client written in Rust",
+    "description": "Zuno – a native, keyboard-driven API client written in Rust - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/aryanjha256/zuno",
+    "featured": false
+  },
+  {
+    "id": "b813b4d38b6f",
+    "name": "I made a portals physics engine to prove my point",
+    "description": "I made a portals physics engine to prove my point - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://portalphysics.xyz/up-down",
+    "featured": false
+  },
+  {
+    "id": "caf690d18f27",
+    "name": "Mintype – Free, zero-knowledge notes app with whiteboards (AGPL)",
+    "description": "Mintype – Free, zero-knowledge notes app with whiteboards (AGPL) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://mintype.app",
+    "featured": false
+  },
+  {
+    "id": "9b4aef480d78",
+    "name": "ReBirth 338 in Browser",
+    "description": "ReBirth 338 in Browser - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://margeux.com/rb338.html",
+    "featured": false
   }
 ]
