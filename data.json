@@ -11830,5 +11830,125 @@
     "category": "Productivity",
     "affiliate_link": "https://margeux.com/rb338.html",
     "featured": false
+  },
+  {
+    "id": "ea56d3c93074",
+    "name": "Codemap – one-page interactive map of any Go repository",
+    "description": "Codemap – one-page interactive map of any Go repository - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/peterretief/codemap",
+    "featured": false
+  },
+  {
+    "id": "e2d144050b50",
+    "name": "Decipher saves you from specs and docs you rubber stamp",
+    "description": "Decipher saves you from specs and docs you rubber stamp - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/amirimi/decipher",
+    "featured": false
+  },
+  {
+    "id": "2fc1e68caf2a",
+    "name": "HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "description": "HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://hackertv.org",
+    "featured": false
+  },
+  {
+    "id": "fa315682243b",
+    "name": "I built a tool that prices a prebuilt PC part by part",
+    "description": "I built a tool that prices a prebuilt PC part by part - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://pcdealcheck.com/",
+    "featured": false
+  },
+  {
+    "id": "7fafa2402481",
+    "name": "An Open Source Superhuman Email Client Clone",
+    "description": "An Open Source Superhuman Email Client Clone - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/michaelmagan/OpenHuman",
+    "featured": false
+  },
+  {
+    "id": "27a269c74893",
+    "name": "Uncracked City, detective game where you question LLM suspects that lie",
+    "description": "Uncracked City, detective game where you question LLM suspects that lie - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://uncracked.city",
+    "featured": false
+  },
+  {
+    "id": "aa42131280f1",
+    "name": "Iriszip – Audited post-quantum E2EE file transfer (SPAKE2M-KEM-768)",
+    "description": "Iriszip – Audited post-quantum E2EE file transfer (SPAKE2M-KEM-768) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/iris-zip/iris",
+    "featured": false
+  },
+  {
+    "id": "a95e5ab3be38",
+    "name": "Hyperbutler – Docker on Windows without WSL, 320 MB at idle",
+    "description": "Hyperbutler – Docker on Windows without WSL, 320 MB at idle - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hyperbutler.dev/",
+    "featured": false
+  },
+  {
+    "id": "29ac53938e5d",
+    "name": "AI Gude – my feeds as a daily podcast, revived with AI",
+    "description": "AI Gude – my feeds as a daily podcast, revived with AI - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://github.com/alex0ptr/aigude",
+    "featured": false
+  },
+  {
+    "id": "7adfdfcee4d2",
+    "name": "A Lean 4 port of libexpat's XML 1.0 parsing semantics",
+    "description": "A Lean 4 port of libexpat's XML 1.0 parsing semantics - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/scidonia/lexpat",
+    "featured": false
+  },
+  {
+    "id": "fc9c9d510dd0",
+    "name": "QAmcp – an open-source tester and monitor for MCP servers",
+    "description": "QAmcp – an open-source tester and monitor for MCP servers - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://qamcp.dev/?from=hackernews",
+    "featured": false
+  },
+  {
+    "id": "45c73ea3ab1c",
+    "name": "Scan-to-vector – rebuild scanned pages as vector PDFs with an AI agent",
+    "description": "Scan-to-vector – rebuild scanned pages as vector PDFs with an AI agent - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/3351666087/scan-to-vector-skill",
+    "featured": false
+  },
+  {
+    "id": "1ab74018d80a",
+    "name": "I wanted OpenSCAD with fillets and a C-like language. So I made one",
+    "description": "I wanted OpenSCAD with fillets and a C-like language. So I made one - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://hackerscad.com/",
+    "featured": false
+  },
+  {
+    "id": "84fc9726da37",
+    "name": "AutoCua, one prompt drives computer, browser, phones, code at same time",
+    "description": "AutoCua, one prompt drives computer, browser, phones, code at same time - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/ComputerUseAgent/AutoCua",
+    "featured": false
+  },
+  {
+    "id": "9d66840520fd",
+    "name": "Chinese sentence checker with pinyin and English explanations",
+    "description": "Chinese sentence checker with pinyin and English explanations - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://sentencecoach.com/chinese-grammar-checker",
+    "featured": false
   }
 ]
