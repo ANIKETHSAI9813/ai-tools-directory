@@ -11950,5 +11950,125 @@
     "category": "Productivity",
     "affiliate_link": "https://sentencecoach.com/chinese-grammar-checker",
     "featured": false
+  },
+  {
+    "id": "01c9a31508ad",
+    "name": "Stroq – a local audit of what your coding agent did and why",
+    "description": "Stroq – a local audit of what your coding agent did and why - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://github.com/AGGIB/Stroq",
+    "featured": false
+  },
+  {
+    "id": "3e3ae3cdcf25",
+    "name": "After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "description": "After a decade of reversing, I got co-op working in DOS Wing Commander - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://fireflyk64.github.io/wcmulti/",
+    "featured": false
+  },
+  {
+    "id": "1efb94a12ddf",
+    "name": "XSDHub – checks correctness of invoice format and local standards",
+    "description": "XSDHub – checks correctness of invoice format and local standards - AI software and productivity tool.",
+    "category": "Video & Audio",
+    "affiliate_link": "https://xsdhub.com/e-invoice-validator",
+    "featured": false
+  },
+  {
+    "id": "e473b8a54ac2",
+    "name": "TubeHaus – an open-source YouTube client with no Google account",
+    "description": "TubeHaus – an open-source YouTube client with no Google account - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/biolend83/tubehaus",
+    "featured": false
+  },
+  {
+    "id": "75dd751197fd",
+    "name": "Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+    "description": "Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://firenook.dev/",
+    "featured": false
+  },
+  {
+    "id": "98b21c23b1d1",
+    "name": "Cwist — Tiny, Easy, and Structured Web Framework for C",
+    "description": "Cwist — Tiny, Easy, and Structured Web Framework for C - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/c4punks/cwist",
+    "featured": false
+  },
+  {
+    "id": "443825d3006e",
+    "name": "The DNA of DOOM – How code structure survives across 44 ports",
+    "description": "The DNA of DOOM – How code structure survives across 44 ports - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+    "featured": false
+  },
+  {
+    "id": "f106f87baecc",
+    "name": "Gauge – Open-Source CLI to recursively improve your docs",
+    "description": "Gauge – Open-Source CLI to recursively improve your docs - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/gauge-sh/gauge-cli",
+    "featured": false
+  },
+  {
+    "id": "b465b3031182",
+    "name": "Hyperbutler – Docker on Windows 11 Without WSL or Docker Desktop",
+    "description": "Hyperbutler – Docker on Windows 11 Without WSL or Docker Desktop - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/Higangssh/hyperbutler",
+    "featured": false
+  },
+  {
+    "id": "9f51b2186d2d",
+    "name": "A 69-byte on-chain PNG that turns OLED pixels off (0 nits)",
+    "description": "A 69-byte on-chain PNG that turns OLED pixels off (0 nits) - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://black-pixel-1x1.vercel.app/dossier.html",
+    "featured": false
+  },
+  {
+    "id": "adf1bef6b4b5",
+    "name": "Get Better at Piano with Noodle",
+    "description": "Get Better at Piano with Noodle - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://news.ycombinator.com/item?id=50377933",
+    "featured": false
+  },
+  {
+    "id": "1ab38b78e7eb",
+    "name": "Nico – a two-agent type personal agent on your Mac",
+    "description": "Nico – a two-agent type personal agent on your Mac - AI software and productivity tool.",
+    "category": "Automation",
+    "affiliate_link": "https://nico.app/",
+    "featured": false
+  },
+  {
+    "id": "71a668e8fb29",
+    "name": "ChessGrind – Turn missed chess positions into training that sticks",
+    "description": "ChessGrind – Turn missed chess positions into training that sticks - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://chessgrind.fyi/",
+    "featured": false
+  },
+  {
+    "id": "865631e63669",
+    "name": "Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "description": "Spindle – a full-featured, type-safe web framework for OCaml 5 - AI software and productivity tool.",
+    "category": "Productivity",
+    "affiliate_link": "https://github.com/hyphatech/spindle",
+    "featured": false
+  },
+  {
+    "id": "d5e3d3043067",
+    "name": "Distill anyone's writing style into a skill",
+    "description": "Distill anyone's writing style into a skill - AI software and productivity tool.",
+    "category": "Text & Writing",
+    "affiliate_link": "https://github.com/xatuke/mimic",
+    "featured": false
   }
 ]
