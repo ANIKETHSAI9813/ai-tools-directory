@@ -1,272 +1,168 @@
-/* ==========================================================================
-   AI Tools & Automation Directory — app.js
-   Vanilla ES6+, no dependencies, no build step.
-   ========================================================================== */
-
+// AI Tools Directory — vanilla JS, no build step.
 (function () {
   'use strict';
 
-  const DATA_URL = 'data.json';
-  const BOOKMARKS_KEY = 'aiToolsDirectory.bookmarks';
-  const CATEGORY_ALL = 'All';
-  const CATEGORY_SAVED = 'Saved';
+  const PAGE = 50;
+  const SAVED_KEY = 'aiToolsDirectory.bookmarks'; // same key as before, so old bookmarks survive
+  const $ = (id) => document.getElementById(id);
+  const els = { q: $('q'), cat: $('cat'), sort: $('sort'), saved: $('saved'), savedCount: $('savedCount'),
+                list: $('list'), more: $('more'), status: $('status'), count: $('count'), tpl: $('item') };
 
-  // ---- State ----------------------------------------------------------
-  let allTools = [];
-  let bookmarkedIds = loadBookmarks();
-  let activeCategory = CATEGORY_ALL;
-  let searchTerm = '';
+  let tools = [];
+  let results = [];
+  let shown = 0;
+  let saved = loadSaved();
+  const state = { q: '', cat: '', sort: 'new', saved: false };
 
-  // ---- DOM refs ---------------------------------------------------------
-  const els = {
-    skeletonGrid: document.getElementById('skeletonGrid'),
-    toolGrid: document.getElementById('toolGrid'),
-    emptyState: document.getElementById('emptyState'),
-    errorState: document.getElementById('errorState'),
-    searchInput: document.getElementById('searchInput'),
-    categoryPills: document.getElementById('categoryPills'),
-    resultsCount: document.getElementById('resultsCount'),
-    toolCountBadge: document.getElementById('toolCountBadge'),
-    clearFiltersBtn: document.getElementById('clearFiltersBtn'),
-    bookmarksToggle: document.getElementById('bookmarksToggle'),
-    cardTemplate: document.getElementById('cardTemplate'),
-    skeletonTemplate: document.getElementById('skeletonTemplate'),
-    year: document.getElementById('year'),
-  };
+  // ---- data ---------------------------------------------------------------
+  fetch('data.json', { cache: 'no-cache' })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((data) => {
+      tools = data.map((t) => ({
+        ...t,
+        url: t.url || t.affiliate_link,
+        // searchable text, lowercased once
+        _name: (t.name || '').toLowerCase(),
+        _text: [t.name, t.description, t.category, t.source].join(' ').toLowerCase(),
+      }));
+      els.count.textContent = tools.length.toLocaleString() + ' tools.';
+      buildCategories();
+      readUrl();
+      update();
+    })
+    .catch(() => { els.status.textContent = 'Could not load the directory. Refresh to try again.'; });
 
-  // ---- Init ---------------------------------------------------------
-  document.addEventListener('DOMContentLoaded', init);
-
-  function init() {
-    els.year.textContent = new Date().getFullYear();
-    renderSkeletons(6);
-    bindEvents();
-    fetchTools();
+  function buildCategories() {
+    const counts = {};
+    tools.forEach((t) => { counts[t.category] = (counts[t.category] || 0) + 1; });
+    const cats = Object.keys(counts).sort((a, b) =>
+      (a === 'Other') - (b === 'Other') || counts[b] - counts[a]);
+    els.cat.innerHTML = '';
+    els.cat.append(new Option(`All categories (${tools.length})`, ''));
+    cats.forEach((c) => els.cat.append(new Option(`${c} (${counts[c]})`, c)));
   }
 
-  function bindEvents() {
-    els.searchInput.addEventListener('input', debounce((e) => {
-      searchTerm = e.target.value.trim().toLowerCase();
-      renderGrid();
-    }, 120));
+  // ---- search -------------------------------------------------------------
+  // Every word must appear somewhere (name, description, category or source),
+  // in any order. Name matches rank first.
+  function search() {
+    const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    let list = tools.filter((t) =>
+      (!state.cat || t.category === state.cat) &&
+      (!state.saved || saved.has(String(t.id))) &&
+      words.every((w) => t._text.includes(w)));
 
-    els.clearFiltersBtn.addEventListener('click', () => {
-      searchTerm = '';
-      activeCategory = CATEGORY_ALL;
-      els.searchInput.value = '';
-      setActivePillUI();
-      renderGrid();
-    });
+    const byNew = (a, b) => (b.added || '').localeCompare(a.added || '') || a._name.localeCompare(b._name);
+    const byName = (a, b) => a._name.localeCompare(b._name);
+    const base = state.sort === 'az' ? byName : byNew;
 
-    els.bookmarksToggle.addEventListener('click', () => {
-      activeCategory = activeCategory === CATEGORY_SAVED ? CATEGORY_ALL : CATEGORY_SAVED;
-      setActivePillUI();
-      renderGrid();
-    });
-  }
-
-  // ---- Data fetching ---------------------------------------------------
-  async function fetchTools() {
-    try {
-      const res = await fetch(DATA_URL, { cache: 'no-store' });
-      if (!res.ok) throw new Error('Network response was not ok (' + res.status + ')');
-      const data = await res.json();
-      allTools = Array.isArray(data) ? data : [];
-      // Featured tools first, otherwise preserve original order.
-      allTools.sort((a, b) => Number(!!b.featured) - Number(!!a.featured));
-
-      els.toolCountBadge.textContent = allTools.length;
-      buildCategoryPills(allTools);
-      renderGrid();
-
-      els.skeletonGrid.classList.add('hidden');
-      els.toolGrid.classList.remove('hidden');
-    } catch (err) {
-      console.error('Failed to load tools directory:', err);
-      els.skeletonGrid.classList.add('hidden');
-      els.errorState.classList.remove('hidden');
-      els.errorState.classList.add('flex');
-    }
-  }
-
-  // ---- Category pills ---------------------------------------------------
-  function buildCategoryPills(tools) {
-    const categories = [CATEGORY_ALL, ...uniqueSorted(tools.map((t) => t.category))];
-    els.categoryPills.innerHTML = '';
-
-    categories.forEach((cat) => {
-      const pill = document.createElement('button');
-      pill.type = 'button';
-      pill.dataset.category = cat;
-      pill.textContent = cat;
-      pill.className = pillClasses(cat === activeCategory);
-      pill.addEventListener('click', () => {
-        activeCategory = cat;
-        setActivePillUI();
-        renderGrid();
-      });
-      els.categoryPills.appendChild(pill);
-    });
-  }
-
-  function pillClasses(isActive) {
-    const base = 'px-3.5 py-1.5 rounded-full text-sm font-medium border transition-colors';
-    return isActive
-      ? base + ' bg-gradient-to-r from-accent-indigo to-accent-violet text-white border-transparent shadow-glow'
-      : base + ' bg-surface text-slate-400 border-border hover:text-slate-200 hover:border-slate-500';
-  }
-
-  function setActivePillUI() {
-    [...els.categoryPills.children].forEach((pill) => {
-      const isActive = pill.dataset.category === activeCategory;
-      pill.className = pillClasses(isActive);
-    });
-    els.bookmarksToggle.classList.toggle('text-violet-300', activeCategory === CATEGORY_SAVED);
-  }
-
-  // ---- Filtering + rendering ---------------------------------------------------
-  function getFilteredTools() {
-    return allTools.filter((tool) => {
-      const matchesCategory =
-        activeCategory === CATEGORY_ALL ||
-        (activeCategory === CATEGORY_SAVED && bookmarkedIds.has(String(tool.id))) ||
-        tool.category === activeCategory;
-
-      if (!matchesCategory) return false;
-      if (!searchTerm) return true;
-
-      const haystack = (
-        (tool.name || '') + ' ' + (tool.description || '') + ' ' + (tool.category || '')
-      ).toLowerCase();
-      return haystack.includes(searchTerm);
-    });
-  }
-
-  function renderGrid() {
-    const filtered = getFilteredTools();
-
-    els.resultsCount.textContent = filtered.length
-      ? `${filtered.length} tool${filtered.length === 1 ? '' : 's'}`
-      : '';
-
-    els.toolGrid.innerHTML = '';
-
-    if (!filtered.length) {
-      els.toolGrid.classList.add('hidden');
-      els.emptyState.classList.remove('hidden');
-      els.emptyState.classList.add('flex');
-      return;
-    }
-
-    els.emptyState.classList.add('hidden');
-    els.emptyState.classList.remove('flex');
-    els.toolGrid.classList.remove('hidden');
-
-    const fragment = document.createDocumentFragment();
-    filtered.forEach((tool) => fragment.appendChild(buildCard(tool)));
-    els.toolGrid.appendChild(fragment);
-  }
-
-  function buildCard(tool) {
-    const node = els.cardTemplate.content.cloneNode(true);
-    const article = node.querySelector('article');
-
-    node.querySelector('.tool-name').textContent = tool.name || 'Untitled tool';
-    node.querySelector('.category-badge').textContent = tool.category || 'Uncategorized';
-    node.querySelector('.tool-desc').textContent = tool.description || '';
-
-    const tryBtn = node.querySelector('.try-btn');
-    tryBtn.href = buildAffiliateUrl(tool.affiliate_link);
-
-    const bookmarkBtn = node.querySelector('.bookmark-btn');
-    const starIcon = node.querySelector('.star-icon');
-    const isBookmarked = bookmarkedIds.has(String(tool.id));
-    setBookmarkUI(bookmarkBtn, starIcon, isBookmarked);
-
-    bookmarkBtn.addEventListener('click', () => toggleBookmark(tool.id, bookmarkBtn, starIcon));
-
-    if (tool.featured) {
-      const badge = document.createElement('span');
-      badge.textContent = '★ Featured';
-      badge.className =
-        'absolute -top-2.5 left-4 text-[11px] font-mono font-medium tracking-wide px-2 py-0.5 rounded-full bg-amber-400/15 text-amber-300 border border-amber-400/30';
-      article.appendChild(badge);
-    }
-
-    return node;
-  }
-
-  // ---- Affiliate link handling ---------------------------------------------------
-  function buildAffiliateUrl(rawUrl, extraParams) {
-    if (!rawUrl) return '#';
-    try {
-      const url = new URL(rawUrl);
-      const params = extraParams || {}; // hook: inject dynamic affiliate params here if needed
-      Object.entries(params).forEach(([key, value]) => url.searchParams.set(key, value));
-      return url.toString();
-    } catch (e) {
-      return rawUrl; // fall back to raw string if it isn't a valid absolute URL
-    }
-  }
-
-  // ---- Bookmarks (localStorage) ---------------------------------------------------
-  function loadBookmarks() {
-    try {
-      const raw = localStorage.getItem(BOOKMARKS_KEY);
-      return new Set(raw ? JSON.parse(raw) : []);
-    } catch (e) {
-      return new Set();
-    }
-  }
-
-  function saveBookmarks() {
-    try {
-      localStorage.setItem(BOOKMARKS_KEY, JSON.stringify([...bookmarkedIds]));
-    } catch (e) {
-      console.warn('Could not persist bookmarks to localStorage:', e);
-    }
-  }
-
-  function toggleBookmark(id, btn, iconEl) {
-    const key = String(id);
-    const isBookmarked = bookmarkedIds.has(key);
-    if (isBookmarked) {
-      bookmarkedIds.delete(key);
+    if (words.length) {
+      const score = (t) => words.reduce((s, w) =>
+        s + (t._name.startsWith(w) ? 3 : t._name.includes(w) ? 2 : 0), 0);
+      list = list.map((t) => [score(t), t]).sort((a, b) => b[0] - a[0] || base(a[1], b[1])).map((x) => x[1]);
     } else {
-      bookmarkedIds.add(key);
+      list.sort(base);
     }
-    saveBookmarks();
-    setBookmarkUI(btn, iconEl, !isBookmarked);
-
-    if (activeCategory === CATEGORY_SAVED) renderGrid();
+    return list;
   }
 
-  function setBookmarkUI(btn, iconEl, isBookmarked) {
-    btn.setAttribute('aria-pressed', String(isBookmarked));
-    btn.classList.toggle('text-amber-300', isBookmarked);
-    btn.classList.toggle('border-amber-400/40', isBookmarked);
-    iconEl.setAttribute('fill', isBookmarked ? 'currentColor' : 'none');
+  function update() {
+    results = search();
+    shown = 0;
+    els.list.innerHTML = '';
+    renderMore();
+    const n = results.length;
+    els.status.textContent = n
+      ? `${n.toLocaleString()} ${n === 1 ? 'tool' : 'tools'}`
+      : state.saved && !saved.size ? 'Nothing saved yet. Use the bookmark icon on any tool.' : 'No tools match. Try fewer or different words.';
+    els.savedCount.textContent = saved.size ? `(${saved.size})` : '';
+    writeUrl();
   }
 
-  // ---- Loading skeletons ---------------------------------------------------
-  function renderSkeletons(count) {
-    const fragment = document.createDocumentFragment();
-    for (let i = 0; i < count; i++) {
-      fragment.appendChild(els.skeletonTemplate.content.cloneNode(true));
-    }
-    els.skeletonGrid.appendChild(fragment);
+  function renderMore() {
+    const frag = document.createDocumentFragment();
+    results.slice(shown, shown + PAGE).forEach((t) => frag.append(row(t)));
+    shown = Math.min(shown + PAGE, results.length);
+    els.list.append(frag);
+    els.more.hidden = shown >= results.length;
+    els.more.textContent = `Show more (${(results.length - shown).toLocaleString()} left)`;
   }
 
-  // ---- Utilities ---------------------------------------------------
-  function uniqueSorted(arr) {
-    return [...new Set(arr.filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  function row(t) {
+    const li = els.tpl.content.firstElementChild.cloneNode(true);
+    const a = li.querySelector('.name');
+    a.textContent = t.name;
+    a.href = safeUrl(t.url);
+    li.querySelector('.desc').textContent = t.description || '';
+    li.querySelector('.meta').textContent = [t.category, t.source, formatDate(t.added)].filter(Boolean).join(' · ');
+    const btn = li.querySelector('.save');
+    setSaved(btn, saved.has(String(t.id)));
+    btn.addEventListener('click', () => toggleSave(t, btn));
+    return li;
   }
 
-  function debounce(fn, wait) {
-    let timer;
-    return (...args) => {
-      clearTimeout(timer);
-      timer = setTimeout(() => fn(...args), wait);
-    };
+  // ---- saved --------------------------------------------------------------
+  function loadSaved() {
+    try { return new Set(JSON.parse(localStorage.getItem(SAVED_KEY)) || []); } catch (e) { return new Set(); }
   }
+  function toggleSave(t, btn) {
+    const id = String(t.id);
+    saved.has(id) ? saved.delete(id) : saved.add(id);
+    try { localStorage.setItem(SAVED_KEY, JSON.stringify([...saved])); } catch (e) { /* private mode */ }
+    setSaved(btn, saved.has(id));
+    els.savedCount.textContent = saved.size ? `(${saved.size})` : '';
+    if (state.saved) update();
+  }
+  function setSaved(btn, on) {
+    btn.setAttribute('aria-pressed', String(on));
+    btn.setAttribute('aria-label', on ? 'Remove from saved' : 'Save');
+  }
+
+  // ---- url state (so searches can be shared) -------------------------------
+  function readUrl() {
+    const p = new URLSearchParams(location.search);
+    state.q = p.get('q') || '';
+    state.cat = p.get('cat') || '';
+    state.sort = p.get('sort') === 'az' ? 'az' : 'new';
+    els.q.value = state.q;
+    els.cat.value = state.cat;
+    if (els.cat.value !== state.cat) state.cat = els.cat.value = '';
+    els.sort.value = state.sort;
+  }
+  function writeUrl() {
+    const p = new URLSearchParams();
+    if (state.q) p.set('q', state.q);
+    if (state.cat) p.set('cat', state.cat);
+    if (state.sort !== 'new') p.set('sort', state.sort);
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
+
+  // ---- helpers ------------------------------------------------------------
+  function safeUrl(u) {
+    try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : '#'; } catch (e) { return '#'; }
+  }
+  function formatDate(d) {
+    if (!d) return '';
+    const dt = new Date(d + 'T00:00:00');
+    return isNaN(dt) ? '' : dt.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' });
+  }
+  function debounce(fn, ms) {
+    let t;
+    return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };
+  }
+
+  // ---- events -------------------------------------------------------------
+  els.q.addEventListener('input', debounce(() => { state.q = els.q.value.trim(); update(); }, 120));
+  els.cat.addEventListener('change', () => { state.cat = els.cat.value; update(); });
+  els.sort.addEventListener('change', () => { state.sort = els.sort.value; update(); });
+  els.saved.addEventListener('click', () => {
+    state.saved = !state.saved;
+    els.saved.setAttribute('aria-pressed', String(state.saved));
+    update();
+  });
+  els.more.addEventListener('click', renderMore);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === '/' && document.activeElement !== els.q) { e.preventDefault(); els.q.focus(); }
+  });
 })();
