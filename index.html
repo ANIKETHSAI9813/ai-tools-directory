@@ -23,14 +23,15 @@
       <div class="row">
         <label class="visually-hidden" for="cat">Category</label>
         <select id="cat"></select>
-        <label class="visually-hidden" for="sort">Sort</label>
-        <select id="sort">
-          <option value="new">Newest</option>
-          <option value="az">A–Z</option>
-        </select>
         <button id="saved" type="button" aria-pressed="false">Saved <span id="savedCount"></span></button>
       </div>
     </div>
+
+    <nav class="tabs" id="tabs" aria-label="Sort tools">
+      <button type="button" data-sort="popular" aria-current="true">Most popular</button>
+      <button type="button" data-sort="new">Recently added</button>
+      <button type="button" data-sort="az">A–Z</button>
+    </nav>
 
     <p id="status" class="status" aria-live="polite">Loading…</p>
     <ul id="list" class="list"></ul>

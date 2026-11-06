@@ -238,10 +238,10 @@ def tidy_description(name: str, desc: str) -> str:
     return truncate(sentence_case(WS_RE.sub(" ", desc))) if desc else ""
 
 
-def entry(name: str, desc: str, url: str, source: str, category: str | None = None) -> dict:
+def entry(name: str, desc: str, url: str, source: str, category: str | None = None, votes: int | None = None) -> dict:
     name = EMOJI_RE.sub("", clean(name)).strip()
     desc = tidy_description(name, desc)
-    return {
+    e = {
         "id": make_id(url),
         "name": name.strip()[:60],
         "description": desc,
@@ -250,6 +250,9 @@ def entry(name: str, desc: str, url: str, source: str, category: str | None = No
         "source": source,
         "added": TODAY,
     }
+    if votes is not None:
+        e["votes"] = int(votes)  # HN points / GitHub stars / HF likes — powers "Most popular"
+    return e
 
 
 # ---------------------------------------------------------------------------
@@ -270,7 +273,7 @@ def src_hacker_news(days: int = 4, min_points: int = 5) -> list[dict]:
         if not parsed:
             continue
         name, tagline = parsed
-        e = entry(name, tagline, link, "Hacker News")
+        e = entry(name, tagline, link, "Hacker News", votes=hit.get("points") or 0)
         if e["category"] == OTHER:  # use the post body for a better guess
             e["category"] = categorize(name, f"{tagline} {clean(hit.get('story_text'))[:400]}")
         out.append(e)
@@ -331,7 +334,8 @@ def src_github(days: int = 30, min_stars: int = 150) -> list[dict]:
             continue
         name = r["name"]
         topics = " ".join(r.get("topics") or [])
-        out.append(entry(name, desc, r["html_url"], "GitHub", categorize(r["name"], desc, topics)))
+        out.append(entry(name, desc, r["html_url"], "GitHub", categorize(r["name"], desc, topics),
+                         votes=r["stargazers_count"]))
     return out
 
 
@@ -348,7 +352,8 @@ def src_huggingface(limit: int = 80) -> list[dict]:
         name = clean(card.get("title")) or s["id"].split("/")[-1]
         if re.search(r"\b(leaderboard|arena|blog|handbook|guide|paper|course)\b", f"{name} {desc}", re.I):
             continue
-        out.append(entry(name, desc, f"https://huggingface.co/spaces/{s['id']}", "Hugging Face"))
+        out.append(entry(name, desc, f"https://huggingface.co/spaces/{s['id']}", "Hugging Face",
+                         votes=s.get("likes") or 0))
     return out
 
 
@@ -418,6 +423,26 @@ def probe(url: str) -> tuple[str, str]:
     return "ok", meta
 
 
+def fetch_votes(e: dict) -> int | None:
+    """Current popularity count from the entry's source, or None if unavailable."""
+    url, src = e["url"], e.get("source")
+    if src == "Hacker News":
+        q = urllib.parse.quote(url, safe="")
+        data = get_json(f"https://hn.algolia.com/api/v1/search?query={q}&restrictSearchableAttributes=url&tags=show_hn&hitsPerPage=5")
+        hits = [h for h in (data or {}).get("hits", []) if normalize_url(h.get("url") or "") == normalize_url(url)]
+        return max((h.get("points") or 0) for h in hits) if hits else None
+    if src == "GitHub":
+        m = re.match(r"https://github\.com/([^/]+/[^/#?]+)", url)
+        headers = {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}"} if os.environ.get("GITHUB_TOKEN") else None
+        data = get_json(f"https://api.github.com/repos/{m.group(1)}", headers) if m else None
+        return data.get("stargazers_count") if data else None
+    if src == "Hugging Face":
+        sid = url.split("/spaces/", 1)[-1]
+        data = get_json(f"https://huggingface.co/api/spaces/{sid}")
+        return data.get("likes") if data else None
+    return None
+
+
 def weak_description(e: dict) -> bool:
     d = e.get("description", "")
     return len(d) < 25 or norm_name(d).startswith(norm_name(e["name"])) and len(d) < len(e["name"]) + 25
@@ -429,10 +454,13 @@ def maintain(data: list[dict], batch: int) -> tuple[int, int]:
     removed = enriched = 0
     with cf.ThreadPoolExecutor(max_workers=16) as pool:
         results = dict(zip((e["id"] for e in todo), pool.map(lambda e: probe(e["url"]), todo)))
+        votes = dict(zip((e["id"] for e in todo), pool.map(fetch_votes, todo)))
     dead_ids = set()
     for e in todo:
         status, meta = results[e["id"]]
         e["checked"] = TODAY
+        if votes[e["id"]] is not None:
+            e["votes"] = max(votes[e["id"]], e.get("votes", 0))
         if status == "dead":
             e["fails"] = e.get("fails", 0) + 1
             if e["fails"] >= 2 and not e.get("featured"):

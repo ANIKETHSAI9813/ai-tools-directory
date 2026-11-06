@@ -5,14 +5,14 @@
   const PAGE = 50;
   const SAVED_KEY = 'aiToolsDirectory.bookmarks'; // same key as before, so old bookmarks survive
   const $ = (id) => document.getElementById(id);
-  const els = { q: $('q'), cat: $('cat'), sort: $('sort'), saved: $('saved'), savedCount: $('savedCount'),
+  const els = { q: $('q'), cat: $('cat'), tabs: $('tabs'), saved: $('saved'), savedCount: $('savedCount'),
                 list: $('list'), more: $('more'), status: $('status'), count: $('count'), tpl: $('item') };
 
   let tools = [];
   let results = [];
   let shown = 0;
   let saved = loadSaved();
-  const state = { q: '', cat: '', sort: 'new', saved: false };
+  const state = { q: '', cat: '', sort: 'popular', saved: false };
 
   // ---- data ---------------------------------------------------------------
   fetch('data.json', { cache: 'no-cache' })
@@ -25,12 +25,25 @@
         _name: (t.name || '').toLowerCase(),
         _text: [t.name, t.description, t.category, t.source].join(' ').toLowerCase(),
       }));
+      rankPopularity(tools);
       els.count.textContent = tools.length.toLocaleString() + ' tools.';
       buildCategories();
       readUrl();
       update();
     })
     .catch(() => { els.status.textContent = 'Could not load the directory. Refresh to try again.'; });
+
+  // Sources count popularity differently (HN points, GitHub stars, HF likes), so
+  // each tool gets its percentile within its own source. Tools without a count rank last.
+  function rankPopularity(list) {
+    const bySource = {};
+    list.filter((t) => t.votes != null).forEach((t) => (bySource[t.source] ||= []).push(t));
+    Object.values(bySource).forEach((group) => {
+      group.sort((a, b) => a.votes - b.votes);
+      group.forEach((t, i) => { t._pop = group.length > 1 ? i / (group.length - 1) : 0.5; });
+    });
+    list.forEach((t) => { if (t._pop == null) t._pop = -1; });
+  }
 
   function buildCategories() {
     const counts = {};
@@ -54,7 +67,8 @@
 
     const byNew = (a, b) => (b.added || '').localeCompare(a.added || '') || a._name.localeCompare(b._name);
     const byName = (a, b) => a._name.localeCompare(b._name);
-    const base = state.sort === 'az' ? byName : byNew;
+    const byPop = (a, b) => b._pop - a._pop || (b.votes || 0) - (a.votes || 0) || byNew(a, b);
+    const base = { az: byName, new: byNew, popular: byPop }[state.sort];
 
     if (words.length) {
       const score = (t) => words.reduce((s, w) =>
@@ -94,7 +108,8 @@
     a.textContent = t.name;
     a.href = safeUrl(t.url);
     li.querySelector('.desc').textContent = t.description || '';
-    li.querySelector('.meta').textContent = [t.category, t.source, formatDate(t.added)].filter(Boolean).join(' · ');
+    li.querySelector('.meta').textContent =
+      [t.category, t.source, votesLabel(t), formatDate(t.added)].filter(Boolean).join(' · ');
     const btn = li.querySelector('.save');
     setSaved(btn, saved.has(String(t.id)));
     btn.addEventListener('click', () => toggleSave(t, btn));
@@ -123,17 +138,21 @@
     const p = new URLSearchParams(location.search);
     state.q = p.get('q') || '';
     state.cat = p.get('cat') || '';
-    state.sort = p.get('sort') === 'az' ? 'az' : 'new';
+    state.sort = ['az', 'new'].includes(p.get('sort')) ? p.get('sort') : 'popular';
     els.q.value = state.q;
     els.cat.value = state.cat;
     if (els.cat.value !== state.cat) state.cat = els.cat.value = '';
-    els.sort.value = state.sort;
+    setTab();
+  }
+  function setTab() {
+    els.tabs.querySelectorAll('button').forEach((b) =>
+      b.setAttribute('aria-current', String(b.dataset.sort === state.sort)));
   }
   function writeUrl() {
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q);
     if (state.cat) p.set('cat', state.cat);
-    if (state.sort !== 'new') p.set('sort', state.sort);
+    if (state.sort !== 'popular') p.set('sort', state.sort);
     const qs = p.toString();
     history.replaceState(null, '', qs ? '?' + qs : location.pathname);
   }
@@ -141,6 +160,12 @@
   // ---- helpers ------------------------------------------------------------
   function safeUrl(u) {
     try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : '#'; } catch (e) { return '#'; }
+  }
+  function votesLabel(t) {
+    if (t.votes == null) return '';
+    const unit = { 'Hacker News': 'point', GitHub: 'star', 'Hugging Face': 'like' }[t.source] || 'vote';
+    const n = t.votes >= 10000 ? Math.round(t.votes / 1000) + 'k' : t.votes >= 1000 ? (t.votes / 1000).toFixed(1) + 'k' : String(t.votes);
+    return `${n} ${unit}${t.votes === 1 ? '' : 's'}`;
   }
   function formatDate(d) {
     if (!d) return '';
@@ -155,7 +180,13 @@
   // ---- events -------------------------------------------------------------
   els.q.addEventListener('input', debounce(() => { state.q = els.q.value.trim(); update(); }, 120));
   els.cat.addEventListener('change', () => { state.cat = els.cat.value; update(); });
-  els.sort.addEventListener('change', () => { state.sort = els.sort.value; update(); });
+  els.tabs.addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-sort]');
+    if (!b || b.dataset.sort === state.sort) return;
+    state.sort = b.dataset.sort;
+    setTab();
+    update();
+  });
   els.saved.addEventListener('click', () => {
     state.saved = !state.saved;
     els.saved.setAttribute('aria-pressed', String(state.saved));

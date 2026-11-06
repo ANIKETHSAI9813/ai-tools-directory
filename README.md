@@ -21,7 +21,7 @@ A searchable list of AI and developer tools that maintains itself. A daily GitHu
 
 Every candidate is cleaned (titles like `Name – what it does` are split into a name and description; emoji and repeated names are stripped), categorized by keyword scoring, checked against an NSFW blocklist, and de-duplicated by link and by name.
 
-**2. Maintain** — each run re-checks 300 existing links (oldest-checked first). An entry is removed after **two consecutive** dead results (HTTP 404/410/451 or the domain no longer resolves); timeouts and bot-blocking responses don't count. Entries with a weak description get the page's meta description instead.
+**2. Maintain** — each run re-checks 300 existing links (oldest-checked first). An entry is removed after **two consecutive** dead results (HTTP 404/410/451 or the domain no longer resolves); timeouts and bot-blocking responses don't count. Entries with a weak description get the page's meta description instead, and vote counts are refreshed from the source.
 
 Run it locally (Python 3.10+, standard library only):
 
@@ -40,7 +40,8 @@ Set `GITHUB_TOKEN` to raise GitHub's search rate limit (Actions does this automa
 Static HTML/CSS/JS, no framework or build step: `index.html`, `style.css`, `app.js`.
 
 - Search matches every word in any order across name, description, category and source; name matches rank first. Press `/` to focus it.
-- Filter by category, sort by newest or A–Z, save tools (stored in `localStorage`).
+- Three views: **Most popular** (default), **Recently added**, and **A–Z**. Popularity uses each source's own count (HN points, GitHub stars, Hugging Face likes), ranked as a percentile within that source so the sources mix fairly. Product Hunt's feed has no vote counts, so those tools sort last in that view.
+- Filter by category and save tools (stored in `localStorage`).
 - The search and filters are kept in the URL, so a filtered view can be shared.
 - Renders 50 results at a time; follows the system light/dark setting.
 
@@ -59,6 +60,7 @@ Run it locally: `python3 -m http.server 8000`, then open http://localhost:8000.
   "url": "https://github.com/example/rustable",
   "source": "Hacker News",
   "added": "2026-11-06",
+  "votes": 104,
   "checked": "2026-11-06"
 }
 ```
